@@ -1,12 +1,32 @@
 import { Page } from 'puppeteer'
 
-import { JOTUN_BASE_URL } from '@/lib/constants'
-import { RGB } from '@/lib/types'
+import { JOTUN_API, JOTUN_TOTAL_PAGE, JOTUN_URL } from '@/lib/constants'
+import { Color, RGB } from '@/lib/types'
+import { delay, isElementExist, writeJSONFile } from '@/lib/utils'
 
 export async function scrapJotunColor(page: Page) {
-	await page.goto(JOTUN_BASE_URL)
+	await page.goto(JOTUN_URL, { waitUntil: 'networkidle2' })
 
-	const colors = await page.evaluate(() => {
+	await page.locator(':scope >>> ::-p-text(Reject All)').click()
+
+	await delay(1000)
+	await page.locator(':scope >>> ::-p-text(Hapus pencarian)').click()
+
+	for (
+		let index = 0;
+		index < JOTUN_TOTAL_PAGE &&
+		(await isElementExist(page, ':scope >>> ::-p-text(Muat lebih banyak)'));
+		index++
+	) {
+		await page.locator(':scope >>> ::-p-text(Muat lebih banyak)').click()
+
+		await page.waitForResponse(
+			(response) =>
+				response.url().startsWith(JOTUN_API) && response.status() === 200,
+		)
+	}
+
+	const colors: Color[] = await page.evaluate(() => {
 		function capitalize(name: string): string {
 			return name
 				.split(' ')
@@ -29,22 +49,23 @@ export async function scrapJotunColor(page: Page) {
 		}
 
 		const colorElements = Array.from(
-			document.querySelectorAll('[class^="ColourGridstyles__Colour-sc"]'),
+			document.querySelectorAll('[class^="ColourListstyles__Colour-sc"]'),
 		)
 
-		const data = colorElements.map((colorElement) => {
+		const data: Color[] = colorElements.map((colorElement) => {
 			const nameElement = colorElement.querySelector(
-				'[class^="ColourGridstyles__NameWrap-sc"]',
+				'[class^="ColourListstyles__NameWrap-sc"]',
 			)
 			const codeElement = colorElement.querySelector(
-				'[class^="ColourGridstyles__ColourCode-sc"]',
+				'[class^="ColourListstyles__ColourCode-sc"]',
 			)
 			const hexCodeElement = colorElement.querySelector(
-				'[class^= "ColourGridstyles__ColourBlock-sc"]',
+				'[class^= "ColourListstyles__ColourBlock-sc"]',
 			)
 
 			return {
 				brand: 'Jotun',
+				product: '',
 				name: nameElement ? capitalize(nameElement.textContent as string) : '',
 				code: codeElement ? (codeElement.textContent as string) : '',
 				hexCode: hexCodeElement
@@ -60,5 +81,5 @@ export async function scrapJotunColor(page: Page) {
 		return data
 	})
 
-	return colors
+	writeJSONFile('jotun-colors.json', colors)
 }
