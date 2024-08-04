@@ -2,6 +2,8 @@ import fs from 'fs'
 import path from 'path'
 import { Page } from 'puppeteer'
 
+import { RGB } from '@/lib/types'
+
 export async function delay(duration: number) {
 	return new Promise((resolve) => setTimeout(resolve, duration))
 }
@@ -26,4 +28,18 @@ export function writeJSONFile(filename: string, data: any) {
 			console.log('File has been written')
 		}
 	})
+}
+
+function rgbToHexCode({ r, g, b }: RGB): string {
+	return `#${r.toString(16)}${g.toString(16)}${b.toString(16)}`.toUpperCase()
+}
+
+function computedBackgroundToRGB(style: string): RGB {
+	const [r, g, b] = style.split(')')[0].split('(')[1].split(' ')
+
+	return { r: parseInt(r), g: parseInt(g), b: parseInt(b) }
+}
+
+export function computedBackgroundToHexCode(style: string): string {
+	return rgbToHexCode(computedBackgroundToRGB(style))
 }
