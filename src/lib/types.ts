@@ -1,8 +1,8 @@
 export type Color = {
 	brand: string
-	product?: string
+	product: string
 	name: string
-	code?: string
+	code: string
 	hexCode: string
 }
 

@@ -1,10 +1,10 @@
 import { Page } from 'puppeteer'
 
 import { JOTUN_API, JOTUN_TOTAL_PAGE, JOTUN_URL } from '@/lib/constants'
-import { Color, RGB } from '@/lib/types'
+import { Color } from '@/lib/types'
 import { delay, isElementExist, writeJSONFile } from '@/lib/utils'
 
-export async function scrapJotunColor(page: Page) {
+export async function scrapJotunColors(page: Page) {
 	await page.goto(JOTUN_URL, { waitUntil: 'networkidle2' })
 
 	await page.locator(':scope >>> ::-p-text(Reject All)').click()
@@ -26,7 +26,7 @@ export async function scrapJotunColor(page: Page) {
 		)
 	}
 
-	const colors: Color[] = await page.evaluate(() => {
+	const colors: Color[] = await page.evaluate(async () => {
 		function capitalize(name: string): string {
 			return name
 				.split(' ')
@@ -38,45 +38,37 @@ export async function scrapJotunColor(page: Page) {
 				.join(' ')
 		}
 
-		function rgbToHexCode({ r, g, b }: RGB): string {
-			return `#${r.toString(16)}${g.toString(16)}${b.toString(16)}`.toUpperCase()
-		}
-
-		function computedBackgroundToRGB(style: string): RGB {
-			const [r, g, b] = style.split(')')[0].split('(')[1].split(' ')
-
-			return { r: parseInt(r), g: parseInt(g), b: parseInt(b) }
-		}
-
 		const colorElements = Array.from(
 			document.querySelectorAll('[class^="ColourListstyles__Colour-sc"]'),
 		)
 
-		const data: Color[] = colorElements.map((colorElement) => {
-			const nameElement = colorElement.querySelector(
-				'[class^="ColourListstyles__NameWrap-sc"]',
-			)
-			const codeElement = colorElement.querySelector(
-				'[class^="ColourListstyles__ColourCode-sc"]',
-			)
-			const hexCodeElement = colorElement.querySelector(
-				'[class^= "ColourListstyles__ColourBlock-sc"]',
-			)
+		const data: Color[] = await Promise.all(
+			colorElements.map(async (colorElement) => {
+				const nameElement = colorElement.querySelector(
+					'[class^="ColourListstyles__NameWrap-sc"]',
+				)
+				const codeElement = colorElement.querySelector(
+					'[class^="ColourListstyles__ColourCode-sc"]',
+				)
+				const hexCodeElement = colorElement.querySelector(
+					'[class^= "ColourListstyles__ColourBlock-sc"]',
+				)
 
-			return {
-				brand: 'Jotun',
-				product: '',
-				name: nameElement ? capitalize(nameElement.textContent as string) : '',
-				code: codeElement ? (codeElement.textContent as string) : '',
-				hexCode: hexCodeElement
-					? rgbToHexCode(
-							computedBackgroundToRGB(
+				return {
+					brand: 'Jotun',
+					product: '',
+					name: nameElement
+						? capitalize(nameElement.textContent as string)
+						: '',
+					code: codeElement ? (codeElement.textContent as string) : '',
+					hexCode: hexCodeElement
+						? await (window as any).computedBackgroundToHexCode(
 								getComputedStyle(hexCodeElement).background,
-							),
-						)
-					: '',
-			}
-		})
+							)
+						: '',
+				}
+			}),
+		)
 
 		return data
 	})
