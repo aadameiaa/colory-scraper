@@ -43,3 +43,13 @@ function computedBackgroundToRGB(style: string): RGB {
 export function computedBackgroundToHexCode(style: string): string {
 	return rgbToHexCode(computedBackgroundToRGB(style))
 }
+
+export function capitalize(name: string): string {
+	return name
+		.split(' ')
+		.map(
+			(word) =>
+				word.charAt(0).toUpperCase() + word.slice(1, word.length).toLowerCase(),
+		)
+		.join(' ')
+}

@@ -1,4620 +1,3960 @@
 [
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Fresh Pasta",
 		"code": "1775",
 		"hexCode": "#E9DAB1"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Morning Fog",
 		"code": "9918",
 		"hexCode": "#F0EFEA"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Mexico",
 		"code": "0288",
 		"hexCode": "#B99E6B"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Cactus",
 		"code": "0274",
 		"hexCode": "#D7C088"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Velvet",
 		"code": "10246",
 		"hexCode": "#D6BD90"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Vandyke Brown",
 		"code": "10249",
 		"hexCode": "#79736D"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Washed Linen",
 		"code": "10679",
 		"hexCode": "#C9C3B6"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Soft Radiance",
 		"code": "12080",
 		"hexCode": "#D9CCAF"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Silky Yellow",
 		"code": "12081",
 		"hexCode": "#CCBD9D"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Desert Pink",
 		"code": "12120",
 		"hexCode": "#BF9F86"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Natural Green",
 		"code": "8575",
 		"hexCode": "#7A7861"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Bella",
 		"code": "2489",
 		"hexCode": "#D9926D"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Light Eggplant",
 		"code": "3206",
 		"hexCode": "#9D9697"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Macchiato",
 		"code": "1359",
 		"hexCode": "#CEC1B1"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Antique Yellow",
 		"code": "1392",
 		"hexCode": "#D4B58B"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Heath Violet",
 		"code": "4177",
 		"hexCode": "#D0D7DE"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Blue Harmony",
 		"code": "4594",
 		"hexCode": "#6B717C"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Summer Snow",
 		"code": "1928",
 		"hexCode": "#E4E2D7"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Icy Blue",
 		"code": "5044",
 		"hexCode": "#808D92"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Alda",
 		"code": "8331",
 		"hexCode": "#9C9D60"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Arctic Grey",
 		"code": "5249",
 		"hexCode": "#919DA0"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Industrial Grey",
 		"code": "5343",
 		"hexCode": "#8D908F"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Dusty Rose",
 		"code": "20055",
 		"hexCode": "#A0847A"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Local Green",
 		"code": "8546",
 		"hexCode": "#948A6F"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Orchid Green",
 		"code": "8004",
 		"hexCode": "#9C964C"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Amber Red",
 		"code": "20118",
 		"hexCode": "#9B6C5C"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Industrial Blue",
 		"code": "5455",
 		"hexCode": "#4E616C"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Daydream",
 		"code": "20142",
 		"hexCode": "#806A62"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Soft Teal",
 		"code": "6350",
 		"hexCode": "#9AA49E"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Wisdom",
 		"code": "20145",
 		"hexCode": "#615957"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Evening Green",
 		"code": "6352",
 		"hexCode": "#808985"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Empire",
 		"code": "0520",
 		"hexCode": "#CBCBC9"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Moss Green",
 		"code": "7354",
 		"hexCode": "#696A66"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Vintage Linen",
 		"code": "4165",
 		"hexCode": "#A6C4E0"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Airy Green",
 		"code": "7626",
 		"hexCode": "#D8DBCF"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Olive Dip",
 		"code": "1782",
 		"hexCode": "#D49D45"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Lounge",
 		"code": "1930",
 		"hexCode": "#AF9478"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Ivy Dirt",
 		"code": "8362",
 		"hexCode": "#9B834B"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Carbon Black",
 		"code": "9920",
 		"hexCode": "#545351"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Fahm",
 		"code": "9925",
 		"hexCode": "#696967"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Rose Petals",
 		"code": "3180",
 		"hexCode": "#F2E5E0"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Feather",
 		"code": "2524",
 		"hexCode": "#DFD7CD"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Callie Purple",
 		"code": "4149",
 		"hexCode": "#B8AFC4"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Violet",
 		"code": "4392",
 		"hexCode": "#957AA1"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Violet Dreams",
 		"code": "4488",
 		"hexCode": "#C9B9D5"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Freedom",
 		"code": "5167",
 		"hexCode": "#DADFDE"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Chini",
 		"code": "5180",
 		"hexCode": "#526064"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "White Heather",
 		"code": "8303",
 		"hexCode": "#D7D3C1"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Fudge",
 		"code": "10336",
 		"hexCode": "#6D5D50"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Lemon Zest",
 		"code": "7408",
 		"hexCode": "#D8E6C1"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Front",
 		"code": "1899",
 		"hexCode": "#716F69"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Marigold White",
 		"code": "8012",
 		"hexCode": "#EDE0A6"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Winery",
 		"code": "2846",
 		"hexCode": "#755352"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "White Comfort",
 		"code": "8395",
 		"hexCode": "#EBE9DE"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Sahl",
 		"code": "8277",
 		"hexCode": "#F4D550"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Teal Beige",
 		"code": "1966",
 		"hexCode": "#F0D5AC"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Spring Champagne",
 		"code": "1998",
 		"hexCode": "#DFCCAF"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Tuscany",
 		"code": "2225",
 		"hexCode": "#D2A993"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Oakwood",
 		"code": "2364",
 		"hexCode": "#957F72"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Rich Kashmir",
 		"code": "2711",
 		"hexCode": "#6A605C"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Mistral",
 		"code": "4011",
 		"hexCode": "#D7DDDF"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Night Shadow",
 		"code": "4686",
 		"hexCode": "#3B4760"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Blue View",
 		"code": "4691",
 		"hexCode": "#939BAF"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Cypress",
 		"code": "7040",
 		"hexCode": "#929D82"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Bayleaf",
 		"code": "7544",
 		"hexCode": "#7A877A"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Carbon Black",
 		"code": "9920",
 		"hexCode": "#545351"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Ivory White",
 		"code": "0566",
 		"hexCode": "#F4E9D6"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Dazzle Light",
 		"code": "0567",
 		"hexCode": "#F2EAD6"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Sensual Touch",
 		"code": "0767",
 		"hexCode": "#B8BCB7"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Beach Honey",
 		"code": "1122",
 		"hexCode": "#E8D5C3"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Tribal",
 		"code": "1187",
 		"hexCode": "#D39246"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Unicorn",
 		"code": "1188",
 		"hexCode": "#FAE3C4"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Coco Berry",
 		"code": "2133",
 		"hexCode": "#D39689"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Knight",
 		"code": "3009",
 		"hexCode": "#BFBCBB"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Alice Blue",
 		"code": "4241",
 		"hexCode": "#6A89A0"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Tree",
 		"code": "7528",
 		"hexCode": "#526A5C"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Persian Khaki",
 		"code": "1623",
 		"hexCode": "#AEA191"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Nutmeg",
 		"code": "1929",
 		"hexCode": "#A19485"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Antique White",
 		"code": "1016",
 		"hexCode": "#CDC5B5"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Golden Lily",
 		"code": "10406",
 		"hexCode": "#F2BF55"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Nobile",
 		"code": "1177",
 		"hexCode": "#E8C099"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Geranium",
 		"code": "4168",
 		"hexCode": "#7185B1"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Ascott",
 		"code": "0553",
 		"hexCode": "#C8C3B8"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Adventure",
 		"code": "11175",
 		"hexCode": "#A38269"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Peachy",
 		"code": "12074",
 		"hexCode": "#C1A082"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Wild Earl",
 		"code": "1876",
 		"hexCode": "#D4CBB9"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Pistachio",
 		"code": "7386",
 		"hexCode": "#C8CDAF"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Tudor",
 		"code": "0552",
 		"hexCode": "#E1DCD1"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Summer Sun",
 		"code": "10235",
 		"hexCode": "#E9CE8D"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Ginseng",
 		"code": "10245",
 		"hexCode": "#DDCEB0"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Iron Grey",
 		"code": "1032",
 		"hexCode": "#AAA79F"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Masala",
 		"code": "10428",
 		"hexCode": "#C79F6E"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Discrete",
 		"code": "10429",
 		"hexCode": "#8C867E"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Space",
 		"code": "10678",
 		"hexCode": "#D6CFBF"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Hipster Brown",
 		"code": "10965",
 		"hexCode": "#857C6E"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Refined Yellow",
 		"code": "12082",
 		"hexCode": "#C2B08D"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Dusky Peach",
 		"code": "12084",
 		"hexCode": "#C0A78D"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Impression",
 		"code": "12125",
 		"hexCode": "#BBA78E"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Grand Shadow",
 		"code": "1288",
 		"hexCode": "#B9AF9B"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Magic Powder",
 		"code": "3115",
 		"hexCode": "#DCB0BB"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Dream",
 		"code": "3154",
 		"hexCode": "#ECEAEC"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Olive Brown",
 		"code": "1362",
 		"hexCode": "#7F644C"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Dusty Purple",
 		"code": "3343",
 		"hexCode": "#7D6668"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Slate Lavender",
 		"code": "3377",
 		"hexCode": "#8E8687"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Pilaster Blue",
 		"code": "4017",
 		"hexCode": "#9CAAB2"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Bare",
 		"code": "1391",
 		"hexCode": "#D4D3C9"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Dark Indigo",
 		"code": "4623",
 		"hexCode": "#5D5A63"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Rain Sky",
 		"code": "4627",
 		"hexCode": "#D3DBE0"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Sophisticated Blue",
 		"code": "4744",
 		"hexCode": "#454A4D"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Nutmeg",
 		"code": "1929",
 		"hexCode": "#A19485"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Hope",
 		"code": "8565",
 		"hexCode": "#AFAD88"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Lake View",
 		"code": "5225",
 		"hexCode": "#BACFCF"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Svalbard Sea",
 		"code": "5262",
 		"hexCode": "#D0DDDC"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Blushing Peach",
 		"code": "20047",
 		"hexCode": "#C3A590"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Imagine",
 		"code": "6383",
 		"hexCode": "#ADC0B7"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Grounded Red",
 		"code": "20144",
 		"hexCode": "#92695A"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Retro Blue",
 		"code": "5159",
 		"hexCode": "#6F8D9A"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Hint Of Cream",
 		"code": "0384",
 		"hexCode": "#F5EAD5"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Ursula",
 		"code": "3331",
 		"hexCode": "#936D80"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Orangutan",
 		"code": "1882",
 		"hexCode": "#FCD9BA"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Tomato",
 		"code": "3203",
 		"hexCode": "#BD707B"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Rose Basket",
 		"code": "2619",
 		"hexCode": "#E4AEA9"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Salsa",
 		"code": "2452",
 		"hexCode": "#B54E45"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Oriental Red",
 		"code": "2185",
 		"hexCode": "#C34644"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Wispy Grey",
 		"code": "5028",
 		"hexCode": "#CDD3D2"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "White Pepper",
 		"code": "8282",
 		"hexCode": "#E4E2D6"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Beryl Charm",
 		"code": "6191",
 		"hexCode": "#A5E3DC"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Laurel",
 		"code": "8302",
 		"hexCode": "#B0AE96"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Heather Beige",
 		"code": "1878",
 		"hexCode": "#A29385"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Enchanted Garden",
 		"code": "8241",
 		"hexCode": "#BFC357"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Whispering Red",
 		"code": "2859",
 		"hexCode": "#985F56"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Lemongrass",
 		"code": "8247",
 		"hexCode": "#E2BD33"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Summer Meadow",
 		"code": "8249",
 		"hexCode": "#CEB769"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Thyme",
 		"code": "8304",
 		"hexCode": "#7C796E"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Regal Yellow",
 		"code": "1501",
 		"hexCode": "#FFB247"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Chateau",
 		"code": "1246",
 		"hexCode": "#D9B389"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Palladium",
 		"code": "1293",
 		"hexCode": "#C6C6C1"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Tea Leaves",
 		"code": "1938",
 		"hexCode": "#BBAB92"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Rich Clay",
 		"code": "1989",
 		"hexCode": "#DBD0B2"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Deep Burgundy",
 		"code": "3309",
 		"hexCode": "#5E4A4B"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Coastal Wave",
 		"code": "5041",
 		"hexCode": "#548895"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Cobalt",
 		"code": "6198",
 		"hexCode": "#4F6B6A"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Olive",
 		"code": "8284",
 		"hexCode": "#B8A87F"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Raw Canvas",
 		"code": "10961",
 		"hexCode": "#BEAF97"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Sinai",
 		"code": "1111",
 		"hexCode": "#C69E5C"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Spray Tan",
 		"code": "1193",
 		"hexCode": "#D4874A"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Fire Brick",
 		"code": "2131",
 		"hexCode": "#C8785D"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Tender Green",
 		"code": "6351",
 		"hexCode": "#B7C1BD"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Grove",
 		"code": "8050",
 		"hexCode": "#85775B"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Sunny Spot",
 		"code": "8054",
 		"hexCode": "#EFCB6B"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Bare",
 		"code": "1391",
 		"hexCode": "#D4D3C9"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Oxford River",
 		"code": "9915",
 		"hexCode": "#D5D4CF"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Navajo White",
 		"code": "1075",
 		"hexCode": "#EDE3CA"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Chocolate",
 		"code": "2392",
 		"hexCode": "#6A5044"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Tawny Earth",
 		"code": "20235",
 		"hexCode": "#9F6251"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Spring Dew",
 		"code": "8159",
 		"hexCode": "#EDEFE5"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Serene Mint",
 		"code": "8084",
 		"hexCode": "#C9C9B6"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Sage",
 		"code": "8294",
 		"hexCode": "#9B9C8F"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Urban Light",
 		"code": "4507",
 		"hexCode": "#DDE5EC"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Muted Coral",
 		"code": "20217",
 		"hexCode": "#BB7D69"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Soft Brown",
 		"code": "12291",
 		"hexCode": "#89755F"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Free Spirit",
 		"code": "5489",
 		"hexCode": "#6B7E7E"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Light Antique",
 		"code": "0471",
 		"hexCode": "#EAE5DA"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Egg White",
 		"code": "1001",
 		"hexCode": "#EFEDE3"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "White Linen",
 		"code": "10182",
 		"hexCode": "#CFCAC1"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Olive Garden ",
 		"code": "10248",
 		"hexCode": "#958468"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Belgian Brown",
 		"code": "10385",
 		"hexCode": "#7F7160"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Cashmere",
 		"code": "10683",
 		"hexCode": "#B19C80"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Velvet Grey",
 		"code": "10835",
 		"hexCode": "#766F66"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Raw Canvas",
 		"code": "10961",
 		"hexCode": "#BEAF97"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Gleam",
 		"code": "12079",
 		"hexCode": "#E4DBC4"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Rustic Pink",
 		"code": "12086",
 		"hexCode": "#CAB7A7"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Collected Blue",
 		"code": "5530",
 		"hexCode": "#99A6A5"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Silhouette",
 		"code": "12126",
 		"hexCode": "#BFB49C"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Earthy Brown",
 		"code": "12127",
 		"hexCode": "#6F5846"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Rustic Brown",
 		"code": "11012",
 		"hexCode": "#887E6E"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Dawn",
 		"code": "1269",
 		"hexCode": "#C0BFB7"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Mild",
 		"code": "1275",
 		"hexCode": "#E6E0D0"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Mediterranean Olive",
 		"code": "1109",
 		"hexCode": "#CDB385"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Dusty Red",
 		"code": "2995",
 		"hexCode": "#806159"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Cheerful Peach",
 		"code": "1520",
 		"hexCode": "#F0CFA5"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Romantic",
 		"code": "1304",
 		"hexCode": "#EFE2C4"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Dark Pine",
 		"code": "1337",
 		"hexCode": "#E8BE7A"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Tender Grey",
 		"code": "1352",
 		"hexCode": "#9B948A"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Sun",
 		"code": "1369",
 		"hexCode": "#EBD2A3"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Gustavian Blue",
 		"code": "4109",
 		"hexCode": "#9DA9B2"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Clear",
 		"code": "1442",
 		"hexCode": "#F4EEDF"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Soul",
 		"code": "1625",
 		"hexCode": "#ECE8D7"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Paige",
 		"code": "4520",
 		"hexCode": "#E5E9E9"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Nordic Seas",
 		"code": "4625",
 		"hexCode": "#4D6475"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Tea Leaves",
 		"code": "1938",
 		"hexCode": "#BBAB92"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Objective",
 		"code": "1973",
 		"hexCode": "#BFBCB2"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Organic Green",
 		"code": "8494",
 		"hexCode": "#646556"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Cadet Steel ",
 		"code": "5351",
 		"hexCode": "#85A1AE"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Wish",
 		"code": "6384",
 		"hexCode": "#89A5A2"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Transparent Pink",
 		"code": "20119",
 		"hexCode": "#DACEC0"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Balance",
 		"code": "6325",
 		"hexCode": "#717E79"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Samik Ivory",
 		"code": "1065",
 		"hexCode": "#E6DBCA"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Lotus Root",
 		"code": "1108",
 		"hexCode": "#E4DDCA"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Scent ",
 		"code": "2168",
 		"hexCode": "#D8CAC2"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Earthy",
 		"code": "12198",
 		"hexCode": "#9F7D6B"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Earthy Sand",
 		"code": "12199",
 		"hexCode": "#B7A694"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Desert Dunes",
 		"code": "12200",
 		"hexCode": "#DBC9B6"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Soft Mint",
 		"code": "7555",
 		"hexCode": "#C9D0C5"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Rubin",
 		"code": "3324",
 		"hexCode": "#895355"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Memento",
 		"code": "1991",
 		"hexCode": "#BFA47F"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Solid",
 		"code": "2363",
 		"hexCode": "#81746D"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Bliss",
 		"code": "2374",
 		"hexCode": "#F8DFD3"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Spring Foliage ",
 		"code": "8088",
 		"hexCode": "#BEAF7C"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Silver Tone",
 		"code": "8094",
 		"hexCode": "#9D9C95"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Zircon",
 		"code": "3014",
 		"hexCode": "#C9C0C0"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Spring Dew",
 		"code": "8159",
 		"hexCode": "#EDEFE5"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Movement",
 		"code": "3325",
 		"hexCode": "#B2A3A6"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Burdan",
 		"code": "2495",
 		"hexCode": "#EB895C"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Ski Slope",
 		"code": "4397",
 		"hexCode": "#CEE0EA"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Tiramisu",
 		"code": "2201",
 		"hexCode": "#A3978D"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Light Granite",
 		"code": "2040",
 		"hexCode": "#D3B9A5"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Pacific Dye",
 		"code": "5039",
 		"hexCode": "#C9DADB"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Pale Linden",
 		"code": "8281",
 		"hexCode": "#C6C6B6"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Antique Brass",
 		"code": "2011",
 		"hexCode": "#BD9683"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Mint Julep",
 		"code": "7010",
 		"hexCode": "#D9E0D3"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Celery Stick",
 		"code": "8240",
 		"hexCode": "#D7DC8D"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Sienna Orange",
 		"code": "1779",
 		"hexCode": "#FFC45A"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Metamorph",
 		"code": "8242",
 		"hexCode": "#B5B73D"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Guacamole Mix",
 		"code": "8248",
 		"hexCode": "#CEC094"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Pale Green",
 		"code": "8478",
 		"hexCode": "#BABAA5"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Sunrise Gleam",
 		"code": "1216",
 		"hexCode": "#DFAC78"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Muesli",
 		"code": "1421",
 		"hexCode": "#8C7360"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Rosetta Stone",
 		"code": "2573",
 		"hexCode": "#CBC5BD"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Steady Brown",
 		"code": "2803",
 		"hexCode": "#7B453F"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Shadow Purple",
 		"code": "3047",
 		"hexCode": "#94888F"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Snow-white",
 		"code": "5001",
 		"hexCode": "#E8EEEB"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "River Bank",
 		"code": "5310",
 		"hexCode": "#758589"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Washed Green",
 		"code": "7379",
 		"hexCode": "#A0AD9E"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Fudge",
 		"code": "10336",
 		"hexCode": "#6D5D50"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Desert Rose",
 		"code": "1046",
 		"hexCode": "#E6C1A0"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Miami Coral",
 		"code": "1197",
 		"hexCode": "#E49E6B"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Flax",
 		"code": "2132",
 		"hexCode": "#AA5A44"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Yellow Stone",
 		"code": "2206",
 		"hexCode": "#F6BE79"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Rouge",
 		"code": "2401",
 		"hexCode": "#9D5F55"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Ice Lilac",
 		"code": "4684",
 		"hexCode": "#A2A2AE"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Green Spring",
 		"code": "8067",
 		"hexCode": "#D2CC7A"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Smooth Ivory",
 		"code": "1038",
 		"hexCode": "#E9D6B8"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Old Lace",
 		"code": "1574",
 		"hexCode": "#EDE7D6"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Skylight",
 		"code": "1624",
 		"hexCode": "#F2F1E8"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Objective",
 		"code": "1973",
 		"hexCode": "#BFBCB2"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Lena",
 		"code": "8063",
 		"hexCode": "#B5A788"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Sahara Sand",
 		"code": "1132",
 		"hexCode": "#C5A88A"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Beaver",
 		"code": "1138",
 		"hexCode": "#79695D"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Satin Beige",
 		"code": "8011",
 		"hexCode": "#F1EFDB"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Dark Magnolia",
 		"code": "0254",
 		"hexCode": "#ECE5D2"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Early Rain",
 		"code": "0486",
 		"hexCode": "#EAE7DB"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Dijon Yellow",
 		"code": "10001",
 		"hexCode": "#A98259"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Peach",
 		"code": "1017",
 		"hexCode": "#EDCDA1"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Sandy",
 		"code": "10962",
 		"hexCode": "#A29179"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Smoked Oak",
 		"code": "10964",
 		"hexCode": "#6C6358"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Petals",
 		"code": "1156",
 		"hexCode": "#EEC88C"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Contemporary White",
 		"code": "12123",
 		"hexCode": "#E1DACA"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Natural Clay",
 		"code": "12124",
 		"hexCode": "#B07C5A"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Statement Red",
 		"code": "20207",
 		"hexCode": "#A6544A"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Poetry Red",
 		"code": "20208",
 		"hexCode": "#9B6156"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Cool Ash",
 		"code": "3037",
 		"hexCode": "#C6C3C5"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Shadow Black",
 		"code": "4143",
 		"hexCode": "#575B67"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Elegant",
 		"code": "1434",
 		"hexCode": "#605D58"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Evening Sky",
 		"code": "1462",
 		"hexCode": "#84817A"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Matt Silver",
 		"code": "4629",
 		"hexCode": "#82878B"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Dew Blue",
 		"code": "4710",
 		"hexCode": "#909799"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Mermaid Green",
 		"code": "5168",
 		"hexCode": "#D3E9E9"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Green Root",
 		"code": "8334",
 		"hexCode": "#848551"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Savanna Sunset",
 		"code": "20046",
 		"hexCode": "#AF8A76"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Dark Teal",
 		"code": "5454",
 		"hexCode": "#506364"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Serene Blue",
 		"code": "5490",
 		"hexCode": "#798484"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Organic Red",
 		"code": "20120",
 		"hexCode": "#987A6A"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Sea Emerald",
 		"code": "6084",
 		"hexCode": "#739592"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Tender Green",
 		"code": "6351",
 		"hexCode": "#B7C1BD"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Zest",
 		"code": "1626",
 		"hexCode": "#FBEABE"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Royale Berry",
 		"code": "3328",
 		"hexCode": "#8A5871"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Winter Mist",
 		"code": "1926",
 		"hexCode": "#C8C6BC"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Yellow Stone",
 		"code": "2206",
 		"hexCode": "#F6BE79"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Seashell",
 		"code": "2499",
 		"hexCode": "#CEC5B8"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Monroe",
 		"code": "2625",
 		"hexCode": "#AC4546"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Mountain Sunset",
 		"code": "2561",
 		"hexCode": "#E27744"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Artist Clay",
 		"code": "2588",
 		"hexCode": "#CBC0B9"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Butterfly",
 		"code": "2602",
 		"hexCode": "#F3A296"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Arctic Blue",
 		"code": "4445",
 		"hexCode": "#8FC8E8"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Green Harmony",
 		"code": "8252",
 		"hexCode": "#9E9B86"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Mystery Blue",
 		"code": "5304",
 		"hexCode": "#3A535B"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Stone",
 		"code": "1927",
 		"hexCode": "#D1CEC6"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Yellow Shan",
 		"code": "10038",
 		"hexCode": "#EFBB31"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Soft Savanna",
 		"code": "10430",
 		"hexCode": "#BCAA8F"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Chalk Ochre",
 		"code": "1909",
 		"hexCode": "#C49F71"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Embrace ",
 		"code": "12179",
 		"hexCode": "#B58D6F"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Gentle Whisper",
 		"code": "12182",
 		"hexCode": "#D2CBBF"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Tropic Ginger",
 		"code": "8070",
 		"hexCode": "#F2EAC6"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Apple White",
 		"code": "8190",
 		"hexCode": "#F0F1DF"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Deco Pink",
 		"code": "2782",
 		"hexCode": "#DBC4B7"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Magical Ink",
 		"code": "8244",
 		"hexCode": "#D1D976"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Green Leaf",
 		"code": "8469",
 		"hexCode": "#8A8774"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Delightful Pink",
 		"code": "2992",
 		"hexCode": "#CBAB9D"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Kilim",
 		"code": "2993",
 		"hexCode": "#714F44"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Pangolin",
 		"code": "2061",
 		"hexCode": "#8D5841"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Royal Blue",
 		"code": "4224",
 		"hexCode": "#23517A"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Dragon Red",
 		"code": "0587",
 		"hexCode": "#883E3C"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Fresh Concrete",
 		"code": "0556",
 		"hexCode": "#9C9891"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Quick Sand",
 		"code": "1153",
 		"hexCode": "#B7894A"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Moon Reflection",
 		"code": "4072",
 		"hexCode": "#637989"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Green Leaf",
 		"code": "8469",
 		"hexCode": "#8A8774"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Edelweiss",
 		"code": "1622",
 		"hexCode": "#EBE9E2"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Ebony",
 		"code": "9905",
 		"hexCode": "#ABA9A6"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Misty Grey",
 		"code": "1143",
 		"hexCode": "#B9B4AB"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Coral",
 		"code": "2031",
 		"hexCode": "#E7BFB6"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Mindful Green",
 		"code": "7686",
 		"hexCode": "#7C877C"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Silver Moon",
 		"code": "5081",
 		"hexCode": "#BBC0C0"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Soothing Beige",
 		"code": "12075",
 		"hexCode": "#CAC0AF"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Pearl",
 		"code": "0121",
 		"hexCode": "#D6D5CD"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "White Satin",
 		"code": "0201",
 		"hexCode": "#E0E0D4"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Soft Grey",
 		"code": "0394",
 		"hexCode": "#AFA99C"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Wild Rice",
 		"code": "1012",
 		"hexCode": "#E9D8B8"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Desert Sand",
 		"code": "1037",
 		"hexCode": "#E5DAC6"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Almond Beige",
 		"code": "10966",
 		"hexCode": "#A69A88"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Norwegian Wood",
 		"code": "10981",
 		"hexCode": "#7F5C47"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Mohair",
 		"code": "1233",
 		"hexCode": "#A49A8B"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Herb Garden",
 		"code": "8183",
 		"hexCode": "#B2A87F"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Dark Velvet",
 		"code": "3207",
 		"hexCode": "#70666C"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Deco Blue",
 		"code": "4477",
 		"hexCode": "#525C64"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Syrin",
 		"code": "4496",
 		"hexCode": "#C2C0C4"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Patina Rust",
 		"code": "8352",
 		"hexCode": "#EADBA8"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Dusky Blue",
 		"code": "5200",
 		"hexCode": "#9EADB2"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Wondergrass",
 		"code": "8325",
 		"hexCode": "#C3C86D"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Dark Olive",
 		"code": "8264",
 		"hexCode": "#A19579"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Pirate",
 		"code": "5306",
 		"hexCode": "#8EC0C2"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Betel",
 		"code": "7550",
 		"hexCode": "#ACC05D"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Jazz Grey",
 		"code": "9930",
 		"hexCode": "#B5B5B1"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Scooter ",
 		"code": "5397",
 		"hexCode": "#618B8C"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Ivory White",
 		"code": "0566",
 		"hexCode": "#F4E9D6"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Minty Breeze",
 		"code": "7163",
 		"hexCode": "#ACB2A8"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Chi",
 		"code": "7236",
 		"hexCode": "#F3F4EE"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Amethyne",
 		"code": "4497",
 		"hexCode": "#B4A2C0"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Cherry Swift",
 		"code": "4492",
 		"hexCode": "#EBEBEA"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Sand Gazelle",
 		"code": "12201",
 		"hexCode": "#CFC0AE"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Cosmic Mocha",
 		"code": "12202",
 		"hexCode": "#B6A286"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Vanilla",
 		"code": "1453",
 		"hexCode": "#F0EFE2"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Citronella",
 		"code": "1633",
 		"hexCode": "#FFD998"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Wiltshire Cream",
 		"code": "1648",
 		"hexCode": "#F9E4C7"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Vision",
 		"code": "2228",
 		"hexCode": "#F0EBE1"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Purple Ivory",
 		"code": "20192",
 		"hexCode": "#D5CAC2"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Gentile",
 		"code": "2048",
 		"hexCode": "#C28B6E"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Bermuda Pink",
 		"code": "3243",
 		"hexCode": "#EFAAB3"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Patisserie",
 		"code": "2615",
 		"hexCode": "#F7B9B3"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Petal Pink",
 		"code": "3021",
 		"hexCode": "#EDCDCD"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Ashes",
 		"code": "9937",
 		"hexCode": "#60605F"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Pashmina",
 		"code": "3186",
 		"hexCode": "#B49396"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Blue Lagoon",
 		"code": "4164",
 		"hexCode": "#6CA4D5"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Blue Ash",
 		"code": "4399",
 		"hexCode": "#D8E8EC"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Violet Sea",
 		"code": "4525",
 		"hexCode": "#5A6D99"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Red Maple",
 		"code": "2727",
 		"hexCode": "#795956"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Blue Whale",
 		"code": "5517",
 		"hexCode": "#7598A1"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Coral Reef Blue",
 		"code": "6385",
 		"hexCode": "#8C9E9C"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Rustic Terracotta",
 		"code": "2771",
 		"hexCode": "#9F7D6A"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Apple Frost",
 		"code": "7270",
 		"hexCode": "#E5EDD6"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Present",
 		"code": "12180",
 		"hexCode": "#B5AB9E"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Rusty",
 		"code": "1259",
 		"hexCode": "#A47251"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Inspirasjon",
 		"code": "8195",
 		"hexCode": "#EEE2BE"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Hollywood Hill",
 		"code": "8243",
 		"hexCode": "#95864B"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Lemon Sorbet",
 		"code": "8245",
 		"hexCode": "#FCE99E"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Yaz",
 		"code": "8278",
 		"hexCode": "#C9AF55"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Rug",
 		"code": "1245",
 		"hexCode": "#DDBF9C"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Front",
 		"code": "1899",
 		"hexCode": "#716F69"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Battleship Grey",
 		"code": "2109",
 		"hexCode": "#908580"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Old Fresco",
 		"code": "2458",
 		"hexCode": "#B8928C"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Innocence",
 		"code": "2536",
 		"hexCode": "#EAD9CD"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Roast Coffee",
 		"code": "2549",
 		"hexCode": "#574840"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Midnight Blue",
 		"code": "4403",
 		"hexCode": "#3D464E"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Evening Light",
 		"code": "4618",
 		"hexCode": "#77838C"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Matt Silver",
 		"code": "4629",
 		"hexCode": "#82878B"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Silver Clay",
 		"code": "5045",
 		"hexCode": "#AFC0C4"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Empire",
 		"code": "0520",
 		"hexCode": "#CBCBC9"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Khaki",
 		"code": "7039",
 		"hexCode": "#B5BAA2"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Nature Oasis",
 		"code": "8079",
 		"hexCode": "#92947C"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Suave",
 		"code": "9910",
 		"hexCode": "#727170"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Morning Fog",
 		"code": "9918",
 		"hexCode": "#F0EFEA"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Iron Grey",
 		"code": "1032",
 		"hexCode": "#AAA79F"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Old Cream",
 		"code": "1154",
 		"hexCode": "#FAE9C5"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Evening Stone",
 		"code": "1564",
 		"hexCode": "#686159"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Blushing Peach",
 		"code": "20047",
 		"hexCode": "#C3A590"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Celestial",
 		"code": "4069",
 		"hexCode": "#A0ACB6"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Bayside Blue",
 		"code": "4096",
 		"hexCode": "#95B6CA"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Brown Soil",
 		"code": "10254",
 		"hexCode": "#93897C"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Lotus Root",
 		"code": "1108",
 		"hexCode": "#E4DDCA"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Twilight",
 		"code": "9904",
 		"hexCode": "#E1E1DD"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Chi",
 		"code": "7236",
 		"hexCode": "#F3F4EE"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Mars Dust",
 		"code": "10012",
 		"hexCode": "#AA795A"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Pure Yellow",
 		"code": "10394",
 		"hexCode": "#D7C09C"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Fresh Spring",
 		"code": "8083",
 		"hexCode": "#D9D9C8"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Cashew",
 		"code": "1931",
 		"hexCode": "#E3DDCD"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Deep Soil ",
 		"code": "2300",
 		"hexCode": "#7E6A62"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "True Blue",
 		"code": "4947",
 		"hexCode": "#426884"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Subtle Green",
 		"code": "7685",
 		"hexCode": "#ABAF9B"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Fahm",
 		"code": "9925",
 		"hexCode": "#696967"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Antwerp Beige",
 		"code": "12290",
 		"hexCode": "#B9AF9F"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Edelweiss",
 		"code": "1622",
 		"hexCode": "#EBE9E2"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Palm Leaf",
 		"code": "0125",
 		"hexCode": "#758168"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Misty Shadow",
 		"code": "10578",
 		"hexCode": "#B7AFA3"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Modern Beige",
 		"code": "12076",
 		"hexCode": "#BFB3A3"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Nude Spice",
 		"code": "2591",
 		"hexCode": "#F9D7CB"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Pure Barley",
 		"code": "1334",
 		"hexCode": "#F5ECD6"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Little Princess",
 		"code": "3302",
 		"hexCode": "#EDE1E4"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Teal Zen",
 		"code": "4423",
 		"hexCode": "#A5BCC3"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Persian Khaki",
 		"code": "1623",
 		"hexCode": "#AEA191"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Thousand Nights",
 		"code": "4454",
 		"hexCode": "#DFE5E5"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Milky Way",
 		"code": "1832",
 		"hexCode": "#E7DFCD"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Piper Grey",
 		"code": "4622",
 		"hexCode": "#78767B"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Sense",
 		"code": "1875",
 		"hexCode": "#E6DFCE"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Elegant Blue",
 		"code": "4638",
 		"hexCode": "#657078"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Ocean Air",
 		"code": "4894",
 		"hexCode": "#9DAAAF"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "St. Pauls Blue",
 		"code": "5030",
 		"hexCode": "#697477"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Oak Sand",
 		"code": "1987",
 		"hexCode": "#CD965B"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Fusion",
 		"code": "5362",
 		"hexCode": "#4D6B6E"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Platinum",
 		"code": "9911",
 		"hexCode": "#BDBDBA"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Matrix",
 		"code": "9913",
 		"hexCode": "#7B7A79"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Lively Red",
 		"code": "20143",
 		"hexCode": "#A87362"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Exude Honey",
 		"code": "5281",
 		"hexCode": "#4A96A7"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Cityscape",
 		"code": "6379",
 		"hexCode": "#8C9893"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Wood Smoke",
 		"code": "0568",
 		"hexCode": "#DBCAB5"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Senses",
 		"code": "2024",
 		"hexCode": "#BEA795"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Sunkissed",
 		"code": "10541",
 		"hexCode": "#FCE5BB"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Yellowfin",
 		"code": "12185",
 		"hexCode": "#DEB679"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Northern Mystic",
 		"code": "7613",
 		"hexCode": "#696D61"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Cornsilk",
 		"code": "1356",
 		"hexCode": "#F4EFDA"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Antique Green",
 		"code": "7629",
 		"hexCode": "#8A8F81"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Exhale",
 		"code": "7637",
 		"hexCode": "#B7BDB3"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Thought",
 		"code": "3323",
 		"hexCode": "#5E5457"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Linen Grey",
 		"code": "2105",
 		"hexCode": "#D5D1C9"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Spring Air",
 		"code": "8087",
 		"hexCode": "#D6CBA4"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Amber Rush",
 		"code": "2613",
 		"hexCode": "#CD968F"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Crisp",
 		"code": "8118",
 		"hexCode": "#C5C6B8"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Suave",
 		"code": "9910",
 		"hexCode": "#727170"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Punch",
 		"code": "2456",
 		"hexCode": "#DE7569"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Cottonwood",
 		"code": "2500",
 		"hexCode": "#8A7E74"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Grey Event",
 		"code": "9912",
 		"hexCode": "#9E9F9D"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Beat",
 		"code": "2587",
 		"hexCode": "#C46854"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Winter Willow",
 		"code": "8200",
 		"hexCode": "#E2D9A5"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Pink Clay",
 		"code": "3404",
 		"hexCode": "#AB8883"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Gladiola",
 		"code": "4178",
 		"hexCode": "#BFCEE1"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Taaluk",
 		"code": "4214",
 		"hexCode": "#786087"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Soft Lilac",
 		"code": "4448",
 		"hexCode": "#DCD5E6"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Purple Candy",
 		"code": "4498",
 		"hexCode": "#9C8BA9"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Inglot",
 		"code": "4508",
 		"hexCode": "#C4D4EB"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Lavender Touch",
 		"code": "20186",
 		"hexCode": "#BBB2AC"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Midnight Floss",
 		"code": "4521",
 		"hexCode": "#AFC2E0"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Snow-white",
 		"code": "5001",
 		"hexCode": "#E8EEEB"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Lime Peel",
 		"code": "8265",
 		"hexCode": "#D8D394"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Friendly Pink",
 		"code": "20185",
 		"hexCode": "#C5B5A7"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Imperial Jade",
 		"code": "6032",
 		"hexCode": "#75CCC4"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Hibiscus",
 		"code": "2731",
 		"hexCode": "#9C5353"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Warm Blush",
 		"code": "2856",
 		"hexCode": "#AB8073"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Lime Mint",
 		"code": "8246",
 		"hexCode": "#E7CB63"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "White Poetry",
 		"code": "8394",
 		"hexCode": "#DFDFD7"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Fresh Pasta",
 		"code": "1775",
 		"hexCode": "#E9DAB1"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Smooth White",
 		"code": "8470",
 		"hexCode": "#CECBC0"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Olive",
 		"code": "8284",
 		"hexCode": "#B8A87F"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Silver Glass",
 		"code": "1268",
 		"hexCode": "#D0CFC7"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Light Mocha",
 		"code": "2024",
 		"hexCode": "#BEA795"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Sandstone",
 		"code": "2496",
 		"hexCode": "#CCC1B4"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Midnight",
 		"code": "3165",
 		"hexCode": "#615C5B"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Ruddy",
 		"code": "2794",
 		"hexCode": "#6E4D48"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Thunder Hero",
 		"code": "4226",
 		"hexCode": "#394F6C"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Thunder",
 		"code": "4687",
 		"hexCode": "#565E75"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Near Dusk",
 		"code": "5276",
 		"hexCode": "#D4DEDF"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Tar",
 		"code": "5366",
 		"hexCode": "#46494A"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Alphine Snow",
 		"code": "6317",
 		"hexCode": "#E2E5E2"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Dusty Green",
 		"code": "7543",
 		"hexCode": "#8D9B8D"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Thunder Grey",
 		"code": "8316",
 		"hexCode": "#C3C6B0"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Monsoon Cloud",
 		"code": "0562",
 		"hexCode": "#6A7275"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Yellow River",
 		"code": "1158",
 		"hexCode": "#D7A456"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Burned Sugar",
 		"code": "2097",
 		"hexCode": "#7C5E5A"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Brushed Granite",
 		"code": "3230",
 		"hexCode": "#A9A6A4"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "White Clay",
 		"code": "5272",
 		"hexCode": "#8F9494"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Oolong",
 		"code": "8073",
 		"hexCode": "#CDB361"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Platinum",
 		"code": "9911",
 		"hexCode": "#BDBDBA"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Sea Emerald",
 		"code": "6084",
 		"hexCode": "#739592"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Soya Milk",
 		"code": "1105",
 		"hexCode": "#F1EFE5"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Elegant",
 		"code": "1434",
 		"hexCode": "#605D58"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Vanilla",
 		"code": "1453",
 		"hexCode": "#F0EFE2"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Identity",
 		"code": "1859",
 		"hexCode": "#CFC0A4"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Gravel",
 		"code": "9933",
 		"hexCode": "#92928F"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Early Rain",
 		"code": "0486",
 		"hexCode": "#EAE7DB"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Coppertone",
 		"code": "1029",
 		"hexCode": "#D5AD8E"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Gimle",
 		"code": "1217",
 		"hexCode": "#B37F4B"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Maple Salmon",
 		"code": "2456",
 		"hexCode": "#DE7569"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Comfort Grey",
 		"code": "12078",
 		"hexCode": "#BEB9AF"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Malmo",
 		"code": "8124",
 		"hexCode": "#E4DCBC"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Earthy Yellow",
 		"code": "8583",
 		"hexCode": "#CDBC94"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Rock Sugar",
 		"code": "1632",
 		"hexCode": "#BD9E7A"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Healing Lavender",
 		"code": "20218",
 		"hexCode": "#A59D9A"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Sheer Grey",
 		"code": "12077",
 		"hexCode": "#CCC7BD"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Antique White",
 		"code": "1016",
 		"hexCode": "#CDC5B5"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Timeless",
 		"code": "1024",
 		"hexCode": "#E0DDD3"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Soft Touch",
 		"code": "10290",
 		"hexCode": "#DCD0BF"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Complexion",
 		"code": "10579",
 		"hexCode": "#D7CEC0"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Golden Bronze",
 		"code": "10963",
 		"hexCode": "#887760"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Curious Mind",
 		"code": "11174",
 		"hexCode": "#B7A992"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Sand",
 		"code": "1140",
 		"hexCode": "#CFC5B4"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Band Stone",
 		"code": "1145",
 		"hexCode": "#7F7971"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Dusk Green",
 		"code": "7038",
 		"hexCode": "#C4C7B1"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Hummus",
 		"code": "12118",
 		"hexCode": "#DACBB3"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Vintage Brown",
 		"code": "12119",
 		"hexCode": "#887D73"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Sophisticated Red",
 		"code": "2951",
 		"hexCode": "#7B5953"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Soft",
 		"code": "1276",
 		"hexCode": "#DCD1BA"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Rose Leaf",
 		"code": "3114",
 		"hexCode": "#C28597"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Classic Blue",
 		"code": "4062",
 		"hexCode": "#B8C0CA"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Vanilla Latte",
 		"code": "1519",
 		"hexCode": "#E5DAC8"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Chameleon",
 		"code": "4424",
 		"hexCode": "#9D9BA2"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Alladin",
 		"code": "4468",
 		"hexCode": "#C1CDD4"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Tangerine Blast",
 		"code": "1628",
 		"hexCode": "#E58040"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Warm Blue",
 		"code": "4624",
 		"hexCode": "#90969F"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Anonymous",
 		"code": "1864",
 		"hexCode": "#A68D6B"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Pebblestone",
 		"code": "1877",
 		"hexCode": "#96938B"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Statement Blue",
 		"code": "4863",
 		"hexCode": "#395068"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Clover Lane",
 		"code": "8323",
 		"hexCode": "#CED396"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Silky Pink",
 		"code": "20054",
 		"hexCode": "#BDA79F"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Blackened Black",
 		"code": "9938",
 		"hexCode": "#494948"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Mosley",
 		"code": "7418",
 		"hexCode": "#8AB14E"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Natural Blue",
 		"code": "5503",
 		"hexCode": "#88959A"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Daze Bayou",
 		"code": "5279",
 		"hexCode": "#2EA4B8"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Ivory",
 		"code": "0567",
 		"hexCode": "#F2EAD6"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Old Cream",
 		"code": "1154",
 		"hexCode": "#FAE9C5"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Arabian Tahr",
 		"code": "12184",
 		"hexCode": "#DDC4B1"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Bologna",
 		"code": "2115",
 		"hexCode": "#9C4B49"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Oryx White",
 		"code": "12218",
 		"hexCode": "#F3F0E4"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Sugartop Mountain",
 		"code": "2202",
 		"hexCode": "#B9ADA7"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Refresh",
 		"code": "7627",
 		"hexCode": "#CACFC3"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Orange Tart",
 		"code": "1787",
 		"hexCode": "#D79345"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Tea Flower",
 		"code": "2104",
 		"hexCode": "#E3DED5"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Aroma",
 		"code": "2169",
 		"hexCode": "#C5B1A8"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Pinkkins",
 		"code": "2612",
 		"hexCode": "#F8CDC4"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Coral Dune",
 		"code": "2604",
 		"hexCode": "#E26A5E"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "White Malva",
 		"code": "3144",
 		"hexCode": "#F0ECE6"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Moon Reflection",
 		"code": "4072",
 		"hexCode": "#637989"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Eternal Blue",
 		"code": "4108",
 		"hexCode": "#A7D2E7"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Lunar Plum",
 		"code": "4150",
 		"hexCode": "#9FB5E0"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Musk",
 		"code": "4447",
 		"hexCode": "#E8E5EB"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Fresh Feel",
 		"code": "4518",
 		"hexCode": "#C5DCEB"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Ice Turquoise",
 		"code": "5136",
 		"hexCode": "#BAE2E6"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Flow",
 		"code": "6235",
 		"hexCode": "#B1C3C1"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Hint Of Green",
 		"code": "7001",
 		"hexCode": "#E9EDE7"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Tangy",
 		"code": "10005",
 		"hexCode": "#F4A867"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Golden Kiwi",
 		"code": "8306",
 		"hexCode": "#B39C59"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Green Turtle",
 		"code": "7666",
 		"hexCode": "#778175"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Soft Comfort",
 		"code": "12181",
 		"hexCode": "#8A8176"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Akita",
 		"code": "8059",
 		"hexCode": "#E8D591"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Fresh Day",
 		"code": "8239",
 		"hexCode": "#DEE4A2"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Brunette",
 		"code": "1258",
 		"hexCode": "#867563"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Damascus Dusk",
 		"code": "2086",
 		"hexCode": "#CCA790"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Heavy Cream",
 		"code": "2595",
 		"hexCode": "#DAC4BA"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Brown Script",
 		"code": "2630",
 		"hexCode": "#8E6B66"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Tropez",
 		"code": "4071",
 		"hexCode": "#8B9AA7"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Blue Marine",
 		"code": "4400",
 		"hexCode": "#384B5A"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Mega Pipe",
 		"code": "4457",
 		"hexCode": "#A9B0B4"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Pale Teal",
 		"code": "5043",
 		"hexCode": "#88B3B1"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Sour Onion",
 		"code": "7037",
 		"hexCode": "#D0D9CB"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Green Smoke",
 		"code": "7052",
 		"hexCode": "#7B7E69"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Autumn Leaf",
 		"code": "8044",
 		"hexCode": "#6D6C5B"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Secret Garden",
 		"code": "8427",
 		"hexCode": "#ACA782"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Cream",
 		"code": "0981",
 		"hexCode": "#EAE3D4"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Pearl",
 		"code": "0121",
 		"hexCode": "#D6D5CD"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Blush Pink",
 		"code": "2046",
 		"hexCode": "#E9BEB3"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Rompin",
 		"code": "8064",
 		"hexCode": "#949346"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Evening Sky",
 		"code": "1462",
 		"hexCode": "#84817A"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Sandbeige",
 		"code": "1939",
 		"hexCode": "#B7AD9C"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Landscape",
 		"code": "8115",
 		"hexCode": "#978B71"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Creamy Beige",
 		"code": "10412",
 		"hexCode": "#DAD2C0"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Light Granite",
 		"code": "2040",
 		"hexCode": "#D3B9A5"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Summer Sun",
 		"code": "10235",
 		"hexCode": "#E9CE8D"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Golden Lily",
 		"code": "10406",
 		"hexCode": "#F2BF55"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Ice Poppy",
 		"code": "6279",
 		"hexCode": "#E2F0E8"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Solitude",
 		"code": "4099",
 		"hexCode": "#D5D3D8"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Trend",
 		"code": "4136",
 		"hexCode": "#C2BEC6"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Rural",
 		"code": "12085",
 		"hexCode": "#AF957A"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Mellow",
 		"code": "20162",
 		"hexCode": "#8B7467"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Shade",
 		"code": "11130",
 		"hexCode": "#9D9385"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Indi Pink",
 		"code": "2224",
 		"hexCode": "#D1B9AA"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Mist",
 		"code": "1376",
 		"hexCode": "#E5E0D4"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Green Tea",
 		"code": "8493",
 		"hexCode": "#9F9B7C"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Limestone",
 		"code": "10341",
 		"hexCode": "#D9D3C7"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Sable Stone",
 		"code": "10342",
 		"hexCode": "#BBB4A7"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Soft Skin",
 		"code": "10580",
 		"hexCode": "#CBBBAC"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Humble Yellow",
 		"code": "11173",
 		"hexCode": "#D3C5AB"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Orchid",
 		"code": "1171",
 		"hexCode": "#E8DDC4"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Devine",
 		"code": "12083",
 		"hexCode": "#D2BEA9"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Dusk Green",
 		"code": "7038",
 		"hexCode": "#C4C7B1"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Heat",
 		"code": "2994",
 		"hexCode": "#995F4D"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Burnt Ochre",
 		"code": "1536",
 		"hexCode": "#C99765"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Cappuccino",
 		"code": "1303",
 		"hexCode": "#CEBDA2"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Elderberry Crush",
 		"code": "3185",
 		"hexCode": "#B35668"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Light",
 		"code": "1349",
 		"hexCode": "#F3E5C0"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Lucerne",
 		"code": "1563",
 		"hexCode": "#CDC6B4"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Skylight",
 		"code": "1624",
 		"hexCode": "#F2F1E8"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Evening Light",
 		"code": "4618",
 		"hexCode": "#77838C"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Satin Beige",
 		"code": "8011",
 		"hexCode": "#F1EFDB"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Evergreen",
 		"code": "8479",
 		"hexCode": "#787664"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Twilight",
 		"code": "9904",
 		"hexCode": "#E1E1DD"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Oxford River",
 		"code": "9915",
 		"hexCode": "#D5D4CF"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Nordic Breeze",
 		"code": "5452",
 		"hexCode": "#BBC6C8"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "My Beirut",
 		"code": "20116",
 		"hexCode": "#CBA68F"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Coastal Blue",
 		"code": "5504",
 		"hexCode": "#6D7D83"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Iron Blue",
 		"code": "5516",
 		"hexCode": "#6F7677"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Urban Nile",
 		"code": "5277",
 		"hexCode": "#90CCD6"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Iconic",
 		"code": "6378",
 		"hexCode": "#A1ABA6"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Welcoming Red",
 		"code": "20167",
 		"hexCode": "#A06C5E"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Lavendar Whip",
 		"code": "4154",
 		"hexCode": "#98A8C7"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Treasure",
 		"code": "7628",
 		"hexCode": "#A3A798"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Peppermint ",
 		"code": "8003",
 		"hexCode": "#E3E1D0"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Deep Forest",
 		"code": "20193",
 		"hexCode": "#735256"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Tender Pink",
 		"code": "2396",
 		"hexCode": "#F4E8DF"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Dusky Pink",
 		"code": "2526",
 		"hexCode": "#CEB9AE"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Jazz Yellow",
 		"code": "8353",
 		"hexCode": "#E7D07C"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "April Green",
 		"code": "8109",
 		"hexCode": "#A4A178"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Deep Mocca",
 		"code": "2732",
 		"hexCode": "#5C5853"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Ebony",
 		"code": "9905",
 		"hexCode": "#ABA9A6"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Shadow",
 		"code": "9932",
 		"hexCode": "#838381"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "English Rose",
 		"code": "3183",
 		"hexCode": "#F2E1DF"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Sugar Cane",
 		"code": "8199",
 		"hexCode": "#B9B46D"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Fiery Crush",
 		"code": "3247",
 		"hexCode": "#D77386"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Jurassic Grey",
 		"code": "8222",
 		"hexCode": "#CAC5A9"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Ultra Violet",
 		"code": "4148",
 		"hexCode": "#889CC9"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Pink Zen",
 		"code": "2454",
 		"hexCode": "#F3A5A0"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Parrot Blue",
 		"code": "4202",
 		"hexCode": "#4587C3"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Violet Peace",
 		"code": "4326",
 		"hexCode": "#CCDAEB"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Thoughtful ",
 		"code": "20184",
 		"hexCode": "#B5A395"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Atlantic Pool",
 		"code": "5206",
 		"hexCode": "#48BDD0"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Caravan",
 		"code": "0280",
 		"hexCode": "#CCB394"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Cocoa Root",
 		"code": "1361",
 		"hexCode": "#A36F3E"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Herbal Fusion",
 		"code": "8237",
 		"hexCode": "#E9EDBC"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Golden Sunset",
 		"code": "1653",
 		"hexCode": "#F5B038"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Oasis Treat",
 		"code": "8250",
 		"hexCode": "#565642"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Green Marble",
 		"code": "8422",
 		"hexCode": "#68665C"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "White Sand",
 		"code": "1235",
 		"hexCode": "#E2DAC9"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Tender Brown",
 		"code": "1916",
 		"hexCode": "#80766A"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Antique Brass",
 		"code": "2011",
 		"hexCode": "#BD9683"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Roma",
 		"code": "2087",
 		"hexCode": "#B48368"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Burned Terracotta",
 		"code": "2111",
 		"hexCode": "#9E6E63"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Flint",
 		"code": "3003",
 		"hexCode": "#D3D0CC"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Misty Sea",
 		"code": "4067",
 		"hexCode": "#B8BEC2"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Classic Green",
 		"code": "6243",
 		"hexCode": "#39554F"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Adele",
 		"code": "7249",
 		"hexCode": "#595D5A"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Thyme",
 		"code": "8304",
 		"hexCode": "#7C796E"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Buried Treasure",
 		"code": "8357",
 		"hexCode": "#CDC2A6"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Mito",
 		"code": "1133",
 		"hexCode": "#B08D6C"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Power Puff",
 		"code": "2092",
 		"hexCode": "#BA8A7A"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Shallow Wave",
 		"code": "4094",
 		"hexCode": "#C4DBE9"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Sky Safari",
 		"code": "4098",
 		"hexCode": "#66899C"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Chi",
 		"code": "7236",
 		"hexCode": "#F3F4EE"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Timeless",
 		"code": "1024",
 		"hexCode": "#E0DDD3"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Solid Steel",
 		"code": "9928",
 		"hexCode": "#5E605E"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Buttery Cream",
 		"code": "1155",
 		"hexCode": "#FAE2B0"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Sunny Spot",
 		"code": "8054",
 		"hexCode": "#EFCB6B"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Industry Blue",
 		"code": "5222",
 		"hexCode": "#C6D9DC"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Pale Follie",
 		"code": "4277",
 		"hexCode": "#E2EAEB"
 	},
 	{
 		"brand": "Jotun",
-		"product": "",
 		"name": "Eternal Marine",
 		"code": "6051",
 		"hexCode": "#CFDFD3"

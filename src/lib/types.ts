@@ -1,6 +1,5 @@
 export type Color = {
 	brand: string
-	product: string
 	name: string
 	code: string
 	hexCode: string

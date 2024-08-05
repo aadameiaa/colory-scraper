@@ -1,170 +1,6338 @@
 [
   {
     "brand": "No Drop",
-    "product": "",
     "name": "Red Divine",
     "code": "R12-001",
     "hexCode": "#C04A4B"
   },
   {
     "brand": "No Drop",
-    "product": "",
     "name": "My Ballerina",
     "code": "R12-002",
     "hexCode": "#EFAABB"
   },
   {
     "brand": "No Drop",
-    "product": "",
     "name": "Mica Rose",
     "code": "R12-003",
     "hexCode": "#F5C0C7"
   },
   {
     "brand": "No Drop",
-    "product": "",
     "name": "Flushed Pink",
     "code": "R12-004",
     "hexCode": "#F6D6D8"
   },
   {
     "brand": "No Drop",
-    "product": "",
     "name": "Love Me Tender",
     "code": "R12-005",
     "hexCode": "#F2E1DA"
   },
   {
     "brand": "No Drop",
-    "product": "",
     "name": "Lush Red",
     "code": "R13-001",
     "hexCode": "#973C40"
   },
   {
     "brand": "No Drop",
-    "product": "",
     "name": "Dashing Pink",
     "code": "R13-002",
     "hexCode": "#DD7488"
   },
   {
     "brand": "No Drop",
-    "product": "",
     "name": "Adoration",
     "code": "R13-003",
     "hexCode": "#F1A5B0"
   },
   {
     "brand": "No Drop",
-    "product": "",
     "name": "Candy Floss",
     "code": "R13-004",
     "hexCode": "#F4CACD"
   },
   {
     "brand": "No Drop",
-    "product": "",
     "name": "Pink Frontier",
     "code": "R13-005",
     "hexCode": "#F5DFDB"
   },
   {
     "brand": "No Drop",
-    "product": "",
     "name": "Prosperous Red",
     "code": "R14-001",
     "hexCode": "#A63E5D"
   },
   {
     "brand": "No Drop",
-    "product": "",
     "name": "Aspiring Starlet",
     "code": "R14-002",
     "hexCode": "#D77D9D"
   },
   {
     "brand": "No Drop",
-    "product": "",
     "name": "Pink Hyacinth",
     "code": "R14-003",
     "hexCode": "#F0C5CE"
   },
   {
     "brand": "No Drop",
-    "product": "",
     "name": "Love Triangle",
     "code": "R14-004",
     "hexCode": "#F4DCDF"
   },
   {
     "brand": "No Drop",
-    "product": "",
     "name": "Sakura Bloom",
     "code": "R14-005",
     "hexCode": "#F0E6DE"
   },
   {
     "brand": "No Drop",
-    "product": "",
     "name": "Pink Parlor",
     "code": "R15-001",
     "hexCode": "#C1547E"
   },
   {
     "brand": "No Drop",
-    "product": "",
     "name": "Dogwood Pink",
     "code": "R15-002",
     "hexCode": "#E2A4C2"
   },
   {
     "brand": "No Drop",
-    "product": "",
     "name": "Pink Canterbury",
     "code": "R15-003",
     "hexCode": "#EBBDD2"
   },
   {
     "brand": "No Drop",
-    "product": "",
     "name": "Breezy Pink",
     "code": "R15-004",
     "hexCode": "#F0D4DE"
   },
   {
     "brand": "No Drop",
-    "product": "",
     "name": "Dreaming of You",
     "code": "R15-005",
     "hexCode": "#F3DBDF"
   },
   {
     "brand": "No Drop",
-    "product": "",
     "name": "Soft Petal",
     "code": "R1 001",
     "hexCode": "#F1DFE7"
   },
   {
     "brand": "No Drop",
-    "product": "",
     "name": "Pure Indulgence",
     "code": "R1 002",
     "hexCode": "#EECDE2"
   },
   {
     "brand": "No Drop",
-    "product": "",
     "name": "Tender Heart",
     "code": "R1 003",
     "hexCode": "#E4B3D7"
   },
   {
     "brand": "No Drop",
-    "product": "",
     "name": "Pink Venus",
     "code": "R1 004",
     "hexCode": "#D693C4"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Turkish Rose",
+    "code": "R1 005",
+    "hexCode": "#C674AC"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Fever Diva",
+    "code": "R1 006",
+    "hexCode": "#9F3F68"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Pink Aroma",
+    "code": "R2 001",
+    "hexCode": "#F4DDE4"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Sweet Liberty",
+    "code": "R2 002",
+    "hexCode": "#F2CADB"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Playful Moments",
+    "code": "R2 003",
+    "hexCode": "#ECB2CA"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Child's Play",
+    "code": "R2 004",
+    "hexCode": "#E395B7"
+  },
+  {
+    "brand": "No Drop",
+    "name": "My Little Trinket",
+    "code": "R2 005",
+    "hexCode": "#D17098"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Fiesta",
+    "code": "R2 006",
+    "hexCode": "#B25079"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Floral Fancy",
+    "code": "R3 001",
+    "hexCode": "#F2DCE1"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Fairy Dust",
+    "code": "R3 002",
+    "hexCode": "#F2D2DC"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Cocktail Pink",
+    "code": "R3 003",
+    "hexCode": "#EEC0D0"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Elemental Desire",
+    "code": "R3 004",
+    "hexCode": "#E39CB5"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Orchid Pendant",
+    "code": "R3 005",
+    "hexCode": "#D87193"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Close to You",
+    "code": "R3 006",
+    "hexCode": "#B54D6E"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Oh Darling",
+    "code": "R4 001",
+    "hexCode": "#F7EEEC"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Sweet November",
+    "code": "R4 002",
+    "hexCode": "#F7E2E3"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Cheerleader",
+    "code": "R4 003",
+    "hexCode": "#F4C8D6"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Foolish Heart",
+    "code": "R4 004",
+    "hexCode": "#F0B0C8"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Love In Paris",
+    "code": "R4 005",
+    "hexCode": "#D26989"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Elegant Affair",
+    "code": "R4 006",
+    "hexCode": "#BB4B68"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Lady Hill",
+    "code": "R5 001",
+    "hexCode": "#F5E4E6"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Full Bloom",
+    "code": "R5 002",
+    "hexCode": "#F7DDE1"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Pink Canvas",
+    "code": "R5 003",
+    "hexCode": "#FBCCD7"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Fantasy Flash",
+    "code": "R5 004",
+    "hexCode": "#F8B2C5"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Lap of Luxury",
+    "code": "R5 005",
+    "hexCode": "#E8748D"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Red Symphony",
+    "code": "R5 006",
+    "hexCode": "#D05B70"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Sweet Cushion",
+    "code": "R6 001",
+    "hexCode": "#F5DFE3"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Surface Beauty",
+    "code": "R6 002",
+    "hexCode": "#FAD3DA"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Blushing Bride",
+    "code": "R6 003",
+    "hexCode": "#F7C6CF"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Pink Harvest",
+    "code": "R6 004",
+    "hexCode": "#F4AEBE"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Exotic Gem",
+    "code": "R6 005",
+    "hexCode": "#EB8195"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Rebel Heart",
+    "code": "R6 006",
+    "hexCode": "#B54157"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Sweet Dreams",
+    "code": "R7 001",
+    "hexCode": "#F8DCDD"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Pink Pinnacle",
+    "code": "R7 002",
+    "hexCode": "#F4CDD4"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Heart & Soul",
+    "code": "R7 003",
+    "hexCode": "#F1C0CA"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Pillow Talk",
+    "code": "R7 004",
+    "hexCode": "#E19AAB"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Feel My Love",
+    "code": "R7 005",
+    "hexCode": "#C66877"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Lush Life",
+    "code": "R7 006",
+    "hexCode": "#C05362"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Lonely Heart",
+    "code": "R8 001",
+    "hexCode": "#F7DFDE"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Good Night Kiss",
+    "code": "R8 002",
+    "hexCode": "#F6D8DA"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Soft Embrace",
+    "code": "R8 003",
+    "hexCode": "#F5CCD1"
+  },
+  {
+    "brand": "No Drop",
+    "name": "My Fantasy",
+    "code": "R8 004",
+    "hexCode": "#F0A9B3"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Here For You",
+    "code": "R8 005",
+    "hexCode": "#E57F89"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Hearts On Fire",
+    "code": "R8 006",
+    "hexCode": "#C45F6B"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Something New",
+    "code": "R9 001",
+    "hexCode": "#F7D9D9"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Fool For Love",
+    "code": "R9 002",
+    "hexCode": "#F6CACD"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Luna Pink",
+    "code": "R9 003",
+    "hexCode": "#F6BFC6"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Joyous Affair",
+    "code": "R9 004",
+    "hexCode": "#EC9EA9"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Full of Grace",
+    "code": "R9 005",
+    "hexCode": "#D66F77"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Heartbreaker",
+    "code": "R9 006",
+    "hexCode": "#B14E4C"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Pretty Perfect",
+    "code": "R10 001",
+    "hexCode": "#F8E0DC"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Blossom Bright",
+    "code": "R10 002",
+    "hexCode": "#F9D1D3"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Pure Beauty",
+    "code": "R10 003",
+    "hexCode": "#FAC7CC"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Aura Essence",
+    "code": "R10 004",
+    "hexCode": "#F1A1AD"
+  },
+  {
+    "brand": "No Drop",
+    "name": "My Destiny",
+    "code": "R10 005",
+    "hexCode": "#E3707A"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Vermillion Red",
+    "code": "R10 006",
+    "hexCode": "#BB4342"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Dream Lover",
+    "code": "R11 001",
+    "hexCode": "#F6E1DE"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Just A Girl",
+    "code": "R11 002",
+    "hexCode": "#F5D1D1"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Pink Pepper",
+    "code": "R11 003",
+    "hexCode": "#EFBABD"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Love Story",
+    "code": "R11 004",
+    "hexCode": "#E7A7AB"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Rose Beauty",
+    "code": "R11 005",
+    "hexCode": "#C96A6C"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Secret Recipe",
+    "code": "R11 006",
+    "hexCode": "#9D4C4A"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Pinkie Promise",
+    "code": "R12 001",
+    "hexCode": "#F7E6E1"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Need Your Love",
+    "code": "R12 002",
+    "hexCode": "#F9D4D3"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Santa Rosa",
+    "code": "R12 003",
+    "hexCode": "#F9C6C7"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Ever Wonderful",
+    "code": "R12 004",
+    "hexCode": "#F6B2B6"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Heart Away",
+    "code": "R12 005",
+    "hexCode": "#EB8587"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Red Jumper",
+    "code": "R12 006",
+    "hexCode": "#C73B3C"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Fairytale Ending",
+    "code": "R13 001",
+    "hexCode": "#F6E2DC"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Pink Mimosa",
+    "code": "R13 002",
+    "hexCode": "#F6D9D3"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Strawberry Shortcake",
+    "code": "R13 003",
+    "hexCode": "#F5CFC9"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Pink Tease",
+    "code": "R13 004",
+    "hexCode": "#F9C4C3"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Forever My Lady",
+    "code": "R13 005",
+    "hexCode": "#F49898"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Big Flame",
+    "code": "R13 006",
+    "hexCode": "#CF4446"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Sweet Afternoon",
+    "code": "R14 001",
+    "hexCode": "#F6EAE4"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Lasting Memories",
+    "code": "R14 002",
+    "hexCode": "#F9DBD5"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Beautiful Surprise",
+    "code": "R14 003",
+    "hexCode": "#FBC7C3"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Floral Love",
+    "code": "R14 004",
+    "hexCode": "#F8ACA4"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Overjoyed",
+    "code": "R14 005",
+    "hexCode": "#F1877E"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Red Rhythm",
+    "code": "R14 006",
+    "hexCode": "#D74B40"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Lighted Pixels",
+    "code": "R15 001",
+    "hexCode": "#F5E8E0"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Interest at Heart",
+    "code": "R15 002",
+    "hexCode": "#FBD8CF"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Wild & Free",
+    "code": "R15 003",
+    "hexCode": "#FBCDC4"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Flamingo Feather",
+    "code": "R15 004",
+    "hexCode": "#F7B8AE"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Favourite Song",
+    "code": "R15 005",
+    "hexCode": "#EE8E7B"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Emotional Red",
+    "code": "R15 006",
+    "hexCode": "#BF503D"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Merry Go Round",
+    "code": "R16 001",
+    "hexCode": "#F8E5DA"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Cosmic Love",
+    "code": "R16 002",
+    "hexCode": "#FAD5CB"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Free Spirit",
+    "code": "R16 003",
+    "hexCode": "#FCC9BC"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Misty Coral",
+    "code": "R16 004",
+    "hexCode": "#FCB5A6"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Song For You",
+    "code": "R16 005",
+    "hexCode": "#EF7D69"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Impact Red",
+    "code": "R16 006",
+    "hexCode": "#D94D3B"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Orange Crush",
+    "code": "O8-001",
+    "hexCode": "#F08D33"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Tangerine Twist",
+    "code": "O8-002",
+    "hexCode": "#F39859"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Orange Destiny",
+    "code": "O8-003",
+    "hexCode": "#F7B17A"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Sweet Peach",
+    "code": "O8-004",
+    "hexCode": "#F6C09A"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Regency Beige",
+    "code": "O8-005",
+    "hexCode": "#F9DABD"
+  },
+  {
+    "brand": "No Drop",
+    "name": "City of Dreams",
+    "code": "O9-001",
+    "hexCode": "#DF643C"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Venetian Evening",
+    "code": "O9-002",
+    "hexCode": "#EA825C"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Mandarin Gardens",
+    "code": "O9-003",
+    "hexCode": "#F4BE9A"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Imperial Blush",
+    "code": "O9-004",
+    "hexCode": "#F6D6B9"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Peach Cove",
+    "code": "O9-005",
+    "hexCode": "#F7E5D3"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Cape Siena",
+    "code": "O10-001",
+    "hexCode": "#91555C"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Faded Rose",
+    "code": "O10-002",
+    "hexCode": "#DEA08E"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Autumn Dahlia",
+    "code": "O10-003",
+    "hexCode": "#F2B19B"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Light Apricot",
+    "code": "O10-004",
+    "hexCode": "#F6D1BE"
+  },
+  {
+    "brand": "No Drop",
+    "name": "A New Dawn",
+    "code": "O10-005",
+    "hexCode": "#F7E6D8"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Royal Orange",
+    "code": "O11-001",
+    "hexCode": "#CB5344"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Coral Dress",
+    "code": "O11-002",
+    "hexCode": "#F3967F"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Perfect Evening",
+    "code": "O11-003",
+    "hexCode": "#F5C6B5"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Subtle Love",
+    "code": "O11-004",
+    "hexCode": "#F8DBD1"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Blissful Glee",
+    "code": "O11-005",
+    "hexCode": "#F3E7DF"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Weekend Holiday",
+    "code": "O1 001",
+    "hexCode": "#F6E0D8"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Coming Home",
+    "code": "O1 002",
+    "hexCode": "#FAD8C8"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Last Kiss",
+    "code": "O1 003",
+    "hexCode": "#FAC0AD"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Peaches & Cream",
+    "code": "O1 004",
+    "hexCode": "#F7AA96"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Wonderful World",
+    "code": "O1 005",
+    "hexCode": "#F3937B"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Autumn Nocturne",
+    "code": "O1 006",
+    "hexCode": "#CB5E4F"
+  },
+  {
+    "brand": "No Drop",
+    "name": "My Romance",
+    "code": "O2 001",
+    "hexCode": "#F5E5D9"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Sentimental Mood",
+    "code": "O2 002",
+    "hexCode": "#F6E0D2"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Pretty Ballad",
+    "code": "O2 003",
+    "hexCode": "#F5D2C0"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Wild Flower",
+    "code": "O2 004",
+    "hexCode": "#F8B49B"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Orange Glitter",
+    "code": "O2 005",
+    "hexCode": "#E87F63"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Bonfire Glow",
+    "code": "O2 006",
+    "hexCode": "#D55D40"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Honeymoon Ave",
+    "code": "O3 001",
+    "hexCode": "#FAE0D0"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Tangelo Cream",
+    "code": "O3 002",
+    "hexCode": "#FBD2BD"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Say You. Say Me",
+    "code": "O3 003",
+    "hexCode": "#FDB99E"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Desert Sunset",
+    "code": "O3 004",
+    "hexCode": "#FBA081"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Bright Spot",
+    "code": "O3 005",
+    "hexCode": "#F1805D"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Orange Moon",
+    "code": "O3 006",
+    "hexCode": "#E86339"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Peach Linger",
+    "code": "O4 001",
+    "hexCode": "#F9E8DA"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Summer Dress",
+    "code": "O4 002",
+    "hexCode": "#F7DFD1"
+  },
+  {
+    "brand": "No Drop",
+    "name": "In Your Arms",
+    "code": "O4 003",
+    "hexCode": "#FEBDA2"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Tender Love",
+    "code": "O4 004",
+    "hexCode": "#FDAE8D"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Freedom of Peach",
+    "code": "O4 005",
+    "hexCode": "#F89A6D"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Eternal Flame",
+    "code": "O4 006",
+    "hexCode": "#E26238"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Sweet Escape",
+    "code": "O5 001",
+    "hexCode": "#F7E7D9"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Emotionally Yours",
+    "code": "O5 002",
+    "hexCode": "#FCDCC6"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Spiced Apricot",
+    "code": "O5 003",
+    "hexCode": "#FDD1B5"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Peach Swirl",
+    "code": "O5 004",
+    "hexCode": "#F1B695"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Beautiful Soul",
+    "code": "O5 005",
+    "hexCode": "#E58559"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Desert Storm",
+    "code": "O5 006",
+    "hexCode": "#C26241"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Perfect Afternoon",
+    "code": "O6 001",
+    "hexCode": "#F9E3D3"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Ray of Light",
+    "code": "O6 002",
+    "hexCode": "#FBDBC4"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Passion Peach",
+    "code": "O6 003",
+    "hexCode": "#FCD2B5"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Pure Clay",
+    "code": "O6 004",
+    "hexCode": "#F8BC98"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Hiding Sun",
+    "code": "O6 005",
+    "hexCode": "#EA8C60"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Heart of Gold",
+    "code": "O6 006",
+    "hexCode": "#D8623A"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Happy Valley",
+    "code": "O7 001",
+    "hexCode": "#F8E8DC"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Succulent Peach",
+    "code": "O7 002",
+    "hexCode": "#FCDEC7"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Shining Light",
+    "code": "O7 003",
+    "hexCode": "#FED3B4"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Citrus Pulp",
+    "code": "O7 004",
+    "hexCode": "#FFC29B"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Ripe Melon",
+    "code": "O7 005",
+    "hexCode": "#F99A69"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Orange Cove",
+    "code": "O7 006",
+    "hexCode": "#E96B36"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Soft Sofa",
+    "code": "O8 001",
+    "hexCode": "#FBE1CF"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Cashmere Scarf",
+    "code": "O8 002",
+    "hexCode": "#FEDCC1"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Living Life",
+    "code": "O8 003",
+    "hexCode": "#FFD2B1"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Mystical Orange",
+    "code": "O8 004",
+    "hexCode": "#FFC89F"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Evening Amber",
+    "code": "O8 005",
+    "hexCode": "#FA9F66"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Under The Sun",
+    "code": "O8 006",
+    "hexCode": "#F58E56"
+  },
+  {
+    "brand": "No Drop",
+    "name": "What A Feeling",
+    "code": "O9 001",
+    "hexCode": "#FDE1C3"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Quiet Evening",
+    "code": "O9 002",
+    "hexCode": "#FFDAB7"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Melon Melody",
+    "code": "O9 003",
+    "hexCode": "#FFCC9E"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Traveling Somewhere",
+    "code": "O9 004",
+    "hexCode": "#FFBB87"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Paloma Sun",
+    "code": "O9 005",
+    "hexCode": "#FA9553"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Orange Embrace",
+    "code": "O9 006",
+    "hexCode": "#EE7135"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Summer Serenade",
+    "code": "O10 001",
+    "hexCode": "#F8E6D1"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Paradise Palms",
+    "code": "O10 002",
+    "hexCode": "#FCE1C5"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Autumn Fling",
+    "code": "O10 003",
+    "hexCode": "#FFCC9F"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Candy Sunset",
+    "code": "O10 004",
+    "hexCode": "#FFBB87"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Tangerine Tropic",
+    "code": "O10 005",
+    "hexCode": "#F99653"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Manhattan Sunset",
+    "code": "O10 006",
+    "hexCode": "#E17135"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Peach Soda",
+    "code": "O11 001",
+    "hexCode": "#FBE6CF"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Ornament Orange",
+    "code": "O11 002",
+    "hexCode": "#FFDBB6"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Sweet Spot",
+    "code": "O11 003",
+    "hexCode": "#FFC28A"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Secret Wonderland",
+    "code": "O11 004",
+    "hexCode": "#FEAB65"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Blushed Sundown",
+    "code": "O11 005",
+    "hexCode": "#F99A51"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Arizona Sunset",
+    "code": "O11 006",
+    "hexCode": "#F17F36"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Beach Bunny",
+    "code": "O12 001",
+    "hexCode": "#FBE0C0"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Tropic Lace",
+    "code": "O12 002",
+    "hexCode": "#FED4A6"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Coast to Coast",
+    "code": "O12 003",
+    "hexCode": "#FFC58B"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Desert Dream",
+    "code": "O12 004",
+    "hexCode": "#FFB472"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Miami Heat",
+    "code": "O12 005",
+    "hexCode": "#FFA14B"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Tropical Bouquet",
+    "code": "O12 006",
+    "hexCode": "#EE8731"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Fragrant Yuzu",
+    "code": "O13 001",
+    "hexCode": "#FBE9CC"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Cute Button",
+    "code": "O13 002",
+    "hexCode": "#FFDCAD"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Soft Touch",
+    "code": "O13 003",
+    "hexCode": "#FFD193"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Modern Twist",
+    "code": "O13 004",
+    "hexCode": "#FFC480"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Little Dreamer",
+    "code": "O13 005",
+    "hexCode": "#FFAE5D"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Peruvian Palms",
+    "code": "O13 006",
+    "hexCode": "#D97837"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Hokkaido Cream",
+    "code": "O14 001",
+    "hexCode": "#FCE7D0"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Summer Fling",
+    "code": "O14 002",
+    "hexCode": "#FFDEB4"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Soft Toy",
+    "code": "O14 003",
+    "hexCode": "#FFD198"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Stardust",
+    "code": "O14 004",
+    "hexCode": "#FFC785"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Day in Malibu",
+    "code": "O14 005",
+    "hexCode": "#F5A451"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Goldilocks",
+    "code": "O14 006",
+    "hexCode": "#D58339"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Passion Play",
+    "code": "O15 001",
+    "hexCode": "#FCEBCE"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Blessed Morning",
+    "code": "O15 002",
+    "hexCode": "#FDE4BE"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Ambient Lounge",
+    "code": "O15 003",
+    "hexCode": "#FFDDAE"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Shaft of Gold",
+    "code": "O15 004",
+    "hexCode": "#FFC985"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Quiet Flame",
+    "code": "O15 005",
+    "hexCode": "#F5A84C"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Bronze Shore",
+    "code": "O15 006",
+    "hexCode": "#D98B32"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Amber Dawn",
+    "code": "O16 001",
+    "hexCode": "#FCECD0"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Summer Cascade",
+    "code": "O16 002",
+    "hexCode": "#FBE3BB"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Happiness",
+    "code": "O16 003",
+    "hexCode": "#FCD9A1"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Candied Melon",
+    "code": "O16 004",
+    "hexCode": "#FEC06B"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Orange Ocean",
+    "code": "O16 005",
+    "hexCode": "#FDB24D"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Surreal Sun",
+    "code": "O16 006",
+    "hexCode": "#FF9520"
+  },
+  {
+    "brand": "No Drop",
+    "name": "A New Life",
+    "code": "O17 001",
+    "hexCode": "#FDE6C8"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Floral Lampshade",
+    "code": "O17 002",
+    "hexCode": "#FFE3B9"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Homecoming",
+    "code": "O17 003",
+    "hexCode": "#FFDDA8"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Faded Sun",
+    "code": "O17 004",
+    "hexCode": "#FFC979"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Coastal Drive",
+    "code": "O17 005",
+    "hexCode": "#FFAB42"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Fruit Platter",
+    "code": "O17 006",
+    "hexCode": "#FAA223"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Morning Story",
+    "code": "O18 001",
+    "hexCode": "#F9E5C2"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Daisy Dream",
+    "code": "O18 002",
+    "hexCode": "#FCE3B4"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Lovely Yuzu",
+    "code": "O18 003",
+    "hexCode": "#FFD692"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Shifting Landscapes",
+    "code": "O18 004",
+    "hexCode": "#FFC06B"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Floral Touch",
+    "code": "O18 005",
+    "hexCode": "#FFBA57"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Scented Ginger",
+    "code": "O18 006",
+    "hexCode": "#FFB043"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Caramel Delight",
+    "code": "Y1-001",
+    "hexCode": "#A6763C"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Sweet Maple",
+    "code": "Y1-002",
+    "hexCode": "#C8965F"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Persian Sand",
+    "code": "Y1-003",
+    "hexCode": "#D1B081"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Horizon Hills",
+    "code": "Y1-004",
+    "hexCode": "#EDD2A4"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Touch of Cream",
+    "code": "Y1-005",
+    "hexCode": "#F2E0C0"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Queen's Gold",
+    "code": "Y2-001",
+    "hexCode": "#C18D3F"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Summer Streak",
+    "code": "Y2-002",
+    "hexCode": "#EEBA21"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Moonie",
+    "code": "Y2-003",
+    "hexCode": "#EFCF76"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Refreshing Yellow",
+    "code": "Y2-004",
+    "hexCode": "#F6DFA6"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Cream Soda",
+    "code": "Y2-005",
+    "hexCode": "#F9EDCF"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Desert Mist",
+    "code": "Y3-001",
+    "hexCode": "#DD9C33"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Miller",
+    "code": "Y3-002",
+    "hexCode": "#FFC814"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Pineapple Express",
+    "code": "Y3-003",
+    "hexCode": "#FFDD7C"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Lemon Popsicle",
+    "code": "Y3-004",
+    "hexCode": "#FAE4A9"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Always Creamy",
+    "code": "Y3-005",
+    "hexCode": "#FAEDD0"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Manuka Honey",
+    "code": "Y4-001",
+    "hexCode": "#E59D2F"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Amber Nectar",
+    "code": "Y4-002",
+    "hexCode": "#FFC95B"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Soft Yellow",
+    "code": "Y4-003",
+    "hexCode": "#FFD370"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Soothing Cream",
+    "code": "Y4-004",
+    "hexCode": "#F7E1AE"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Lemon Pie",
+    "code": "Y4-005",
+    "hexCode": "#F7EAD1"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Inca Gold",
+    "code": "Y5-001",
+    "hexCode": "#F4AC27"
+  },
+  {
+    "brand": "No Drop",
+    "name": "My Daffodil",
+    "code": "Y5-002",
+    "hexCode": "#FFBF37"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Blond Streak",
+    "code": "Y5-003",
+    "hexCode": "#FFC15B"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Light Nutmeg",
+    "code": "Y5-004",
+    "hexCode": "#FFDC91"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Yellow Aura",
+    "code": "Y5-005",
+    "hexCode": "#FFE7B3"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Sardinia Sunset",
+    "code": "Y6-001",
+    "hexCode": "#D7852E"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Sundown Supreme",
+    "code": "Y6-002",
+    "hexCode": "#FFA529"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Walking on Sunshine",
+    "code": "Y6-003",
+    "hexCode": "#FECA7D"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Yummy Yellow",
+    "code": "Y6-004",
+    "hexCode": "#FED794"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Lemon Cupcakes",
+    "code": "Y6-005",
+    "hexCode": "#FADDAB"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Great Beyond",
+    "code": "Y7-001",
+    "hexCode": "#F79D2C"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Fresh Cantaloupe",
+    "code": "Y7-002",
+    "hexCode": "#FFB370"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Fancy Summer",
+    "code": "Y7-003",
+    "hexCode": "#FECA98"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Ivory Tusk",
+    "code": "Y7-004",
+    "hexCode": "#F8E3C4"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Gentle Glow",
+    "code": "Y7-005",
+    "hexCode": "#F7E8D1"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Dream Girl",
+    "code": "Y1 001",
+    "hexCode": "#F9E7C9"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Happy For You",
+    "code": "Y1 002",
+    "hexCode": "#FFDFB1"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Yellow Butterfly",
+    "code": "Y1 003",
+    "hexCode": "#FFDAA0"
+  },
+  {
+    "brand": "No Drop",
+    "name": "My Freedom",
+    "code": "Y1 004",
+    "hexCode": "#FFCB7D"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Orange Horizons",
+    "code": "Y1 005",
+    "hexCode": "#FFB73A"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Gold Rush",
+    "code": "Y1 006",
+    "hexCode": "#FFA412"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Isle of Spring",
+    "code": "Y2 001",
+    "hexCode": "#FBE5BC"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Summer Wave",
+    "code": "Y2 002",
+    "hexCode": "#FFDEA1"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Rising Sun",
+    "code": "Y2 003",
+    "hexCode": "#FFDA99"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Tokyo Lights",
+    "code": "Y2 004",
+    "hexCode": "#FFCE74"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Lemonello",
+    "code": "Y2 005",
+    "hexCode": "#FFC251"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Blazing Trail",
+    "code": "Y2 006",
+    "hexCode": "#F9A637"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Citrus Splash",
+    "code": "Y3 001",
+    "hexCode": "#FBECC4"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Shining Sun",
+    "code": "Y3 002",
+    "hexCode": "#FFE7AD"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Amber Crystal",
+    "code": "Y3 003",
+    "hexCode": "#FFE29E"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Flaming Lemon",
+    "code": "Y3 004",
+    "hexCode": "#FFDA85"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Honey Drops",
+    "code": "Y3 005",
+    "hexCode": "#FFC644"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Tangerine Burst",
+    "code": "Y3 006",
+    "hexCode": "#FFAF9"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Spring Splendour",
+    "code": "Y4 001",
+    "hexCode": "#F8F0D7"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Yellow Harmony",
+    "code": "Y4 002",
+    "hexCode": "#FEEAB1"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Tahiti Tango",
+    "code": "Y4 003",
+    "hexCode": "#FFE6A2"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Capella Star",
+    "code": "Y4 004",
+    "hexCode": "#FFDE8A"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Stay With Me",
+    "code": "Y4 005",
+    "hexCode": "#FFCC4F"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Follow The Sun",
+    "code": "Y4 006",
+    "hexCode": "#FFB63"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Pale Cream",
+    "code": "Y5 001",
+    "hexCode": "#F5F0D2"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Champagne Fizz",
+    "code": "Y5 002",
+    "hexCode": "#F2E3B9"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Memory Bliss",
+    "code": "Y5 003",
+    "hexCode": "#FBD891"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Smile For Me",
+    "code": "Y5 004",
+    "hexCode": "#FACE6D"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Golden Halo",
+    "code": "Y5 005",
+    "hexCode": "#FECC55"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Sunset Song",
+    "code": "Y5 006",
+    "hexCode": "#FFB424"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Magnificent Dawn",
+    "code": "Y6 001",
+    "hexCode": "#F5F0D1"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Cheerful Heart",
+    "code": "Y6 002",
+    "hexCode": "#F6EBC8"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Lay Me Down",
+    "code": "Y6 003",
+    "hexCode": "#F7E1A2"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Playful Tickle",
+    "code": "Y6 004",
+    "hexCode": "#FFDB8C"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Malt Mist",
+    "code": "Y6 005",
+    "hexCode": "#FFD468"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Midnight Sun",
+    "code": "Y6 006",
+    "hexCode": "#FFCA0"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Melting Moments",
+    "code": "Y7 001",
+    "hexCode": "#FAEBC3"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Sunflower Bloom",
+    "code": "Y7 002",
+    "hexCode": "#FBE4AD"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Pretty Dimple",
+    "code": "Y7 003",
+    "hexCode": "#FEDE89"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Party Starter",
+    "code": "Y7 004",
+    "hexCode": "#FFD564"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Daffodil Garden",
+    "code": "Y7 005",
+    "hexCode": "#FFCD3C"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Chirpy Canary",
+    "code": "Y7 006",
+    "hexCode": "#FFC30"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Honeycomb Yellow",
+    "code": "Y8 001",
+    "hexCode": "#F7E7BC"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Sweet Buttercup",
+    "code": "Y8 002",
+    "hexCode": "#F6E3AD"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Cream Cheese",
+    "code": "Y8 003",
+    "hexCode": "#FCE2A1"
+  },
+  {
+    "brand": "No Drop",
+    "name": "All Star Yellow",
+    "code": "Y8 004",
+    "hexCode": "#FFD975"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Shy Sun",
+    "code": "Y8 005",
+    "hexCode": "#FDCE52"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Morning Yellow",
+    "code": "Y8 006",
+    "hexCode": "#FAC72E"
+  },
+  {
+    "brand": "No Drop",
+    "name": "It's My Life",
+    "code": "Y9 001",
+    "hexCode": "#F7EBC9"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Yellow Moss",
+    "code": "Y9 002",
+    "hexCode": "#FAE7B1"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Mango Glow",
+    "code": "Y9 003",
+    "hexCode": "#FCE39C"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Stay Together",
+    "code": "Y9 004",
+    "hexCode": "#FFDE7B"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Daylight Surprise",
+    "code": "Y9 005",
+    "hexCode": "#FFD24B"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Funky Town",
+    "code": "Y9 006",
+    "hexCode": "#FCC20"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Dear Friend",
+    "code": "Y10 001",
+    "hexCode": "#F7EEC9"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Lemon Squash",
+    "code": "Y10 002",
+    "hexCode": "#FAEAB0"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Golden Light",
+    "code": "Y10 003",
+    "hexCode": "#FDE89C"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Dance With Me",
+    "code": "Y10 004",
+    "hexCode": "#FEE58E"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Sundown Supreme",
+    "code": "Y10 005",
+    "hexCode": "#FFD84B"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Summer Paradise",
+    "code": "Y10 006",
+    "hexCode": "#FFC90"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Cotton Bloom",
+    "code": "Y11 001",
+    "hexCode": "#F9EBC5"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Tasteful Yellow",
+    "code": "Y11 002",
+    "hexCode": "#FCE8B6"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Razzle Dazzle",
+    "code": "Y11 003",
+    "hexCode": "#FFE2A0"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Dancing Dandelion",
+    "code": "Y11 004",
+    "hexCode": "#FFDD8C"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Baby Giraffe",
+    "code": "Y11 005",
+    "hexCode": "#FFC94C"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Spicy Mustard",
+    "code": "Y11 006",
+    "hexCode": "#F0AB16"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Creamy Milkshake",
+    "code": "Y12 001",
+    "hexCode": "#F8EED4"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Uplifting Song",
+    "code": "Y12 002",
+    "hexCode": "#FAEBC6"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Pollen Grains",
+    "code": "Y12 003",
+    "hexCode": "#FFE0A0"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Great Day",
+    "code": "Y12 004",
+    "hexCode": "#FFD689"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Yellow Raincoat",
+    "code": "Y12 005",
+    "hexCode": "#FCBF50"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Pumpkin Risotto",
+    "code": "Y12 006",
+    "hexCode": "#F2A120"
+  },
+  {
+    "brand": "No Drop",
+    "name": "On Your Side",
+    "code": "Y13 001",
+    "hexCode": "#FAF0D8"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Light Humour",
+    "code": "Y13 002",
+    "hexCode": "#FFE4B8"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Morning Stroll",
+    "code": "Y13 003",
+    "hexCode": "#FFD9A0"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Riding High",
+    "code": "Y13 004",
+    "hexCode": "#FFCC85"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Glowing Flame",
+    "code": "Y13 005",
+    "hexCode": "#F7B14D"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Salted Caramel",
+    "code": "Y13 006",
+    "hexCode": "#DD912A"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Yellow Glitter",
+    "code": "Y14 001",
+    "hexCode": "#FAE5C0"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Healthy Glow",
+    "code": "Y14 002",
+    "hexCode": "#FFDDA6"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Soft Sponge",
+    "code": "Y14 003",
+    "hexCode": "#FFD088"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Acorn Squash",
+    "code": "Y14 004",
+    "hexCode": "#F5BC6F"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Friends for Life",
+    "code": "Y14 005",
+    "hexCode": "#E8A649"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Amber Blaze",
+    "code": "Y14 006",
+    "hexCode": "#E09C42"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Just My Soul",
+    "code": "Y15 001",
+    "hexCode": "#F9E8C9"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Lemon Chiffon",
+    "code": "Y15 002",
+    "hexCode": "#F9E2B6"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Twinkle Twinkle",
+    "code": "Y15 003",
+    "hexCode": "#FBD9A3"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Energy Boost",
+    "code": "Y15 004",
+    "hexCode": "#F8CD8D"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Yellow Brick Road",
+    "code": "Y15 005",
+    "hexCode": "#F3BE6B"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Pecan Pie",
+    "code": "Y15 006",
+    "hexCode": "#C98E39"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Little Sandcastle",
+    "code": "Y16 001",
+    "hexCode": "#F8EAC8"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Dawn Dew",
+    "code": "Y16 002",
+    "hexCode": "#FAE5BB"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Inner Radiance",
+    "code": "Y16 003",
+    "hexCode": "#F2CF8D"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Bright Spark",
+    "code": "Y16 004",
+    "hexCode": "#EFC16D"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Acoustic Spring",
+    "code": "Y16 005",
+    "hexCode": "#E1B059"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Glorious Day",
+    "code": "Y16 006",
+    "hexCode": "#C69032"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Light of Day",
+    "code": "Y17 001",
+    "hexCode": "#F8EBC6"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Float Away",
+    "code": "Y17 002",
+    "hexCode": "#FBEAB8"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Tropical Morning",
+    "code": "Y17 003",
+    "hexCode": "#FBE4A2"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Moon Glow",
+    "code": "Y17 004",
+    "hexCode": "#FADB89"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Pineapple Slush",
+    "code": "Y17 005",
+    "hexCode": "#FBCB50"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Rich Delight",
+    "code": "Y17 006",
+    "hexCode": "#DDA926"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Quiet Times",
+    "code": "Y18 001",
+    "hexCode": "#F6E7C3"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Sweet Oats",
+    "code": "Y18 002",
+    "hexCode": "#F9E6B6"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Hidden Sun",
+    "code": "Y18 003",
+    "hexCode": "#FAE29C"
+  },
+  {
+    "brand": "No Drop",
+    "name": "To The Stars",
+    "code": "Y18 004",
+    "hexCode": "#F6DB7C"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Golden Kiwi",
+    "code": "Y18 005",
+    "hexCode": "#F0D158"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Around You",
+    "code": "Y18 006",
+    "hexCode": "#EEC931"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Water Lilies",
+    "code": "Y19 001",
+    "hexCode": "#FBEFCA"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Canola Butter",
+    "code": "Y19 002",
+    "hexCode": "#FAEDBF"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Yellow Ribbon",
+    "code": "Y19 003",
+    "hexCode": "#FCE7A7"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Honeysuckle",
+    "code": "Y19 004",
+    "hexCode": "#F7DE90"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Butterscotch",
+    "code": "Y19 005",
+    "hexCode": "#F3D46E"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Wonder Struck",
+    "code": "Y19 006",
+    "hexCode": "#D6B031"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Sunny Lemon",
+    "code": "Y20 001",
+    "hexCode": "#F6EBCF"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Mango Bliss",
+    "code": "Y20 002",
+    "hexCode": "#FAE7B9"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Sunflower Fields",
+    "code": "Y20 003",
+    "hexCode": "#F3DA98"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Chandelier Sparkle",
+    "code": "Y20 004",
+    "hexCode": "#F0D382"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Twisted Paths",
+    "code": "Y20 005",
+    "hexCode": "#DEBD58"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Autumn Canopy",
+    "code": "Y20 006",
+    "hexCode": "#BD9A2F"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Jade Palace",
+    "code": "G25-001",
+    "hexCode": "#51AFA5"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Daydreamer Green",
+    "code": "G25-002",
+    "hexCode": "#7FD1CB"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Candy Green",
+    "code": "G25-003",
+    "hexCode": "#ACDAD7"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Cool Crayon",
+    "code": "G25-004",
+    "hexCode": "#C6E2DC"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Starlight",
+    "code": "G25-005",
+    "hexCode": "#DBE5DE"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Lush Forest",
+    "code": "G26-001",
+    "hexCode": "#1F9668"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Capella Garden",
+    "code": "G26-002",
+    "hexCode": "#70C5AB"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Clean Aqua",
+    "code": "G26-003",
+    "hexCode": "#B6E3CD"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Crystal Green",
+    "code": "G26-004",
+    "hexCode": "#D1EADB"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Island Shore",
+    "code": "G26-005",
+    "hexCode": "#DFECDF"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Glen Green",
+    "code": "G27-001",
+    "hexCode": "#3B7A4C"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Fresh Zucchini",
+    "code": "G27-002",
+    "hexCode": "#99BB62"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Spring Harvest",
+    "code": "G27-003",
+    "hexCode": "#C3D698"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Evergreen Pastures",
+    "code": "G27-004",
+    "hexCode": "#D2E2B5"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Apple Cider",
+    "code": "G27-005",
+    "hexCode": "#E9E9CD"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Deep Shamrock",
+    "code": "G28-001",
+    "hexCode": "#4F9138"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Tasty Salad",
+    "code": "G28-002",
+    "hexCode": "#B1B12A"
+  },
+  {
+    "brand": "No Drop",
+    "name": "National Park",
+    "code": "G28-003",
+    "hexCode": "#CAC753"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Emerald Ring",
+    "code": "G28-004",
+    "hexCode": "#E0E6BD"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Urban Plains",
+    "code": "G28-005",
+    "hexCode": "#EDE8D1"
+  },
+  {
+    "brand": "No Drop",
+    "name": "One Tree Hill",
+    "code": "G29-001",
+    "hexCode": "#677240"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Flushing Meadows",
+    "code": "G29-002",
+    "hexCode": "#94A73E"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Lime Fizz",
+    "code": "G29-003",
+    "hexCode": "#DAD576"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Retro Green",
+    "code": "G29-004",
+    "hexCode": "#EADD94"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Happy Daze",
+    "code": "G29-005",
+    "hexCode": "#EAE1AC"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Steamed Tamago",
+    "code": "G1 001",
+    "hexCode": "#F5E9C4"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Smooth Morning",
+    "code": "G1 002",
+    "hexCode": "#F9EAAE"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Touching Poem",
+    "code": "G1 003",
+    "hexCode": "#EFE094"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Apple Drops",
+    "code": "G1 004",
+    "hexCode": "#E6D470"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Sounds of Nature",
+    "code": "G1 005",
+    "hexCode": "#DFC95B"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Great Plains",
+    "code": "G1 006",
+    "hexCode": "#C3AB34"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Evening Star",
+    "code": "G2 001",
+    "hexCode": "#F7EABE"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Butter Pecan",
+    "code": "G2 002",
+    "hexCode": "#F7E8B2"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Wild Tansy",
+    "code": "G2 003",
+    "hexCode": "#F5E292"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Beauty Treat",
+    "code": "G2 004",
+    "hexCode": "#EDD564"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Tropic Thunder",
+    "code": "G2 005",
+    "hexCode": "#E1CC4C"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Everest Green",
+    "code": "G2 006",
+    "hexCode": "#D3BC34"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Warm Custard",
+    "code": "G3 001",
+    "hexCode": "#F0EBC0"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Swaying Breeze",
+    "code": "G3 002",
+    "hexCode": "#EDE9B0"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Flora Bella",
+    "code": "G3 003",
+    "hexCode": "#EBE28B"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Avocado Shake",
+    "code": "G3 004",
+    "hexCode": "#E4DB69"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Lime Light",
+    "code": "G3 005",
+    "hexCode": "#D9D550"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Springing Up",
+    "code": "G3 006",
+    "hexCode": "#D8C610"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Soft Whispers",
+    "code": "G4 001",
+    "hexCode": "#F2EEC9"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Clean Mint",
+    "code": "G4 002",
+    "hexCode": "#ECECB8"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Rose Green",
+    "code": "G4 003",
+    "hexCode": "#E1DF8C"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Safari Tour",
+    "code": "G4 004",
+    "hexCode": "#DADA7F"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Cute Caterpillar",
+    "code": "G4 005",
+    "hexCode": "#C7CD57"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Green Pea",
+    "code": "G4 006",
+    "hexCode": "#96B229"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Soothing Breeze",
+    "code": "G5 001",
+    "hexCode": "#EFEECE"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Welcome Home",
+    "code": "G5 002",
+    "hexCode": "#EDEDC5"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Cabbage Coleslaw",
+    "code": "G5 003",
+    "hexCode": "#E7E8B4"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Mint Soap",
+    "code": "G5 004",
+    "hexCode": "#4249F"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Pear Bites",
+    "code": "G5 005",
+    "hexCode": "#C2C55D"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Olive Fields",
+    "code": "G5 006",
+    "hexCode": "#A2A232"
+  },
+  {
+    "brand": "No Drop",
+    "name": "First Flight",
+    "code": "G6 001",
+    "hexCode": "#EFEECF"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Gentle Wind",
+    "code": "G6 002",
+    "hexCode": "#E9E6B3"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Legacy Green",
+    "code": "G6 003",
+    "hexCode": "#DFDF9C"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Peridot Gems",
+    "code": "G6 004",
+    "hexCode": "#CED281"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Conifer Forests",
+    "code": "G6 005",
+    "hexCode": "#B9C159"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Grass Land",
+    "code": "G6 006",
+    "hexCode": "#8C9F37"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Spa Dream",
+    "code": "G7 001",
+    "hexCode": "#EDEFCD"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Mellow Dinner",
+    "code": "G7 002",
+    "hexCode": "#E5ECB7"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Fresh Smile",
+    "code": "G7 003",
+    "hexCode": "#DAE6A3"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Wheatgrass Jello",
+    "code": "G7 004",
+    "hexCode": "#D0DE8C"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Lively Lime",
+    "code": "G7 005",
+    "hexCode": "#B0CB56"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Rolling Fields",
+    "code": "G7 006",
+    "hexCode": "#85B436"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Beauty World",
+    "code": "G8 001",
+    "hexCode": "#EAEFCD"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Spear Mint",
+    "code": "G8 002",
+    "hexCode": "#E5E9BA"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Rest & Relax",
+    "code": "G8 003",
+    "hexCode": "#DCE4AA"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Lily Pads",
+    "code": "G8 004",
+    "hexCode": "#D0DA95"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Seasonal Forest",
+    "code": "G8 005",
+    "hexCode": "#B2C461"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Green Living",
+    "code": "G8 006",
+    "hexCode": "#92A234"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Sugar Mint",
+    "code": "G9 001",
+    "hexCode": "#E5EBCD"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Hold Me Tight",
+    "code": "G9 002",
+    "hexCode": "#DEE8B9"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Matcha Love",
+    "code": "G9 003",
+    "hexCode": "#D3E2A2"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Salad Kitchen",
+    "code": "G9 004",
+    "hexCode": "#BED17B"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Run Wild",
+    "code": "G9 005",
+    "hexCode": "#98B542"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Enchanted Rainforest",
+    "code": "G9 006",
+    "hexCode": "#8FA643"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Summer Breeze",
+    "code": "G10 001",
+    "hexCode": "#EAEED5"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Peaceful Countryside",
+    "code": "G10 002",
+    "hexCode": "#E6EACC"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Daily Lift",
+    "code": "G10 003",
+    "hexCode": "#DDE5BF"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Pistachio Cake",
+    "code": "G10 004",
+    "hexCode": "#BDCD97"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Nebraska Creek",
+    "code": "G10 005",
+    "hexCode": "#9AAD66"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Crispy Seaweed",
+    "code": "G10 006",
+    "hexCode": "#7C9248"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Heavenly Hills",
+    "code": "G11 001",
+    "hexCode": "#E8EDCD"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Refreshing Weekend",
+    "code": "G11 002",
+    "hexCode": "#D9E6B5"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Pasture Weeds",
+    "code": "G11 003",
+    "hexCode": "#CEDF9E"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Tree Of Life",
+    "code": "G11 004",
+    "hexCode": "#B8D484"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Nature's Path",
+    "code": "G11 005",
+    "hexCode": "#9BC364"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Mistletoe's Kiss",
+    "code": "G11 006",
+    "hexCode": "#7CAC31"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Alpine Meadows",
+    "code": "G12 001",
+    "hexCode": "#E5EDCC"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Soothing Aloe",
+    "code": "G12 002",
+    "hexCode": "#DBE8C0"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Fresh Nature",
+    "code": "G12 003",
+    "hexCode": "#CEE1AE"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Island Kiss",
+    "code": "G12 004",
+    "hexCode": "#C0D79B"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Spring Vines",
+    "code": "G12 005",
+    "hexCode": "#96BD69"
+  },
+  {
+    "brand": "No Drop",
+    "name": "French Beans",
+    "code": "G12 006",
+    "hexCode": "#6C9D43"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Long Way Home",
+    "code": "G13 001",
+    "hexCode": "#E7EFD8"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Beryl Jewel",
+    "code": "G13 002",
+    "hexCode": "#D8EBC7"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Eden's Garden",
+    "code": "G13 003",
+    "hexCode": "#C5E2AD"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Lucky Clover",
+    "code": "G13 004",
+    "hexCode": "#ADD58F"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Fern Canyon",
+    "code": "G13 005",
+    "hexCode": "#88C167"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Think Green",
+    "code": "G13 006",
+    "hexCode": "#3C9C4A"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Mythical Green",
+    "code": "G14 001",
+    "hexCode": "#DDECCE"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Brighten My Day",
+    "code": "G14 002",
+    "hexCode": "#D0E9C6"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Jade Lake",
+    "code": "G14 003",
+    "hexCode": "#B8E1AA"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Wild Beats",
+    "code": "G14 004",
+    "hexCode": "#92CA7F"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Natural Habitat",
+    "code": "G14 005",
+    "hexCode": "#73B75D"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Rainforest Green",
+    "code": "G14 006",
+    "hexCode": "#56953A"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Highland Mountain",
+    "code": "G15 001",
+    "hexCode": "#D7EDCE"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Energy Run",
+    "code": "G15 002",
+    "hexCode": "#CDE8C3"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Beautiful Story",
+    "code": "G15 003",
+    "hexCode": "#BFE1B5"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Fresh Mint",
+    "code": "G15 004",
+    "hexCode": "#A8D7A0"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Green With Envy",
+    "code": "G15 005",
+    "hexCode": "#85C075"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Broccoli Blend",
+    "code": "G15 006",
+    "hexCode": "#529B49"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Sweet Meadows",
+    "code": "G16 001",
+    "hexCode": "#D4EAD0"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Something Good",
+    "code": "G16 002",
+    "hexCode": "#C8E6BF"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Safe & Sound",
+    "code": "G16 003",
+    "hexCode": "#B0E0B3"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Kiwi Farm",
+    "code": "G16 004",
+    "hexCode": "#9BD7A3"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Keep Calm",
+    "code": "G16 005",
+    "hexCode": "#7ECA84"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Imperial Jade",
+    "code": "G16 006",
+    "hexCode": "#408E53"
+  },
+  {
+    "brand": "No Drop",
+    "name": "All Of Me",
+    "code": "G17 001",
+    "hexCode": "#CEECD3"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Tiny Seeds",
+    "code": "G17 002",
+    "hexCode": "#BCE2C6"
+  },
+  {
+    "brand": "No Drop",
+    "name": "In Harmony",
+    "code": "G17 003",
+    "hexCode": "#A9DCB9"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Healthy Lifestyle",
+    "code": "G17 004",
+    "hexCode": "#91D0A4"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Whispering Willow",
+    "code": "G17 005",
+    "hexCode": "#62B378"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Majestic Green",
+    "code": "G17 006",
+    "hexCode": "#399760"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Frozen Mint",
+    "code": "G18 001",
+    "hexCode": "#D6EBD9"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Organic Green",
+    "code": "G18 002",
+    "hexCode": "#C8E8D0"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Vegetable Garden",
+    "code": "G18 003",
+    "hexCode": "#B6E3C3"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Palm Springs",
+    "code": "G18 004",
+    "hexCode": "#88CDA0"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Emerald Coast",
+    "code": "G18 005",
+    "hexCode": "#52B176"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Green Lantern",
+    "code": "G18 006",
+    "hexCode": "#F9A63"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Highland Plains",
+    "code": "G19 001",
+    "hexCode": "#D0ECDD"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Natural World",
+    "code": "G19 002",
+    "hexCode": "#C7E9D6"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Fresh Lettuce",
+    "code": "G19 003",
+    "hexCode": "#B2E6CB"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Lush Landscape",
+    "code": "G19 004",
+    "hexCode": "#89D3B0"
+  },
+  {
+    "brand": "No Drop",
+    "name": "St Patrick's Day",
+    "code": "G19 005",
+    "hexCode": "#2FAE7A"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Savannah's Grace",
+    "code": "G19 006",
+    "hexCode": "#359762"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Gentle Care",
+    "code": "G20 001",
+    "hexCode": "#C2EAD7"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Dinner Music",
+    "code": "G20 002",
+    "hexCode": "#B3E6D0"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Aurora Lights",
+    "code": "G20 003",
+    "hexCode": "#94DBC0"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Green Topaz",
+    "code": "G20 004",
+    "hexCode": "#7ED3B0"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Take A Hike",
+    "code": "G20 005",
+    "hexCode": "#45B585"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Great Springfield",
+    "code": "G20 006",
+    "hexCode": "#09665"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Feels Like Home",
+    "code": "G21 001",
+    "hexCode": "#C8EAD8"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Rejuvenating Springs",
+    "code": "G21 002",
+    "hexCode": "#AEE1CC"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Nursery Rhymes",
+    "code": "G21 003",
+    "hexCode": "#96DABE"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Valley Of Flowers",
+    "code": "G21 004",
+    "hexCode": "#81CFAF"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Calming Forest",
+    "code": "G21 005",
+    "hexCode": "#47AF82"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Rustling Leaves",
+    "code": "G21 006",
+    "hexCode": "#228354"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Happy Hits",
+    "code": "G22 001",
+    "hexCode": "#CDE9D9"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Green Gemstone",
+    "code": "G22 002",
+    "hexCode": "#B0E4CD"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Mood Booster",
+    "code": "G22 003",
+    "hexCode": "#B1E4D2"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Green Army",
+    "code": "G22 004",
+    "hexCode": "#72CCB0"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Great Outdoors",
+    "code": "G22 005",
+    "hexCode": "#71C8A3"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Prickly Cactus",
+    "code": "G22 006",
+    "hexCode": "#387465"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Just Smile",
+    "code": "G23 001",
+    "hexCode": "#C7E6DB"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Deep Focus",
+    "code": "G23 002",
+    "hexCode": "#B6E2D4"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Seize The Day",
+    "code": "G23 003",
+    "hexCode": "#9DD5C4"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Graceful Green",
+    "code": "G23 004",
+    "hexCode": "#83C9B7"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Treetop Trek",
+    "code": "G23 005",
+    "hexCode": "#4EA38B"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Grand Terrapin",
+    "code": "G23 006",
+    "hexCode": "#357F66"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Green Therapy",
+    "code": "G24 001",
+    "hexCode": "#BCE8DE"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Exotic Green",
+    "code": "G24 002",
+    "hexCode": "#A5E4D8"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Day Dreamer",
+    "code": "G24 003",
+    "hexCode": "#88D9CC"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Garden Wigglers",
+    "code": "G24 004",
+    "hexCode": "#6BD0C1"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Maze Runner",
+    "code": "G24 005",
+    "hexCode": "#5AF98"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Spinach Dip",
+    "code": "G24 006",
+    "hexCode": "#07A66"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Merry Men",
+    "code": "G25 001",
+    "hexCode": "#C1E7DD"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Pinetree Grove",
+    "code": "G25 002",
+    "hexCode": "#A9E0D7"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Pristine Lawn",
+    "code": "G25 003",
+    "hexCode": "#95D6CC"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Little Tree",
+    "code": "G25 004",
+    "hexCode": "#7ACBBF"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Spring Break",
+    "code": "G25 005",
+    "hexCode": "#3AA595"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Mellow Beats",
+    "code": "G25 006",
+    "hexCode": "#147F6D"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Timeless Green",
+    "code": "G26 001",
+    "hexCode": "#BCE6E1"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Modern Soul",
+    "code": "G26 002",
+    "hexCode": "#ABE2DE"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Garden Dance",
+    "code": "G26 003",
+    "hexCode": "#8AD5D3"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Green Oasis",
+    "code": "G26 004",
+    "hexCode": "#41B7B3"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Bay of Plenty",
+    "code": "G26 005",
+    "hexCode": "#DA6A3"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Heartland Drive",
+    "code": "G26 006",
+    "hexCode": "#0908D"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Happy Place",
+    "code": "G27 001",
+    "hexCode": "#D7EFE8"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Awake My Soul",
+    "code": "G27 002",
+    "hexCode": "#BCE9E2"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Smooth Jazz",
+    "code": "G27 003",
+    "hexCode": "#94DCD6"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Green Tea Party",
+    "code": "G27 004",
+    "hexCode": "#5BCAC2"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Teal Burst",
+    "code": "G27 005",
+    "hexCode": "#0AA9B"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Iconic Green",
+    "code": "G27 006",
+    "hexCode": "#0847E"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Sweet Whisper",
+    "code": "G28 001",
+    "hexCode": "#E5F0E8"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Healing Power",
+    "code": "G28 002",
+    "hexCode": "#C6EAE7"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Aquatic Avenue",
+    "code": "G28 003",
+    "hexCode": "#9EE0DC"
+  },
+  {
+    "brand": "No Drop",
+    "name": "7th Heaven",
+    "code": "G28 004",
+    "hexCode": "#7BD2CF"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Sapphire Stone",
+    "code": "G28 005",
+    "hexCode": "#0A9A4"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Truly Green",
+    "code": "G28 006",
+    "hexCode": "#06D65"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Turquoise Mist",
+    "code": "G29 001",
+    "hexCode": "#BCE7E4"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Tiffany's Room",
+    "code": "G29 002",
+    "hexCode": "#A5E0DD"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Picturesque Bay",
+    "code": "G29 003",
+    "hexCode": "#85D5D4"
+  },
+  {
+    "brand": "No Drop",
+    "name": "River Cruise",
+    "code": "G29 004",
+    "hexCode": "#63C9CB"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Far From Home",
+    "code": "G29 005",
+    "hexCode": "#2EB8B7"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Vivid Green",
+    "code": "G29 006",
+    "hexCode": "#07773"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Halo Halo",
+    "code": "G30 001",
+    "hexCode": "#BBE1E1"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Surf & Turf",
+    "code": "G30 002",
+    "hexCode": "#A7DCDE"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Splish Splash",
+    "code": "G30 003",
+    "hexCode": "#85CED4"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Cascading Crystals",
+    "code": "G30 004",
+    "hexCode": "#63C3CA"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Bay of Hope",
+    "code": "G30 005",
+    "hexCode": "#09FA6"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Heaven Scent",
+    "code": "G30 006",
+    "hexCode": "#07F87"
+  },
+  {
+    "brand": "No Drop",
+    "name": "True Reflection",
+    "code": "G31 001",
+    "hexCode": "#BEE5E6"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Across The Sea",
+    "code": "G31 002",
+    "hexCode": "#88D4DA"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Kind Of Blue",
+    "code": "G31 003",
+    "hexCode": "#5BC4CD"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Bubble Trouble",
+    "code": "G31 004",
+    "hexCode": "#4AFBA"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Distant Past",
+    "code": "G31 005",
+    "hexCode": "#0A0AC"
+  },
+  {
+    "brand": "No Drop",
+    "name": "For An Angel",
+    "code": "G31 006",
+    "hexCode": "#07B83"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Positive Blue",
+    "code": "B20-001",
+    "hexCode": "#05E8A"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Oh Santorini!",
+    "code": "B20-002",
+    "hexCode": "#77A9D1"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Forget Me Not",
+    "code": "B20-003",
+    "hexCode": "#A6C8DC"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Pristine Blue",
+    "code": "B20-004",
+    "hexCode": "#B7CFDB"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Caribbean Wind",
+    "code": "B20-005",
+    "hexCode": "#D0DDDF"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Summer Blue",
+    "code": "B21-001",
+    "hexCode": "#07193"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Buckets of Rain",
+    "code": "B21-002",
+    "hexCode": "#49AAD3"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Dutch Blue",
+    "code": "B21-003",
+    "hexCode": "#8BC7DC"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Spring Lake",
+    "code": "B21-004",
+    "hexCode": "#B3D9E1"
+  },
+  {
+    "brand": "No Drop",
+    "name": "My Baby's Blue",
+    "code": "B21-005",
+    "hexCode": "#D3E1E0"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Tomorrow Night",
+    "code": "B22-001",
+    "hexCode": "#1E4D5B"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Sunbonnet Blue",
+    "code": "B22-002",
+    "hexCode": "#39A1C2"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Seabrook",
+    "code": "B22-003",
+    "hexCode": "#A0D5DE"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Rivera Maya",
+    "code": "B22-004",
+    "hexCode": "#C2DEDC"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Feeling Lively",
+    "code": "B22-005",
+    "hexCode": "#C5E1E0"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Shooting Stars",
+    "code": "B23-001",
+    "hexCode": "#06174"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Blue Ibiza",
+    "code": "B23-002",
+    "hexCode": "#08EAC"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Peaceful Lagoon",
+    "code": "B23-003",
+    "hexCode": "#45ACC6"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Thin Ice",
+    "code": "B23-004",
+    "hexCode": "#84C8D8"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Blue Flame",
+    "code": "B23-005",
+    "hexCode": "#B6DEE3"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Aquamarine",
+    "code": "B24-001",
+    "hexCode": "#3D8C93"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Star River",
+    "code": "B24-002",
+    "hexCode": "#6BC0C7"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Ice Glacier",
+    "code": "B24-003",
+    "hexCode": "#A2D5D6"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Ocean Paradise",
+    "code": "B24-004",
+    "hexCode": "#BCDEDA"
+  },
+  {
+    "brand": "No Drop",
+    "name": "One & Only",
+    "code": "B24-005",
+    "hexCode": "#DEEAE0"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Lost Paradise",
+    "code": "B1 001",
+    "hexCode": "#C8E4E8"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Cosy Glow",
+    "code": "B1 002",
+    "hexCode": "#A1D9E5"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Swept Away",
+    "code": "B1 003",
+    "hexCode": "#66C0D5"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Dolphin Dance",
+    "code": "B1 004",
+    "hexCode": "#1AAAC6"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Old Blue Jeans",
+    "code": "B1 005",
+    "hexCode": "#099B6"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Oceans Deep",
+    "code": "B1 006",
+    "hexCode": "#145D73"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Rain Water",
+    "code": "B2 001",
+    "hexCode": "#DAEDEC"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Baby Bliss",
+    "code": "B2 002",
+    "hexCode": "#B3DEE6"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Just Blue It",
+    "code": "B2 003",
+    "hexCode": "#9BD6E2"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Seven Seas",
+    "code": "B2 004",
+    "hexCode": "#77CADE"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Tidal Wave",
+    "code": "B2 005",
+    "hexCode": "#44B3CC"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Cerulean Blue",
+    "code": "B2 006",
+    "hexCode": "#08FAC"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Deja Blue",
+    "code": "B3 001",
+    "hexCode": "#CCE8EA"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Blue Swing",
+    "code": "B3 002",
+    "hexCode": "#BDE2E8"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Capri Cruise",
+    "code": "B3 003",
+    "hexCode": "#A5D7E4"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Aqua Rain",
+    "code": "B3 004",
+    "hexCode": "#81CBE0"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Walking On Water",
+    "code": "B3 005",
+    "hexCode": "#31A9C6"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Acoustic Blue",
+    "code": "B3 006",
+    "hexCode": "#085A3"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Calm Current",
+    "code": "B4 001",
+    "hexCode": "#CCE6E9"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Modern Romeo",
+    "code": "B4 002",
+    "hexCode": "#B6DEE6"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Yours To Keep",
+    "code": "B4 003",
+    "hexCode": "#A3D4E3"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Blue Canvas",
+    "code": "B4 004",
+    "hexCode": "#85C8DE"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Tranquil Sea",
+    "code": "B4 005",
+    "hexCode": "#43ABC8"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Star Sapphire",
+    "code": "B4 006",
+    "hexCode": "#07493"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Light Drizzle",
+    "code": "B5 001",
+    "hexCode": "#D0E5E8"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Santorini Romance",
+    "code": "B5 002",
+    "hexCode": "#BCDEE7"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Touch The Sky",
+    "code": "B5 003",
+    "hexCode": "#AAD8E8"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Into The Blue",
+    "code": "B5 004",
+    "hexCode": "#8CC6DE"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Oceanic Yacht",
+    "code": "B5 005",
+    "hexCode": "#4EA7C9"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Blue Symphony",
+    "code": "B5 006",
+    "hexCode": "#06C92"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Southern Winds",
+    "code": "B6 001",
+    "hexCode": "#D9E7E7"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Nautical Love",
+    "code": "B6 002",
+    "hexCode": "#C6E1E8"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Glacier Hike",
+    "code": "B6 003",
+    "hexCode": "#A2D4E4"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Skyline Blue",
+    "code": "B6 004",
+    "hexCode": "#76BBD5"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Let It Rain",
+    "code": "B6 005",
+    "hexCode": "#47A2C4"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Midnight Blue",
+    "code": "B6 006",
+    "hexCode": "#255E7C"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Marine Life",
+    "code": "B7 001",
+    "hexCode": "#CFE4E9"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Between Oceans",
+    "code": "B7 002",
+    "hexCode": "#BEDEE9"
+  },
+  {
+    "brand": "No Drop",
+    "name": "One Wave",
+    "code": "B7 003",
+    "hexCode": "#A8D3E4"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Slender Blue",
+    "code": "B7 004",
+    "hexCode": "#8DC4DD"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Blue Heritage",
+    "code": "B7 005",
+    "hexCode": "#4FA1C4"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Blueberry Swirl",
+    "code": "B7 006",
+    "hexCode": "#15688C"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Baby Blues",
+    "code": "B8 001",
+    "hexCode": "#C7E4EB"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Endless Sky",
+    "code": "B8 002",
+    "hexCode": "#AAD9EA"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Swimming Home",
+    "code": "B8 003",
+    "hexCode": "#58B9E2"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Navy March",
+    "code": "B8 004",
+    "hexCode": "#12A2D4"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Marine Paradise",
+    "code": "B8 005",
+    "hexCode": "#094CC"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Majestic Sea",
+    "code": "B8 006",
+    "hexCode": "#073AC"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Snow Cone Delight",
+    "code": "B9 001",
+    "hexCode": "#E3EAE8"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Tranquil Oasis",
+    "code": "B9 002",
+    "hexCode": "#C3DEE8"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Ocean Surf",
+    "code": "B9 003",
+    "hexCode": "#A8D4E8"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Cool Me Down",
+    "code": "B9 004",
+    "hexCode": "#8AC5E4"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Rising Tide",
+    "code": "B9 005",
+    "hexCode": "#52A4D4"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Hidden Glow",
+    "code": "B9 006",
+    "hexCode": "#2689C0"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Falling Snowflakes",
+    "code": "B10 001",
+    "hexCode": "#E1EBEB"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Caribbean Coast",
+    "code": "B10 002",
+    "hexCode": "#BFDDEB"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Blessed Rain",
+    "code": "B10 003",
+    "hexCode": "#ABD4EA"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Over The Clouds",
+    "code": "B10 004",
+    "hexCode": "#86C2E3"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Promising Blue",
+    "code": "B10 005",
+    "hexCode": "#4FA1D0"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Mystical Lake",
+    "code": "B10 006",
+    "hexCode": "#075AB"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Dew Drops",
+    "code": "B11 001",
+    "hexCode": "#D0E2E8"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Cedar Rapids",
+    "code": "B11 002",
+    "hexCode": "#C4DCE9"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Ice World",
+    "code": "B11 003",
+    "hexCode": "#ADD2E3"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Ocean Star",
+    "code": "B11 004",
+    "hexCode": "#95C0DB"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Blue Diamond",
+    "code": "B11 005",
+    "hexCode": "#679FC4"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Adventure Cove",
+    "code": "B11 006",
+    "hexCode": "#26658D"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Cloud Atlas",
+    "code": "B12 001",
+    "hexCode": "#CBE1E8"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Calming Waves",
+    "code": "B12 002",
+    "hexCode": "#ADD1E4"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Cruising Sails",
+    "code": "B12 003",
+    "hexCode": "#88BADA"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Denim Shine",
+    "code": "B12 004",
+    "hexCode": "#5499C2"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Magic Crystal",
+    "code": "B12 005",
+    "hexCode": "#3A86B4"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Beyond The Stars",
+    "code": "B12 006",
+    "hexCode": "#384963"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Fluffy Cloud",
+    "code": "B13 001",
+    "hexCode": "#DDE8E8"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Aqua Healing",
+    "code": "B13 002",
+    "hexCode": "#C6DFE9"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Underwater Ecstasy",
+    "code": "B13 003",
+    "hexCode": "#A7CEE6"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Rogue Wave",
+    "code": "B13 004",
+    "hexCode": "#80BAE0"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Ocean Liner",
+    "code": "B13 005",
+    "hexCode": "#3B94CB"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Marine Cove",
+    "code": "B13 006",
+    "hexCode": "#0649C"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Blue Haven",
+    "code": "B14 001",
+    "hexCode": "#CFE2EA"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Glistening Seas",
+    "code": "B14 002",
+    "hexCode": "#A1C8E7"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Waterfall Garden",
+    "code": "B14 003",
+    "hexCode": "#83B4DA"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Icy Blue",
+    "code": "B14 004",
+    "hexCode": "#69A6D5"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Hawaiian Blue",
+    "code": "B14 005",
+    "hexCode": "#337FBA"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Blue Brooch",
+    "code": "B14 006",
+    "hexCode": "#344D7D"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Lacy Blue",
+    "code": "B15 001",
+    "hexCode": "#D3E0E8"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Beach House Blue",
+    "code": "B15 002",
+    "hexCode": "#C5DAE7"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Blue Sparkle",
+    "code": "B15 003",
+    "hexCode": "#B1CDE1"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Old School Blue",
+    "code": "B15 004",
+    "hexCode": "#94BBDA"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Casual Blue",
+    "code": "B15 005",
+    "hexCode": "#6D9AC0"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Smokey Blue",
+    "code": "B15 006",
+    "hexCode": "#396B96"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Dancing Cloud",
+    "code": "B16 001",
+    "hexCode": "#C6DBE7"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Blue Willow",
+    "code": "B16 002",
+    "hexCode": "#B4CEE3"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Open Water Villa",
+    "code": "B16 003",
+    "hexCode": "#96BBDA"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Ocean Mystery",
+    "code": "B16 004",
+    "hexCode": "#83AFD5"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Blueberry Pie",
+    "code": "B16 005",
+    "hexCode": "#5183B4"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Bright Flash",
+    "code": "B16 006",
+    "hexCode": "#336190"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Baby Breaths",
+    "code": "B17 001",
+    "hexCode": "#C7DBE8"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Misty Rain",
+    "code": "B17 002",
+    "hexCode": "#B2CEE6"
+  },
+  {
+    "brand": "No Drop",
+    "name": "On The Bay",
+    "code": "B17 003",
+    "hexCode": "#99C1E2"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Soulful Blue",
+    "code": "B17 004",
+    "hexCode": "#81AED6"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Blue Luxe",
+    "code": "B17 005",
+    "hexCode": "#6698C8"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Sea Of Life",
+    "code": "B17 006",
+    "hexCode": "#326A9F"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Drifting Clouds",
+    "code": "B18 001",
+    "hexCode": "#D2E0E8"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Full Of Stars",
+    "code": "B18 002",
+    "hexCode": "#B9D2E6"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Farewell Blue",
+    "code": "B18 003",
+    "hexCode": "#96B9DD"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Cool Breeze",
+    "code": "B18 004",
+    "hexCode": "#7BA5CE"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Midnight Delight",
+    "code": "B18 005",
+    "hexCode": "#4B84BD"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Ocean Wonder",
+    "code": "B18 006",
+    "hexCode": "#275287"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Violet Distraction",
+    "code": "V16-001",
+    "hexCode": "#704B77"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Plum Dressing",
+    "code": "V16-002",
+    "hexCode": "#A77DAD"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Cheerful Melody",
+    "code": "V16-003",
+    "hexCode": "#D7BCD6"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Purple Touch",
+    "code": "V16-004",
+    "hexCode": "#DED2D9"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Happy Together",
+    "code": "V16-005",
+    "hexCode": "#E6D9DC"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Deep Lavender",
+    "code": "V17-001",
+    "hexCode": "#7C608F"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Claret Glass",
+    "code": "V17-002",
+    "hexCode": "#AE95C0"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Pure Lilac",
+    "code": "V17-003",
+    "hexCode": "#C7B4CF"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Violet Rain",
+    "code": "V17-004",
+    "hexCode": "#D8C5D7"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Belle Isle",
+    "code": "V17-005",
+    "hexCode": "#E8DDDF"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Velvet Fog",
+    "code": "V18-001",
+    "hexCode": "#50476E"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Someone Like You",
+    "code": "V18-002",
+    "hexCode": "#ABA9CF"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Drifting Winds",
+    "code": "V18-003",
+    "hexCode": "#BFC6D7"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Joyful Day",
+    "code": "V18-004",
+    "hexCode": "#D9D5DE"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Youthful Heart",
+    "code": "V18-005",
+    "hexCode": "#DDDDDD"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Black Pearl",
+    "code": "V19-001",
+    "hexCode": "#444F63"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Dark Eyes",
+    "code": "V19-002",
+    "hexCode": "#636774"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Violet Luxury",
+    "code": "V19-003",
+    "hexCode": "#5872A6"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Diamond Bay",
+    "code": "V19-004",
+    "hexCode": "#91A6CD"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Scarlet Town",
+    "code": "V19-005",
+    "hexCode": "#BDCEDB"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Purification",
+    "code": "P1 001",
+    "hexCode": "#D7DEE5"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Violet Distraction",
+    "code": "P1 002",
+    "hexCode": "#C9D8E7"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Sweet Sensation",
+    "code": "P1 003",
+    "hexCode": "#A3BAD7"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Indigo Joy",
+    "code": "P1 004",
+    "hexCode": "#8BA7CD"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Blue Velvet",
+    "code": "P1 005",
+    "hexCode": "#728EB9"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Purple Attic",
+    "code": "P1 006",
+    "hexCode": "#4B5B83"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Restless Heart",
+    "code": "P2 001",
+    "hexCode": "#D2DAE6"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Vibrant Splash",
+    "code": "P2 002",
+    "hexCode": "#C2CCDE"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Secluded Spot",
+    "code": "P2 003",
+    "hexCode": "#ACBBD6"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Beautiful Silence",
+    "code": "P2 004",
+    "hexCode": "#98ABCF"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Deeply Dashing",
+    "code": "P2 005",
+    "hexCode": "#6F7FAA"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Grape Escape",
+    "code": "P2 006",
+    "hexCode": "#56618D"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Sweet Reception",
+    "code": "P3 001",
+    "hexCode": "#DFE5EC"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Lavender Oil",
+    "code": "P3 002",
+    "hexCode": "#C5D2E8"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Purple Devotion",
+    "code": "P3 003",
+    "hexCode": "#A6BAE1"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Endless Mystery",
+    "code": "P3 004",
+    "hexCode": "#7693CA"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Smooth Groove",
+    "code": "P3 005",
+    "hexCode": "#6280BE"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Beautiful Life",
+    "code": "P3 006",
+    "hexCode": "#3B4D79"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Silk Winds",
+    "code": "P4 001",
+    "hexCode": "#DDE1EA"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Sail Away",
+    "code": "P4 002",
+    "hexCode": "#C3CFE6"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Tender Violet",
+    "code": "P4 003",
+    "hexCode": "#A7B7DE"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Far & Away",
+    "code": "P4 004",
+    "hexCode": "#91A0D2"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Purple Supreme",
+    "code": "P4 005",
+    "hexCode": "#687BB6"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Deep Slumber",
+    "code": "P4 006",
+    "hexCode": "#424A76"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Hands to Heaven",
+    "code": "P5 001",
+    "hexCode": "#CBD3E4"
+  },
+  {
+    "brand": "No Drop",
+    "name": "So Beautiful",
+    "code": "P5 002",
+    "hexCode": "#B6C3E3"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Violet Glamour",
+    "code": "P5 003",
+    "hexCode": "#9EAFD8"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Yours Truly",
+    "code": "P5 004",
+    "hexCode": "#7F98CB"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Fluid Space",
+    "code": "P5 005",
+    "hexCode": "#6880B9"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Tribute To Prince",
+    "code": "P5 006",
+    "hexCode": "#494E7E"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Lavender Bliss",
+    "code": "P6 001",
+    "hexCode": "#DBDBE7"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Violet Splash",
+    "code": "P6 002",
+    "hexCode": "#C6C8E4"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Purple Spark",
+    "code": "P6 003",
+    "hexCode": "#AAAED9"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Rare Gem",
+    "code": "P6 004",
+    "hexCode": "#858DC3"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Lullaby Dream",
+    "code": "P6 005",
+    "hexCode": "#777DBA"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Bedtime Stories",
+    "code": "P6 006",
+    "hexCode": "#494975"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Tender Soul",
+    "code": "P7 001",
+    "hexCode": "#D9DAE4"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Purple Pasture",
+    "code": "P7 002",
+    "hexCode": "#CACDE0"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Breathtaking View",
+    "code": "P7 003",
+    "hexCode": "#B6BCD8"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Plum Dressing",
+    "code": "P7 004",
+    "hexCode": "#8E92B9"
+  },
+  {
+    "brand": "No Drop",
+    "name": "New Starlet",
+    "code": "P7 005",
+    "hexCode": "#7B7EA7"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Deep Dahlia",
+    "code": "P7 006",
+    "hexCode": "#565980"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Snuggle Up",
+    "code": "P8 001",
+    "hexCode": "#E1E2EA"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Enchanted Purple",
+    "code": "P8 002",
+    "hexCode": "#D6D5E3"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Elegant Gown",
+    "code": "P8 003",
+    "hexCode": "#B9BBD6"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Royal Ball",
+    "code": "P8 004",
+    "hexCode": "#A4A9CE"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Glitter Lamp",
+    "code": "P8 005",
+    "hexCode": "#8E8FB8"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Grape Surprise",
+    "code": "P8 006",
+    "hexCode": "#62658B"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Feels Like Magic",
+    "code": "P9 001",
+    "hexCode": "#DCD7E7"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Lilac Destiny",
+    "code": "P9 002",
+    "hexCode": "#D2CDE4"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Imperial Treasure",
+    "code": "P9 003",
+    "hexCode": "#BCB7D9"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Violet Magnolia",
+    "code": "P9 004",
+    "hexCode": "#AAA4CE"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Purple Carnival",
+    "code": "P9 005",
+    "hexCode": "#968CBA"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Dark Galaxy",
+    "code": "P9 006",
+    "hexCode": "#655D8E"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Purple Poppy",
+    "code": "P10 001",
+    "hexCode": "#E5DEE8"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Mystical Fairy",
+    "code": "P10 002",
+    "hexCode": "#D3CBE3"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Precious Time",
+    "code": "P10 003",
+    "hexCode": "#BDB3D9"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Childhood Memories",
+    "code": "P10 004",
+    "hexCode": "#A79BCC"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Dark Lilac",
+    "code": "P10 005",
+    "hexCode": "#8377B1"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Weekend Buzz",
+    "code": "P10 006",
+    "hexCode": "#57496F"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Sweet Suite",
+    "code": "P11 001",
+    "hexCode": "#E9DBE6"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Young & Free",
+    "code": "P11 002",
+    "hexCode": "#D6C4DF"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Gentle Lavender",
+    "code": "P11 003",
+    "hexCode": "#C1A7D1"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Hello Friday",
+    "code": "P11 004",
+    "hexCode": "#B69CCB"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Teenage Dream",
+    "code": "P11 005",
+    "hexCode": "#9475AD"
+  },
+  {
+    "brand": "No Drop",
+    "name": "My Soulmate",
+    "code": "P11 006",
+    "hexCode": "#61476E"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Violet Candle",
+    "code": "P12 001",
+    "hexCode": "#E3D5E2"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Purple Moonlight",
+    "code": "P12 002",
+    "hexCode": "#D6C9DE"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Electric Love",
+    "code": "P12 003",
+    "hexCode": "#C9B8D5"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Time To Dance",
+    "code": "P12 004",
+    "hexCode": "#B7A6CA"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Vintage Jewellery",
+    "code": "P12 005",
+    "hexCode": "#A68CB5"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Sushi Flower",
+    "code": "P12 006",
+    "hexCode": "#8A76A1"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Joyful Soul",
+    "code": "P13 001",
+    "hexCode": "#E4DCE7"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Soft Lilac",
+    "code": "P13 002",
+    "hexCode": "#E0D3E1"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Wisteria Bloom",
+    "code": "P13 003",
+    "hexCode": "#DAC6DC"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Frozen Violet",
+    "code": "P13 004",
+    "hexCode": "#CBB3D4"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Peaceful Paradise",
+    "code": "P13 005",
+    "hexCode": "#A985B0"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Burgundy Splash",
+    "code": "P13 006",
+    "hexCode": "#88567D"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Little Ballerina",
+    "code": "P14 001",
+    "hexCode": "#E8DBE5"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Fairy Lights",
+    "code": "P14 002",
+    "hexCode": "#E8D3E2"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Moment Of Magic",
+    "code": "P14 003",
+    "hexCode": "#E3C7DD"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Purple Nectar",
+    "code": "P14 004",
+    "hexCode": "#CEAFCF"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Lavender Honey",
+    "code": "P14 005",
+    "hexCode": "#B687B6"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Purple Radiant",
+    "code": "P14 006",
+    "hexCode": "#825583"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Chic Lilac",
+    "code": "P15 001",
+    "hexCode": "#ECDCE3"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Lavender Harvest",
+    "code": "P15 002",
+    "hexCode": "#E9D3E1"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Bridal Party",
+    "code": "P15 003",
+    "hexCode": "#E2C3D9"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Rustic Sage",
+    "code": "P15 004",
+    "hexCode": "#D5B1D0"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Angel Eyes",
+    "code": "P15 005",
+    "hexCode": "#C79DC2"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Blushed Crimson",
+    "code": "P15 006",
+    "hexCode": "#A674A7"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Intimacy",
+    "code": "P16 001",
+    "hexCode": "#EADCE8"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Willing Heart",
+    "code": "P16 002",
+    "hexCode": "#E6D0E1"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Serenity Now",
+    "code": "P16 003",
+    "hexCode": "#E0C5DE"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Wedding Bouquet",
+    "code": "P16 004",
+    "hexCode": "#D9AFD0"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Scented Lilac",
+    "code": "P16 005",
+    "hexCode": "#C186B4"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Stunning Lady",
+    "code": "P16 006",
+    "hexCode": "#AD6EA0"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Hide Your Heart",
+    "code": "P17 001",
+    "hexCode": "#F5E3E7"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Cupid's Wings",
+    "code": "P17 002",
+    "hexCode": "#E9D3E1"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Cute Ribbon",
+    "code": "P17 003",
+    "hexCode": "#D9AFCE"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Forgotten Kiss",
+    "code": "P17 004",
+    "hexCode": "#CF9EC2"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Lilac Aroma",
+    "code": "P17 005",
+    "hexCode": "#C084AD"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Purple Petal",
+    "code": "P17 006",
+    "hexCode": "#B06E9A"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Shining Bright",
+    "code": "P18 001",
+    "hexCode": "#F6E3E4"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Just A Wish",
+    "code": "P18 002",
+    "hexCode": "#EDC7D8"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Ballet Dance",
+    "code": "P18 003",
+    "hexCode": "#E1B1CA"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Heaven Knows",
+    "code": "P18 004",
+    "hexCode": "#D79DBC"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Bits & Pieces",
+    "code": "P18 005",
+    "hexCode": "#CC85A7"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Lush Sofa",
+    "code": "P18 006",
+    "hexCode": "#BC7194"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Musical Therapy",
+    "code": "P19 001",
+    "hexCode": "#F5EBE8"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Count On Me",
+    "code": "P19 002",
+    "hexCode": "#F2D9DE"
+  },
+  {
+    "brand": "No Drop",
+    "name": "House Party",
+    "code": "P19 003",
+    "hexCode": "#E9C6D2"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Pop Ballads",
+    "code": "P19 004",
+    "hexCode": "#D9AABC"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Secret Love",
+    "code": "P19 005",
+    "hexCode": "#AC7288"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Keep Me Warm",
+    "code": "P19 006",
+    "hexCode": "#754951"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Touch Of Fall",
+    "code": "P20 001",
+    "hexCode": "#F0E0DE"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Latin Beat",
+    "code": "P20 002",
+    "hexCode": "#EFCED2"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Himalayan Salt",
+    "code": "P20 003",
+    "hexCode": "#E3B0B5"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Rustic Touch",
+    "code": "P20 004",
+    "hexCode": "#CF9299"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Herbal Remedy",
+    "code": "P20 005",
+    "hexCode": "#AA6669"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Old Guitar",
+    "code": "P20 006",
+    "hexCode": "#8F4847"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Dark Star",
+    "code": "N30-001",
+    "hexCode": "#676F66"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Grey Shimmer",
+    "code": "N30-002",
+    "hexCode": "#959993"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Pebbled Path",
+    "code": "N30-003",
+    "hexCode": "#BCC1BB"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Timeless Grey",
+    "code": "N30-004",
+    "hexCode": "#D0D2C5"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Tinge of Grey",
+    "code": "N30-005",
+    "hexCode": "#E9EADA"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Smoky Willows",
+    "code": "N31-001",
+    "hexCode": "#56575A"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Endless Road",
+    "code": "N31-002",
+    "hexCode": "#828282"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Dark Ivory",
+    "code": "N31-003",
+    "hexCode": "#AAABAD"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Delicate Grey",
+    "code": "N31-004",
+    "hexCode": "#BDBCBE"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Rolling Stones",
+    "code": "N31-005",
+    "hexCode": "#C9C8C6"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Dawson's Creek",
+    "code": "N32-001",
+    "hexCode": "#765F41"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Chocolate Éclair",
+    "code": "N32-002",
+    "hexCode": "#B2977E"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Desert Storm",
+    "code": "N32-003",
+    "hexCode": "#B69F87"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Sandy Beach",
+    "code": "N32-004",
+    "hexCode": "#E5D3BF"
+  },
+  {
+    "brand": "No Drop",
+    "name": "High Tea",
+    "code": "N32-005",
+    "hexCode": "#EEE3D5"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Safari Day",
+    "code": "N33-001",
+    "hexCode": "#9A7760"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Girl Scout Cookie",
+    "code": "N33-002",
+    "hexCode": "#BD9882"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Little Cottage",
+    "code": "N33-003",
+    "hexCode": "#DABBA4"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Oatmeal",
+    "code": "N33-004",
+    "hexCode": "#DFC8B2"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Au Naturale",
+    "code": "N33-005",
+    "hexCode": "#E8D6C2"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Legendary Black",
+    "code": "N34-001",
+    "hexCode": "#3D3E3E"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Dancing Shoes",
+    "code": "N34-002",
+    "hexCode": "#5E4E52"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Coffee Break",
+    "code": "N34-003",
+    "hexCode": "#9B8C7D"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Antique Gray",
+    "code": "N34-004",
+    "hexCode": "#CFC3B5"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Vanilla Skies",
+    "code": "N34-005",
+    "hexCode": "#DCCFC0"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Pink Sunset",
+    "code": "N1 001",
+    "hexCode": "#F6DED7"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Blushed Willows",
+    "code": "N1 002",
+    "hexCode": "#EEC1B9"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Dream Come True",
+    "code": "N1 003",
+    "hexCode": "#E2A7A0"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Self Portrait",
+    "code": "N1 004",
+    "hexCode": "#CC837A"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Heaven's Door",
+    "code": "N1 005",
+    "hexCode": "#B16258"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Dear Sienna",
+    "code": "N1 006",
+    "hexCode": "#995043"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Shot Of Love",
+    "code": "N2 001",
+    "hexCode": "#F4E2D9"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Dining Table",
+    "code": "N2 002",
+    "hexCode": "#F0D2C7"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Beach Gypsy",
+    "code": "N2 003",
+    "hexCode": "#E8BDB1"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Cloud Forest",
+    "code": "N2 004",
+    "hexCode": "#D59D8E"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Joshua Tree",
+    "code": "N2 005",
+    "hexCode": "#A76D5D"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Coffee Break",
+    "code": "N2 006",
+    "hexCode": "#8E594A"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Immaculate Heart",
+    "code": "N3 001",
+    "hexCode": "#F6ECE2"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Cedar Woods",
+    "code": "N3 002",
+    "hexCode": "#EFD9C9"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Peace On Earth",
+    "code": "N3 003",
+    "hexCode": "#E4C0AE"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Miracle Grace",
+    "code": "N3 004",
+    "hexCode": "#CDA18B"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Cool Tatami",
+    "code": "N3 005",
+    "hexCode": "#A97A65"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Open Season",
+    "code": "N3 006",
+    "hexCode": "#94644F"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Earth White",
+    "code": "N4 001",
+    "hexCode": "#F1E8E0"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Lounge Vibe",
+    "code": "N4 002",
+    "hexCode": "#DCCDC4"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Light Chocolate",
+    "code": "N4 003",
+    "hexCode": "#D6C2B8"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Mother Nature",
+    "code": "N4 004",
+    "hexCode": "#B49181"
+  },
+  {
+    "brand": "No Drop",
+    "name": "I'm Coming Home",
+    "code": "N4 005",
+    "hexCode": "#917060"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Carved Wood",
+    "code": "N4 006",
+    "hexCode": "#6F5043"
+  },
+  {
+    "brand": "No Drop",
+    "name": "White As Snow",
+    "code": "N5 001",
+    "hexCode": "#EEE7E0"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Driftstone",
+    "code": "N5 002",
+    "hexCode": "#E2D0C2"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Easy Going",
+    "code": "N5 003",
+    "hexCode": "#CAB5A8"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Fresh Finds",
+    "code": "N5 004",
+    "hexCode": "#A08678"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Corner Coffeehouse",
+    "code": "N5 005",
+    "hexCode": "#846D60"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Relax & Unwind",
+    "code": "N5 006",
+    "hexCode": "#735B46"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Mellow Mornings",
+    "code": "N6 001",
+    "hexCode": "#F4E9DE"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Evening Chill",
+    "code": "N6 002",
+    "hexCode": "#E9D0BD"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Mocha Hill",
+    "code": "N6 003",
+    "hexCode": "#D6B79F"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Close To Home",
+    "code": "N6 004",
+    "hexCode": "#C7A287"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Personal Space",
+    "code": "N6 005",
+    "hexCode": "#A57A5D"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Old Friends",
+    "code": "N6 006",
+    "hexCode": "#88634B"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Dovetail White",
+    "code": "N7 001",
+    "hexCode": "#F6EADB"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Meant To Be",
+    "code": "N7 002",
+    "hexCode": "#F2DFCA"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Park Bench Deli",
+    "code": "N7 003",
+    "hexCode": "#ECD2B9"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Acoustic Soul",
+    "code": "N7 004",
+    "hexCode": "#D7AF8E"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Ambient Music",
+    "code": "N7 005",
+    "hexCode": "#B78761"
+  },
+  {
+    "brand": "No Drop",
+    "name": "True Relaxation",
+    "code": "N7 006",
+    "hexCode": "#A07450"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Beige Harmony",
+    "code": "N8 001",
+    "hexCode": "#F0E1CD"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Grain Of Sand",
+    "code": "N8 002",
+    "hexCode": "#E9D5BD"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Laidback Sunday",
+    "code": "N8 003",
+    "hexCode": "#DBC5AB"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Peaceful Valley",
+    "code": "N8 004",
+    "hexCode": "#CEB598"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Sticky Toffee",
+    "code": "N8 005",
+    "hexCode": "#AE8E6A"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Dry Woodland",
+    "code": "N8 006",
+    "hexCode": "#826648"
+  },
+  {
+    "brand": "No Drop",
+    "name": "White Oakwood",
+    "code": "N9 001",
+    "hexCode": "#F3EBDE"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Inner Beauty",
+    "code": "N9 002",
+    "hexCode": "#E9DCCA"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Oatmeal Biscuit",
+    "code": "N9 003",
+    "hexCode": "#CFBFA8"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Limestone Cave",
+    "code": "N9 004",
+    "hexCode": "#BDAA8F"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Olive Dress",
+    "code": "N9 005",
+    "hexCode": "#927E63"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Healing Aloe",
+    "code": "N9 006",
+    "hexCode": "#74654F"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Soft Cushion",
+    "code": "N10 001",
+    "hexCode": "#F0E5D2"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Back To Nature",
+    "code": "N10 002",
+    "hexCode": "#E9DAC1"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Linen Patterns",
+    "code": "N10 003",
+    "hexCode": "#D7C5A7"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Cozy Bedroom",
+    "code": "N10 004",
+    "hexCode": "#CEB896"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Vintage Art",
+    "code": "N10 005",
+    "hexCode": "#BBA075"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Rustic Look",
+    "code": "N10 006",
+    "hexCode": "#AD9165"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Camping Day",
+    "code": "N11 001",
+    "hexCode": "#E9DFC6"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Lovely Courtyard",
+    "code": "N11 002",
+    "hexCode": "#E1D3B6"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Serene Meadows",
+    "code": "N11 003",
+    "hexCode": "#D3C5A5"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Olive Grove",
+    "code": "N11 004",
+    "hexCode": "#C5B48F"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Bohemian Vibes",
+    "code": "N11 005",
+    "hexCode": "#B6A070"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Almost Home",
+    "code": "N11 006",
+    "hexCode": "#857348"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Kiwi Splash",
+    "code": "N12 001",
+    "hexCode": "#E9E6D5"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Slow & Easy",
+    "code": "N12 002",
+    "hexCode": "#DAD7C1"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Bamboo House",
+    "code": "N12 003",
+    "hexCode": "#C5C1A4"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Quiet Village",
+    "code": "N12 004",
+    "hexCode": "#B2AF90"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Small Wonder",
+    "code": "N12 005",
+    "hexCode": "#A19B76"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Sky Garden",
+    "code": "N12 006",
+    "hexCode": "#6D6B4D"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Moonstone",
+    "code": "N13 001",
+    "hexCode": "#D8E3E1"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Floating Iceberg",
+    "code": "N13 002",
+    "hexCode": "#C3D6D7"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Across The Horizon",
+    "code": "N13 003",
+    "hexCode": "#B1CACD"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Well Travelled",
+    "code": "N13 004",
+    "hexCode": "#9ABBC0"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Singing The Blues",
+    "code": "N13 005",
+    "hexCode": "#85A7AE"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Midnight Drive",
+    "code": "N13 006",
+    "hexCode": "#58777C"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Early Winter",
+    "code": "N14 001",
+    "hexCode": "#DBE3E1"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Clear Lake",
+    "code": "N14 002",
+    "hexCode": "#C3D1D6"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Winter Sleep",
+    "code": "N14 003",
+    "hexCode": "#B5C5CD"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Last Dream",
+    "code": "N14 004",
+    "hexCode": "#9DB4BF"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Bespoke Shoes",
+    "code": "N14 005",
+    "hexCode": "#89A1AF"
+  },
+  {
+    "brand": "No Drop",
+    "name": "All Night Long",
+    "code": "N14 006",
+    "hexCode": "#627986"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Heaven's Gate",
+    "code": "N15 001",
+    "hexCode": "#DCDEDC"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Mystery Angel",
+    "code": "N15 002",
+    "hexCode": "#CED2D3"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Early Grey",
+    "code": "N15 003",
+    "hexCode": "#B6BCC0"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Hazy Skies",
+    "code": "N15 004",
+    "hexCode": "#A3AEB6"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Baby Elephant",
+    "code": "N15 005",
+    "hexCode": "#909CA5"
+  },
+  {
+    "brand": "No Drop",
+    "name": "After Dark",
+    "code": "N15 006",
+    "hexCode": "#60676E"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Winter Blizzard",
+    "code": "N16 001",
+    "hexCode": "#E2E5E1"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Silver Tip",
+    "code": "N16 002",
+    "hexCode": "#D5DBDA"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Modern Grey",
+    "code": "N16 003",
+    "hexCode": "#B2BCBF"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Moonlight Dance",
+    "code": "N16 004",
+    "hexCode": "#959FA5"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Rock Pool",
+    "code": "N16 005",
+    "hexCode": "#798389"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Midnight Sky",
+    "code": "N16 006",
+    "hexCode": "#687075"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Silver Lining",
+    "code": "N17 001",
+    "hexCode": "#DEDEDB"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Free Your Mind",
+    "code": "N17 002",
+    "hexCode": "#D1D2D1"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Granite City",
+    "code": "N17 003",
+    "hexCode": "#BABBBC"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Grey Sidewalk",
+    "code": "N17 004",
+    "hexCode": "#9C9DA0"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Lava Stone",
+    "code": "N17 005",
+    "hexCode": "#818284"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Cosmic Universe",
+    "code": "N17 006",
+    "hexCode": "#5D5D5E"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Paper Plane",
+    "code": "N18 001",
+    "hexCode": "#DEDFDB"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Space Grey",
+    "code": "N18 002",
+    "hexCode": "#C9CAC8"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Steel Bridge",
+    "code": "N18 003",
+    "hexCode": "#AFB4B3"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Enchanting Night",
+    "code": "N18 004",
+    "hexCode": "#9FA4A4"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Grey Weather Day",
+    "code": "N18 005",
+    "hexCode": "#878A87"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Pebbled Road",
+    "code": "N18 006",
+    "hexCode": "#727573"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Great Geyser",
+    "code": "N19 001",
+    "hexCode": "#E6E4DE"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Dream Site",
+    "code": "N19 002",
+    "hexCode": "#D9D8D4"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Equator Moon",
+    "code": "N19 003",
+    "hexCode": "#C4C4C0"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Sleeping Seals",
+    "code": "N19 004",
+    "hexCode": "#A5A6A4"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Artisan Grey",
+    "code": "N19 005",
+    "hexCode": "#7E807E"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Twilight Zone",
+    "code": "N19 006",
+    "hexCode": "#4D4C4A"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Winter Tundra",
+    "code": "N20 001",
+    "hexCode": "#E0DEDA"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Suede Grey",
+    "code": "N20 002",
+    "hexCode": "#CBCAC5"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Sizzling Rock",
+    "code": "N20 003",
+    "hexCode": "#BAB8B5"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Cloudy Day",
+    "code": "N20 004",
+    "hexCode": "#A7A5A3"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Groovy Grey",
+    "code": "N20 005",
+    "hexCode": "#8F8A84"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Black Velvet",
+    "code": "N20 006",
+    "hexCode": "#4A4846"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Wanderlust",
+    "code": "N21 001",
+    "hexCode": "#DDDAD6"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Full Moon",
+    "code": "N21 002",
+    "hexCode": "#D1CDC6"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Great Grey",
+    "code": "N21 003",
+    "hexCode": "#CAC3BA"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Social Evening",
+    "code": "N21 004",
+    "hexCode": "#AFAAA1"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Rock Formations",
+    "code": "N21 005",
+    "hexCode": "#8B847A"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Sky Fall",
+    "code": "N21 006",
+    "hexCode": "#574F43"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Linen Sheets",
+    "code": "N22 001",
+    "hexCode": "#E5DED5"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Rock Oyster",
+    "code": "N22 002",
+    "hexCode": "#DFD8CD"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Sand Cave",
+    "code": "N22 003",
+    "hexCode": "#D6C9BF"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Antique Grey",
+    "code": "N22 004",
+    "hexCode": "#BCB2A6"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Stone Wall",
+    "code": "N22 005",
+    "hexCode": "#8C8176"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Interstellar",
+    "code": "N22 006",
+    "hexCode": "#60564B"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Precious Mineral",
+    "code": "N23 001",
+    "hexCode": "#E1DAD2"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Cotton Puff",
+    "code": "N23 002",
+    "hexCode": "#D3CBC2"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Titanium Grey",
+    "code": "N23 003",
+    "hexCode": "#C7BEB5"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Beacon Of Hope",
+    "code": "N23 004",
+    "hexCode": "#241D16"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Smokey Quartz",
+    "code": "N23 005",
+    "hexCode": "#9D8E81"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Outer Space",
+    "code": "N23 006",
+    "hexCode": "#564C45"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Piano Bar",
+    "code": "N24 001",
+    "hexCode": "#E0D9D2"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Timeless Moment",
+    "code": "N24 002",
+    "hexCode": "#D5CBC4"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Cool Ash",
+    "code": "N24 003",
+    "hexCode": "#C4B8B0"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Soothing Grey",
+    "code": "N24 004",
+    "hexCode": "#B7ABA4"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Rock Steady",
+    "code": "N24 005",
+    "hexCode": "#A19084"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Pure Cocoa",
+    "code": "N24 006",
+    "hexCode": "#584A42"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Lifelong Journey",
+    "code": "N25 001",
+    "hexCode": "#D0C7C5"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Open Ceremony",
+    "code": "N25 002",
+    "hexCode": "#C4B9B8"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Barista Blend",
+    "code": "N25 003",
+    "hexCode": "#AFA4A5"
+  },
+  {
+    "brand": "No Drop",
+    "name": "Friendship Bracelet",
+    "code": "N25 004",
+    "hexCode": "#A19494"
   }
 ]

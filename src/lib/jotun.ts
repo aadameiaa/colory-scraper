@@ -27,15 +27,32 @@ export async function scrapJotunColors(page: Page) {
 	}
 
 	const colors: Color[] = await page.evaluate(async () => {
-		function capitalize(name: string): string {
-			return name
-				.split(' ')
-				.map(
-					(word) =>
-						word.charAt(0).toUpperCase() +
-						word.slice(1, word.length).toLowerCase(),
-				)
-				.join(' ')
+		async function extractPalette(element: Element): Promise<Color> {
+			const nameElement = element.querySelector(
+				'[class^="ColourListstyles__NameWrap-sc"]',
+			)
+			const codeElement = element.querySelector(
+				'[class^="ColourListstyles__ColourCode-sc"]',
+			)
+			const hexCodeElement = element.querySelector(
+				'[class^= "ColourListstyles__ColourBlock-sc"]',
+			)
+
+			const { capitalize, computedBackgroundToHexCode } = window as any
+			const color: Color = {
+				brand: 'Jotun',
+				name: nameElement
+					? await capitalize(nameElement.textContent as string)
+					: '',
+				code: codeElement ? (codeElement.textContent as string) : '',
+				hexCode: hexCodeElement
+					? await computedBackgroundToHexCode(
+							getComputedStyle(hexCodeElement).background,
+						)
+					: '',
+			}
+
+			return color
 		}
 
 		const colorElements = Array.from(
@@ -43,31 +60,9 @@ export async function scrapJotunColors(page: Page) {
 		)
 
 		const data: Color[] = await Promise.all(
-			colorElements.map(async (colorElement) => {
-				const nameElement = colorElement.querySelector(
-					'[class^="ColourListstyles__NameWrap-sc"]',
-				)
-				const codeElement = colorElement.querySelector(
-					'[class^="ColourListstyles__ColourCode-sc"]',
-				)
-				const hexCodeElement = colorElement.querySelector(
-					'[class^= "ColourListstyles__ColourBlock-sc"]',
-				)
-
-				return {
-					brand: 'Jotun',
-					product: '',
-					name: nameElement
-						? capitalize(nameElement.textContent as string)
-						: '',
-					code: codeElement ? (codeElement.textContent as string) : '',
-					hexCode: hexCodeElement
-						? await (window as any).computedBackgroundToHexCode(
-								getComputedStyle(hexCodeElement).background,
-							)
-						: '',
-				}
-			}),
+			colorElements.map(
+				async (colorElement) => await extractPalette(colorElement),
+			),
 		)
 
 		return data

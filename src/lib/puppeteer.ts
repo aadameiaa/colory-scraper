@@ -1,6 +1,7 @@
 import puppeteer, { Browser } from 'puppeteer'
 
 import { DEFAULT_PUPPETEER_TIMEOUT } from '@/lib/constants'
+import { capitalize, computedBackgroundToHexCode } from '@/lib/utils'
 
 export async function createBrowser() {
 	return await puppeteer.launch({
@@ -16,6 +17,12 @@ export async function setupPage(browser: Browser) {
 
 	page.setDefaultNavigationTimeout(DEFAULT_PUPPETEER_TIMEOUT)
 	page.setDefaultTimeout(DEFAULT_PUPPETEER_TIMEOUT)
+
+	await page.exposeFunction('capitalize', capitalize)
+	await page.exposeFunction(
+		'computedBackgroundToHexCode',
+		computedBackgroundToHexCode,
+	)
 
 	return page
 }
