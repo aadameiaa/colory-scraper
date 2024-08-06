@@ -493,12 +493,6 @@
 	},
 	{
 		"brand": "Jotun",
-		"name": "Ascott",
-		"code": "0553",
-		"hexCode": "#C8C3B8"
-	},
-	{
-		"brand": "Jotun",
 		"name": "Adventure",
 		"code": "11175",
 		"hexCode": "#A38269"
@@ -508,12 +502,6 @@
 		"name": "Peachy",
 		"code": "12074",
 		"hexCode": "#C1A082"
-	},
-	{
-		"brand": "Jotun",
-		"name": "Wild Earl",
-		"code": "1876",
-		"hexCode": "#D4CBB9"
 	},
 	{
 		"brand": "Jotun",
@@ -955,6 +943,18 @@
 	},
 	{
 		"brand": "Jotun",
+		"name": "Wild Earl",
+		"code": "1876",
+		"hexCode": "#D4CBB9"
+	},
+	{
+		"brand": "Jotun",
+		"name": "Ascott",
+		"code": "0553",
+		"hexCode": "#C8C3B8"
+	},
+	{
+		"brand": "Jotun",
 		"name": "Muted Coral",
 		"code": "20217",
 		"hexCode": "#BB7D69"
@@ -964,12 +964,6 @@
 		"name": "Soft Brown",
 		"code": "12291",
 		"hexCode": "#89755F"
-	},
-	{
-		"brand": "Jotun",
-		"name": "Free Spirit",
-		"code": "5489",
-		"hexCode": "#6B7E7E"
 	},
 	{
 		"brand": "Jotun",
@@ -1498,6 +1492,12 @@
 		"name": "Satin Beige",
 		"code": "8011",
 		"hexCode": "#F1EFDB"
+	},
+	{
+		"brand": "Jotun",
+		"name": "Free Spirit",
+		"code": "5489",
+		"hexCode": "#6B7E7E"
 	},
 	{
 		"brand": "Jotun",

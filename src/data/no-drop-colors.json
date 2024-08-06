@@ -1779,7 +1779,7 @@
     "brand": "No Drop",
     "name": "Tangerine Burst",
     "code": "Y3 006",
-    "hexCode": "#FFAF9"
+    "hexCode": "#FFAF09"
   },
   {
     "brand": "No Drop",
@@ -1815,7 +1815,7 @@
     "brand": "No Drop",
     "name": "Follow The Sun",
     "code": "Y4 006",
-    "hexCode": "#FFB63"
+    "hexCode": "#FFB603"
   },
   {
     "brand": "No Drop",
@@ -1887,7 +1887,7 @@
     "brand": "No Drop",
     "name": "Midnight Sun",
     "code": "Y6 006",
-    "hexCode": "#FFCA0"
+    "hexCode": "#FFCA00"
   },
   {
     "brand": "No Drop",
@@ -1923,7 +1923,7 @@
     "brand": "No Drop",
     "name": "Chirpy Canary",
     "code": "Y7 006",
-    "hexCode": "#FFC30"
+    "hexCode": "#FFC300"
   },
   {
     "brand": "No Drop",
@@ -1995,7 +1995,7 @@
     "brand": "No Drop",
     "name": "Funky Town",
     "code": "Y9 006",
-    "hexCode": "#FCC20"
+    "hexCode": "#FCC200"
   },
   {
     "brand": "No Drop",
@@ -2031,7 +2031,7 @@
     "brand": "No Drop",
     "name": "Summer Paradise",
     "code": "Y10 006",
-    "hexCode": "#FFC90"
+    "hexCode": "#FFC900"
   },
   {
     "brand": "No Drop",
@@ -2709,7 +2709,7 @@
     "brand": "No Drop",
     "name": "Mint Soap",
     "code": "G5 004",
-    "hexCode": "#4249F"
+    "hexCode": "#42490F"
   },
   {
     "brand": "No Drop",
@@ -3189,7 +3189,7 @@
     "brand": "No Drop",
     "name": "Green Lantern",
     "code": "G18 006",
-    "hexCode": "#F9A63"
+    "hexCode": "#0F9A63"
   },
   {
     "brand": "No Drop",
@@ -3261,7 +3261,7 @@
     "brand": "No Drop",
     "name": "Great Springfield",
     "code": "G20 006",
-    "hexCode": "#09665"
+    "hexCode": "#009665"
   },
   {
     "brand": "No Drop",
@@ -3399,13 +3399,13 @@
     "brand": "No Drop",
     "name": "Maze Runner",
     "code": "G24 005",
-    "hexCode": "#5AF98"
+    "hexCode": "#05AF98"
   },
   {
     "brand": "No Drop",
     "name": "Spinach Dip",
     "code": "G24 006",
-    "hexCode": "#07A66"
+    "hexCode": "#007A66"
   },
   {
     "brand": "No Drop",
@@ -3471,13 +3471,13 @@
     "brand": "No Drop",
     "name": "Bay of Plenty",
     "code": "G26 005",
-    "hexCode": "#DA6A3"
+    "hexCode": "#0DA6A3"
   },
   {
     "brand": "No Drop",
     "name": "Heartland Drive",
     "code": "G26 006",
-    "hexCode": "#0908D"
+    "hexCode": "#00908D"
   },
   {
     "brand": "No Drop",
@@ -3507,13 +3507,13 @@
     "brand": "No Drop",
     "name": "Teal Burst",
     "code": "G27 005",
-    "hexCode": "#0AA9B"
+    "hexCode": "#00AA9B"
   },
   {
     "brand": "No Drop",
     "name": "Iconic Green",
     "code": "G27 006",
-    "hexCode": "#0847E"
+    "hexCode": "#00847E"
   },
   {
     "brand": "No Drop",
@@ -3543,13 +3543,13 @@
     "brand": "No Drop",
     "name": "Sapphire Stone",
     "code": "G28 005",
-    "hexCode": "#0A9A4"
+    "hexCode": "#00A9A4"
   },
   {
     "brand": "No Drop",
     "name": "Truly Green",
     "code": "G28 006",
-    "hexCode": "#06D65"
+    "hexCode": "#006D65"
   },
   {
     "brand": "No Drop",
@@ -3585,7 +3585,7 @@
     "brand": "No Drop",
     "name": "Vivid Green",
     "code": "G29 006",
-    "hexCode": "#07773"
+    "hexCode": "#007773"
   },
   {
     "brand": "No Drop",
@@ -3615,13 +3615,13 @@
     "brand": "No Drop",
     "name": "Bay of Hope",
     "code": "G30 005",
-    "hexCode": "#09FA6"
+    "hexCode": "#009FA6"
   },
   {
     "brand": "No Drop",
     "name": "Heaven Scent",
     "code": "G30 006",
-    "hexCode": "#07F87"
+    "hexCode": "#007F87"
   },
   {
     "brand": "No Drop",
@@ -3645,25 +3645,25 @@
     "brand": "No Drop",
     "name": "Bubble Trouble",
     "code": "G31 004",
-    "hexCode": "#4AFBA"
+    "hexCode": "#04AFBA"
   },
   {
     "brand": "No Drop",
     "name": "Distant Past",
     "code": "G31 005",
-    "hexCode": "#0A0AC"
+    "hexCode": "#00A0AC"
   },
   {
     "brand": "No Drop",
     "name": "For An Angel",
     "code": "G31 006",
-    "hexCode": "#07B83"
+    "hexCode": "#007B83"
   },
   {
     "brand": "No Drop",
     "name": "Positive Blue",
     "code": "B20-001",
-    "hexCode": "#05E8A"
+    "hexCode": "#005E8A"
   },
   {
     "brand": "No Drop",
@@ -3693,7 +3693,7 @@
     "brand": "No Drop",
     "name": "Summer Blue",
     "code": "B21-001",
-    "hexCode": "#07193"
+    "hexCode": "#007193"
   },
   {
     "brand": "No Drop",
@@ -3753,13 +3753,13 @@
     "brand": "No Drop",
     "name": "Shooting Stars",
     "code": "B23-001",
-    "hexCode": "#06174"
+    "hexCode": "#006174"
   },
   {
     "brand": "No Drop",
     "name": "Blue Ibiza",
     "code": "B23-002",
-    "hexCode": "#08EAC"
+    "hexCode": "#008EAC"
   },
   {
     "brand": "No Drop",
@@ -3837,7 +3837,7 @@
     "brand": "No Drop",
     "name": "Old Blue Jeans",
     "code": "B1 005",
-    "hexCode": "#099B6"
+    "hexCode": "#0099B6"
   },
   {
     "brand": "No Drop",
@@ -3879,7 +3879,7 @@
     "brand": "No Drop",
     "name": "Cerulean Blue",
     "code": "B2 006",
-    "hexCode": "#08FAC"
+    "hexCode": "#008FAC"
   },
   {
     "brand": "No Drop",
@@ -3915,7 +3915,7 @@
     "brand": "No Drop",
     "name": "Acoustic Blue",
     "code": "B3 006",
-    "hexCode": "#085A3"
+    "hexCode": "#0085A3"
   },
   {
     "brand": "No Drop",
@@ -3951,7 +3951,7 @@
     "brand": "No Drop",
     "name": "Star Sapphire",
     "code": "B4 006",
-    "hexCode": "#07493"
+    "hexCode": "#007493"
   },
   {
     "brand": "No Drop",
@@ -3987,7 +3987,7 @@
     "brand": "No Drop",
     "name": "Blue Symphony",
     "code": "B5 006",
-    "hexCode": "#06C92"
+    "hexCode": "#006C92"
   },
   {
     "brand": "No Drop",
@@ -4089,13 +4089,13 @@
     "brand": "No Drop",
     "name": "Marine Paradise",
     "code": "B8 005",
-    "hexCode": "#094CC"
+    "hexCode": "#0094CC"
   },
   {
     "brand": "No Drop",
     "name": "Majestic Sea",
     "code": "B8 006",
-    "hexCode": "#073AC"
+    "hexCode": "#0073AC"
   },
   {
     "brand": "No Drop",
@@ -4167,7 +4167,7 @@
     "brand": "No Drop",
     "name": "Mystical Lake",
     "code": "B10 006",
-    "hexCode": "#075AB"
+    "hexCode": "#0075AB"
   },
   {
     "brand": "No Drop",
@@ -4275,7 +4275,7 @@
     "brand": "No Drop",
     "name": "Marine Cove",
     "code": "B13 006",
-    "hexCode": "#0649C"
+    "hexCode": "#00649C"
   },
   {
     "brand": "No Drop",

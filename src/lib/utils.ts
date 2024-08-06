@@ -30,8 +30,13 @@ export function writeJSONFile(filename: string, data: any) {
 	})
 }
 
+function toHex(value: number): string {
+	const hex = value.toString(16)
+	return hex.length === 1 ? '0' + hex : hex
+}
+
 function rgbToHexCode({ r, g, b }: RGB): string {
-	return `#${r.toString(16)}${g.toString(16)}${b.toString(16)}`.toUpperCase()
+	return `#${toHex(r)}${toHex(g)}${toHex(b)}`.toUpperCase()
 }
 
 function computedBackgroundToRGB(style: string): RGB {
