@@ -16,8 +16,7 @@ export async function scrapDuluxColors(page: Page) {
 	)
 
 	let colors: Color[] = []
-	for (let index = 1; index < paletteIds.length - 1; index++) {
-		const paletteId = paletteIds[index]
+	for (let index = 1; index < paletteIds.length; index++) {
 		const colorsInPage = await page.evaluate(async () => {
 			async function extractPalette(element: Element): Promise<Color> {
 				const color: Color = {
@@ -43,6 +42,8 @@ export async function scrapDuluxColors(page: Page) {
 		colors = [...colors, ...colorsInPage]
 
 		await delay(1000)
+
+		const paletteId = paletteIds[index]
 		await page.locator(`[data-id="${paletteId}"]`).click()
 		await page.waitForNavigation({ waitUntil: 'networkidle2' })
 	}

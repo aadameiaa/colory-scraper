@@ -8,3 +8,6 @@ export const JOTUN_TOTAL_PAGE = 27
 export const NO_DROP_URL = 'https://avianbrands.com/nodrop/warna'
 
 export const DULUX_URL = 'https://www.dulux.co.id/id/palet-warna'
+
+export const NIPPON_PAINT_URL =
+	'https://nipponpaint.com.sg/colours/find-your-colour/'
