@@ -27,29 +27,29 @@ export async function scrapJotunColors(page: Page) {
 	}
 
 	const colors: Color[] = await page.evaluate(async () => {
-		async function extractPalette(element: Element): Promise<Color> {
-			const nameElement = element.querySelector(
-				'[class^="ColourListstyles__NameWrap-sc"]',
-			)
-			const codeElement = element.querySelector(
-				'[class^="ColourListstyles__ColourCode-sc"]',
-			)
-			const hexCodeElement = element.querySelector(
-				'[class^= "ColourListstyles__ColourBlock-sc"]',
-			)
-
+		async function extractColor(element: Element): Promise<Color> {
 			const { capitalize, computedBackgroundToHexCode } = window as any
 			const color: Color = {
 				brand: 'Jotun',
-				name: nameElement
-					? await capitalize(nameElement.textContent as string)
-					: '',
-				code: codeElement ? (codeElement.textContent as string) : '',
-				hexCode: hexCodeElement
-					? await computedBackgroundToHexCode(
-							getComputedStyle(hexCodeElement).background,
-						)
-					: '',
+				name: await capitalize(
+					(
+						element.querySelector(
+							'[class^="ColourListstyles__NameWrap-sc"]',
+						) as Element
+					).textContent as string,
+				),
+				code: (
+					element.querySelector(
+						'[class^="ColourListstyles__ColourCode-sc"]',
+					) as Element
+				).textContent as string,
+				hexCode: await computedBackgroundToHexCode(
+					getComputedStyle(
+						element.querySelector(
+							'[class^= "ColourListstyles__ColourBlock-sc"]',
+						) as Element,
+					),
+				),
 			}
 
 			return color
@@ -59,13 +59,11 @@ export async function scrapJotunColors(page: Page) {
 			document.querySelectorAll('[class^="ColourListstyles__Colour-sc"]'),
 		)
 
-		const data: Color[] = await Promise.all(
-			colorElements.map(
-				async (colorElement) => await extractPalette(colorElement),
-			),
+		const colors: Color[] = await Promise.all(
+			colorElements.map(async (element) => await extractColor(element)),
 		)
 
-		return data
+		return colors
 	})
 
 	writeJSONFile('jotun-colors.json', colors)

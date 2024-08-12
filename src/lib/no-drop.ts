@@ -8,23 +8,31 @@ export async function scrapNoDropColors(page: Page) {
 	await page.goto(NO_DROP_URL, { waitUntil: 'networkidle2' })
 
 	let colors: Color[] = []
-	for (
-		let index = 2;
-		await isElementExist(page, `[onclick="goPage(${index})"]`);
-		index++
+	while (
+		await isElementExist(
+			page,
+			'a[onclick^="goPage"]:has(path[d="m1 9 4-4-4-4"])',
+		)
 	) {
 		const colorsInPage = await page.evaluate(async () => {
-			async function extractPalette(element: Element): Promise<Color> {
-				const [hexCodeElement, textElements] = element.children
-				const [nameElement, codeElement] = textElements.children
-
+			async function extractColor(element: Element): Promise<Color> {
 				const { computedBackgroundToHexCode } = window as any
 				const color: Color = {
 					brand: 'No Drop',
-					name: nameElement.textContent as string,
-					code: codeElement.textContent as string,
+					name: (
+						element.querySelector(
+							'div:nth-child(2) > p:nth-child(1)',
+						) as Element
+					).textContent as string,
+					code: (
+						element.querySelector(
+							'div:nth-child(2) > p:nth-child(2)',
+						) as Element
+					).textContent as string,
 					hexCode: await computedBackgroundToHexCode(
-						getComputedStyle(hexCodeElement).background,
+						getComputedStyle(
+							element.querySelector('div:nth-child(1)') as Element,
+						),
 					),
 				}
 
@@ -35,18 +43,20 @@ export async function scrapNoDropColors(page: Page) {
 				document.querySelectorAll('[id^="warna_"]'),
 			)
 
-			const data: Color[] = await Promise.all(
+			const colors: Color[] = await Promise.all(
 				colorElements.map(
-					async (colorElement) => await extractPalette(colorElement),
+					async (colorElement) => await extractColor(colorElement),
 				),
 			)
 
-			return data
+			return colors
 		})
 
 		colors = [...colors, ...colorsInPage]
 
-		await page.locator(`[onclick="goPage(${index})"]`).click()
+		await page
+			.locator('a[onclick^="goPage"]:has(path[d="m1 9 4-4-4-4"])')
+			.click()
 		await page.waitForNavigation({ waitUntil: 'networkidle2' })
 	}
 

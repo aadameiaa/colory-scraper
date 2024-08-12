@@ -10,15 +10,22 @@ export async function scrapDuluxColors(page: Page) {
 	await page.locator(':scope >>> ::-p-text(Reject All)').click()
 
 	const paletteIds = await page.evaluate(() =>
-		Array.from(document.querySelectorAll('.a20-color-box.js-color-box')).map(
-			(element) => element.getAttribute('data-id'),
-		),
+		Array.from(
+			document.querySelectorAll('[data-component="a20-color-box"]'),
+		).map((element) => element.getAttribute('data-id')),
 	)
 
 	let colors: Color[] = []
-	for (let index = 1; index < paletteIds.length; index++) {
+	for (let index = 0; index < paletteIds.length; index++) {
+		await delay(1000)
+
+		const paletteId = paletteIds[index]
+		index > 0 && (await page.locator(`[data-id="${paletteId}"]`).click())
+		index > 0 &&
+			(await page.waitForNavigation({ waitUntil: 'domcontentloaded' }))
+
 		const colorsInPage = await page.evaluate(async () => {
-			async function extractPalette(element: Element): Promise<Color> {
+			async function extractColor(element: Element): Promise<Color> {
 				const color: Color = {
 					brand: 'Dulux',
 					name: element.getAttribute('data-label') as string,
@@ -32,20 +39,14 @@ export async function scrapDuluxColors(page: Page) {
 				document.querySelectorAll('[data-component="m7-color-card"]'),
 			)
 
-			const data: Color[] = await Promise.all(
-				colorElements.map(async (element) => await extractPalette(element)),
+			const colors: Color[] = await Promise.all(
+				colorElements.map(async (element) => await extractColor(element)),
 			)
 
-			return data
+			return colors
 		})
 
 		colors = [...colors, ...colorsInPage]
-
-		await delay(1000)
-
-		const paletteId = paletteIds[index]
-		await page.locator(`[data-id="${paletteId}"]`).click()
-		await page.waitForNavigation({ waitUntil: 'networkidle2' })
 	}
 
 	writeJSONFile('dulux-colors.json', colors)

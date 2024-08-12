@@ -10673,5 +10673,2825 @@
     "brand": "Dulux",
     "name": "Black Magic",
     "hexCode": "#3B343F"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Putih",
+    "hexCode": "#F3F2EA"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Moonstone",
+    "hexCode": "#E3DDCC"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Teardrop",
+    "hexCode": "#CED7D8"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Timeless Grey",
+    "hexCode": "#D4D5D2"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Shady Lady",
+    "hexCode": "#D0D3D0"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Loud Stone",
+    "hexCode": "#CAD0CC"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Day Break",
+    "hexCode": "#CBCDCA"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Dove",
+    "hexCode": "#BEBFBA"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Grey Sand",
+    "hexCode": "#BCBDB6"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Light Grey",
+    "hexCode": "#B2B4B3"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Goose Wing",
+    "hexCode": "#B4B4B0"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Pewter Grey – Ready Mix",
+    "hexCode": "#A9A9A3"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Andesit Grey",
+    "hexCode": "#A6A89D"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Artic Shadow",
+    "hexCode": "#848580"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Platinum Grey",
+    "hexCode": "#7F8283"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Dark Grey",
+    "hexCode": "#7F8283"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Yl Grey",
+    "hexCode": "#7C7D79"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Dark Night",
+    "hexCode": "#787A7B"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Regent Grey",
+    "hexCode": "#686A6B"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Merlin",
+    "hexCode": "#62696A"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Minimalis Grey",
+    "hexCode": "#606365"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Steel Fusion",
+    "hexCode": "#5D6365"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Dolphin Grey",
+    "hexCode": "#5A5E5F"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Jade Dove",
+    "hexCode": "#5A5E5F"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Black Doff",
+    "hexCode": "#2B2B2D"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Black",
+    "hexCode": "#242526"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Ski Adventure",
+    "hexCode": "#E1E7EA"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Silver Streak",
+    "hexCode": "#DBE1E1"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Marianna'S Aria",
+    "hexCode": "#DBE0E0"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Seagul Shadow",
+    "hexCode": "#D5E1E2"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Whale Sensation",
+    "hexCode": "#D9DEDF"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Horizons",
+    "hexCode": "#D7DDE1"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Horizons 10BB 73/039",
+    "hexCode": "#D7DDE1"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Horizons",
+    "hexCode": "#D7DDE1"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Spring Sensation",
+    "hexCode": "#D4DEE1"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Blue Light",
+    "hexCode": "#D3DDE0"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Swiss White",
+    "hexCode": "#D6DAD7"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Heavenly Blue",
+    "hexCode": "#CCD9DD"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Silent Sealevel",
+    "hexCode": "#CBD7DA"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Ghost Grey",
+    "hexCode": "#D4D4D2"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Ghost Grey",
+    "hexCode": "#D4D4D2"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Cheeky Sprite",
+    "hexCode": "#CDD3D5"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Paddlewheel Grey",
+    "hexCode": "#C9D1D2"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Fostoria Glass",
+    "hexCode": "#C7D0D4"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Aviator Silver",
+    "hexCode": "#C8CED4"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Aviator Silver",
+    "hexCode": "#C8CED4"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Fine Silver",
+    "hexCode": "#CBCDCC"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Universal Grey",
+    "hexCode": "#CCCCCB"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Light Charcoal",
+    "hexCode": "#CBCCCB"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Light Charcoal",
+    "hexCode": "#CBCCCB"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Light Charcoal",
+    "hexCode": "#CBCCCB"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Silver Quill",
+    "hexCode": "#C9CBC9"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Silver Quill",
+    "hexCode": "#C9CBC9"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Blue Behaviour",
+    "hexCode": "#BBC9D0"
+  },
+  {
+    "brand": "Dulux",
+    "name": "French Silver",
+    "hexCode": "#B9C4C9"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Limoges Blue 30BG 56/045",
+    "hexCode": "#B7C3C5"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Limoges Blue",
+    "hexCode": "#B7C3C5"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Limoges Blue",
+    "hexCode": "#B7C3C5"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Silver Trophy",
+    "hexCode": "#BDBFC0"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Silver Trophy",
+    "hexCode": "#BDBFC0"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Silky Stone",
+    "hexCode": "#BCBDBB"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Veil",
+    "hexCode": "#BABAB9"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Veil",
+    "hexCode": "#BABAB9"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Veil",
+    "hexCode": "#BABAB9"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Frost Grey",
+    "hexCode": "#B8BBB9"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Sanctuary",
+    "hexCode": "#ADB9BF"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Tinfoil",
+    "hexCode": "#B2B8BA"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Swordplay",
+    "hexCode": "#AAB2B9"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Swordplay",
+    "hexCode": "#AAB2B9"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Surreal Blue",
+    "hexCode": "#AFB1B3"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Alloy Touch",
+    "hexCode": "#B0B0AF"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Breaking Grey",
+    "hexCode": "#A7B1B6"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Ascot Blue",
+    "hexCode": "#A0A9AE"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Ascot Blue",
+    "hexCode": "#A0A9AE"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Spa Blue",
+    "hexCode": "#9DAAAE"
+  },
+  {
+    "brand": "Dulux",
+    "name": "West Coast Grey",
+    "hexCode": "#A2A5A5"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Grey Couture",
+    "hexCode": "#9E9F9E"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Granite Grey",
+    "hexCode": "#9D9E9D"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Cobbled Stone",
+    "hexCode": "#9A9EA0"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Shadow Play",
+    "hexCode": "#8F9EA5"
+  },
+  {
+    "brand": "Dulux",
+    "name": "SHADOW PLAY",
+    "hexCode": "#8F9EA5"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Chiseled Grey",
+    "hexCode": "#90969C"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Grey Pennant",
+    "hexCode": "#909396"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Slick Seal",
+    "hexCode": "#8F9391"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Slick Seal",
+    "hexCode": "#8F9391"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Smoke Grey",
+    "hexCode": "#84939C"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Gentry Blue",
+    "hexCode": "#829096"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Energetic Watertide",
+    "hexCode": "#7E8D99"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Denim Drift",
+    "hexCode": "#7C8D95"
+  },
+  {
+    "brand": "Dulux",
+    "name": "DENIM DRIFT",
+    "hexCode": "#7C8D95"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Denim Drift",
+    "hexCode": "#7C8D95"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Denim Drift",
+    "hexCode": "#7C8D95"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Brooding Storm",
+    "hexCode": "#7C8D95"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Sophisticated Grey",
+    "hexCode": "#878888"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Dark Storm",
+    "hexCode": "#858585"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Night Sky",
+    "hexCode": "#778790"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Seal Grey",
+    "hexCode": "#808080"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Mellow Silver",
+    "hexCode": "#767F84"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Silver Buckle",
+    "hexCode": "#7D7D7C"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Evening Shadow",
+    "hexCode": "#737B84"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Murky Nights",
+    "hexCode": "#64727A"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Storm Season",
+    "hexCode": "#63707B"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Connecticut Blue",
+    "hexCode": "#5E717B"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Intercoastal",
+    "hexCode": "#686D70"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Inland Waters",
+    "hexCode": "#626D74"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Grey Cable",
+    "hexCode": "#676A6B"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Wisdom Light",
+    "hexCode": "#60666C"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Grey Tabby",
+    "hexCode": "#666665"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Plush Pewter",
+    "hexCode": "#616160"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Whale Wall",
+    "hexCode": "#4E5B66"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Whale Wall",
+    "hexCode": "#4E5B66"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Magnetic Field",
+    "hexCode": "#555C5E"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Darkened Puddle",
+    "hexCode": "#4E5A60"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Intense Gunmetal",
+    "hexCode": "#505354"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Black Sable",
+    "hexCode": "#46545C"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Forged Metal",
+    "hexCode": "#4F5050"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Noble Grey",
+    "hexCode": "#4D4F52"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Darkened Storm",
+    "hexCode": "#494D52"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Darkened Storm",
+    "hexCode": "#494D52"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Krimson Lake",
+    "hexCode": "#394A53"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Ink Explosion",
+    "hexCode": "#364A55"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Light'S Out",
+    "hexCode": "#424748"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Newspaper Ink",
+    "hexCode": "#3D454D"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Intense Ink",
+    "hexCode": "#3D4448"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Fantasy Space",
+    "hexCode": "#3F3E3E"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Skylight Darkness",
+    "hexCode": "#3C3E3E"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Deep Onyx",
+    "hexCode": "#3A3A39"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Grey Flow",
+    "hexCode": "#36393A"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Black Mica",
+    "hexCode": "#343639"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Black Mica",
+    "hexCode": "#343639"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Soft Soot",
+    "hexCode": "#363635"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Deep Lead",
+    "hexCode": "#343333"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Dark Secret",
+    "hexCode": "#2C2B2B"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Arctic Majesty",
+    "hexCode": "#ECEADF"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Wentworth White",
+    "hexCode": "#EBE9E0"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Eternal Snowdrop",
+    "hexCode": "#E7E6DD"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Lake of Grey",
+    "hexCode": "#DCDFD8"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Grey Dunes",
+    "hexCode": "#DEDDD3"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Spider'S Web",
+    "hexCode": "#DDDCD3"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Steeplechase",
+    "hexCode": "#D7DAD5"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Simplicity Stone",
+    "hexCode": "#E0DBCB"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Chelsea Fog",
+    "hexCode": "#D5DAD5"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Mushroom Morning",
+    "hexCode": "#DEDACB"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Mushroom Morning",
+    "hexCode": "#DEDACB"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Mushroom Morning",
+    "hexCode": "#DEDACB"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Awakening Feel",
+    "hexCode": "#D6D5CB"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Awakening Feel",
+    "hexCode": "#D6D5CB"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Grey Chic",
+    "hexCode": "#D3D3CB"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Blurry Grey",
+    "hexCode": "#CDD4CE"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Oyster Bay",
+    "hexCode": "#D0D0C6"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Quiet Light",
+    "hexCode": "#D5D0BF"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Gentle Tide",
+    "hexCode": "#C6D0C8"
+  },
+  {
+    "brand": "Dulux",
+    "name": "River Revolution",
+    "hexCode": "#D3CDBE"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Massive Elephant",
+    "hexCode": "#C5C7C3"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Antique Sterling",
+    "hexCode": "#C1C2BD"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Miller'S Cove",
+    "hexCode": "#C2C4B5"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Distant Haze",
+    "hexCode": "#BDC4B8"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Tranquil Dawn",
+    "hexCode": "#BDC3B9"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Tranquil Dawn 45GY 55/052",
+    "hexCode": "#BDC3B9"
+  },
+  {
+    "brand": "Dulux",
+    "name": "TRANQUIL DAWN",
+    "hexCode": "#BDC3B9"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Tranquil Dawn",
+    "hexCode": "#BDC3B9"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Grey Jeans",
+    "hexCode": "#BDC3B9"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Furry Flush",
+    "hexCode": "#C0C1B5"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Souvenir",
+    "hexCode": "#B8BFBA"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Silver Sensation",
+    "hexCode": "#B5BBB5"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Silver Lace Vine",
+    "hexCode": "#B7B8A7"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Aged Stucco",
+    "hexCode": "#B6B4A9"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Pewter Grey",
+    "hexCode": "#B7B3A8"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Roman Sensation",
+    "hexCode": "#B7B2A4"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Grey Calm",
+    "hexCode": "#B2B1A5"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Dust Day",
+    "hexCode": "#A9B4AB"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Kaki Daylight",
+    "hexCode": "#AFB3A5"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Kaki Daylight",
+    "hexCode": "#AFB3A5"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Wexford Fog",
+    "hexCode": "#A4A7A1"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Silverlawn",
+    "hexCode": "#A7A89C"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Pepper Tree",
+    "hexCode": "#9DA5A0"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Morning Pebble",
+    "hexCode": "#9DA298"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Heather Grey",
+    "hexCode": "#9C9B8E"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Las Caux Cave",
+    "hexCode": "#9E998C"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Elephant Tail",
+    "hexCode": "#9C968B"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Relaxing Mood",
+    "hexCode": "#8F988F"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Misty Morning",
+    "hexCode": "#94968A"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Team Grey",
+    "hexCode": "#949488"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Thundercloud",
+    "hexCode": "#838C86"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Whetstone",
+    "hexCode": "#878A83"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Grey Mountain",
+    "hexCode": "#8A8376"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Otter Silver",
+    "hexCode": "#7F847F"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Iconic Grey",
+    "hexCode": "#818278"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Mouse Tail",
+    "hexCode": "#7B8178"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Mouse Tail",
+    "hexCode": "#7B8178"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Grey Fur",
+    "hexCode": "#7F7B73"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Ellie",
+    "hexCode": "#757E78"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Plateau Grey",
+    "hexCode": "#7D7668"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Calming Grey",
+    "hexCode": "#717366"
+  },
+  {
+    "brand": "Dulux",
+    "name": "English Pinewood",
+    "hexCode": "#747264"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Shaded Moss",
+    "hexCode": "#646E64"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Metal Clasp",
+    "hexCode": "#646967"
+  },
+  {
+    "brand": "Dulux",
+    "name": "November Storm",
+    "hexCode": "#68655D"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Metallic Touch",
+    "hexCode": "#616760"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Spheric Winter",
+    "hexCode": "#63655D"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Energetic Grey",
+    "hexCode": "#5C615A"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Granite Green",
+    "hexCode": "#5C6258"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Gorgeous Olive",
+    "hexCode": "#575A4C"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Tarnished Iron",
+    "hexCode": "#4F514D"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Pendulum",
+    "hexCode": "#4F5148"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Metropolis",
+    "hexCode": "#47524D"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Slate Dream",
+    "hexCode": "#4C4E48"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Military Mood",
+    "hexCode": "#4E4A45"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Spanish Moss",
+    "hexCode": "#494538"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Mysterious Grey",
+    "hexCode": "#384340"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Tavern Green",
+    "hexCode": "#2D3D39"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Chrysan White",
+    "hexCode": "#F0ECE0"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Morning Dew",
+    "hexCode": "#EBE3D2"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Light Wool",
+    "hexCode": "#E4E0D4"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Lakestone",
+    "hexCode": "#DCD9D2"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Silica",
+    "hexCode": "#E0DACC"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Misty",
+    "hexCode": "#E0DACB"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Cascade",
+    "hexCode": "#DDD7CE"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Country White",
+    "hexCode": "#D6D4CF"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Papyrus Iced",
+    "hexCode": "#E1D2C3"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Athene",
+    "hexCode": "#DDD0BE"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Seamist",
+    "hexCode": "#D5D0C3"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Teratai",
+    "hexCode": "#E2CFB7"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Portland",
+    "hexCode": "#C9C7BF"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Mirage",
+    "hexCode": "#CDC7B8"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Malacca",
+    "hexCode": "#D3C0A5"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Brown Eyes",
+    "hexCode": "#CFBFAA"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Gallant Grey",
+    "hexCode": "#C6BFAF"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Sandstone – Ready Mix",
+    "hexCode": "#C5AD91"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Coral Sands",
+    "hexCode": "#BFA78A"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Cinnamon Suede",
+    "hexCode": "#734F3A"
+  },
+  {
+    "brand": "Dulux",
+    "name": "#Dark Grey",
+    "hexCode": "#4A4945"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Mission Brown",
+    "hexCode": "#613E37"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Dark Brown",
+    "hexCode": "#4E423D"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Brown Leather Doff",
+    "hexCode": "#4E3D38"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Brown Leather",
+    "hexCode": "#4B3E3A"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Walnut",
+    "hexCode": "#573630"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Granito Brown",
+    "hexCode": "#3D3230"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Mocha Rich",
+    "hexCode": "#3C302E"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Crisp White Shirt",
+    "hexCode": "#EDEAE6"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Marble Falls",
+    "hexCode": "#F0ECDF"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Prairie Light",
+    "hexCode": "#ECE7E4"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Whisper Bluff",
+    "hexCode": "#F1E8DC"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Nature's Choice",
+    "hexCode": "#ECE9DC"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Precious Spring",
+    "hexCode": "#E7E1D4"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Wood Anemone",
+    "hexCode": "#E3DBD8"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Eternal Beige",
+    "hexCode": "#EBDCCC"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Modern Luxury",
+    "hexCode": "#E3DAD6"
+  },
+  {
+    "brand": "Dulux",
+    "name": "China White",
+    "hexCode": "#E4DDCE"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Inspiring Morning",
+    "hexCode": "#E3DDCF"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Little White Lie",
+    "hexCode": "#DED9D5"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Ivory Flash",
+    "hexCode": "#E6D9CC"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Antarctic Ice",
+    "hexCode": "#E2DDCB"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Eloquent Ivory",
+    "hexCode": "#E8DCC6"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Llama White",
+    "hexCode": "#E4D8CE"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Meeting House",
+    "hexCode": "#E2DBCC"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Cloud Sand",
+    "hexCode": "#E1DACA"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Golden Ground",
+    "hexCode": "#E1DAC7"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Carolina Strand",
+    "hexCode": "#DDD7CD"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Weathered Pebble",
+    "hexCode": "#DDD6C9"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Western Navajo",
+    "hexCode": "#E2D5C0"
+  },
+  {
+    "brand": "Dulux",
+    "name": "White Lilac",
+    "hexCode": "#D8CFCD"
+  },
+  {
+    "brand": "Dulux",
+    "name": "White Lilac",
+    "hexCode": "#D8CFCD"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Tippy Taupe",
+    "hexCode": "#E1CFC3"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Ivory Beige",
+    "hexCode": "#E3D1BF"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Pillar",
+    "hexCode": "#DDD3C2"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Desert Floor",
+    "hexCode": "#E4D2BC"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Spheric Beige",
+    "hexCode": "#DFD0C2"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Russian White",
+    "hexCode": "#E0D1BF"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Safari Bisque",
+    "hexCode": "#DED0C1"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Mystical",
+    "hexCode": "#DBCEC6"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Egyptian cotton",
+    "hexCode": "#D8D1C5"
+  },
+  {
+    "brand": "Dulux",
+    "name": "European White",
+    "hexCode": "#DCD1C0"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Simply Taupe",
+    "hexCode": "#DBCCC6"
+  },
+  {
+    "brand": "Dulux",
+    "name": "European White",
+    "hexCode": "#DCD1C0"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Silk Moire",
+    "hexCode": "#D8CCC8"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Painter's White",
+    "hexCode": "#D6CEC7"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Your Sanctuary",
+    "hexCode": "#D7CCC7"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Damask Silk",
+    "hexCode": "#DBCFC0"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Your Sanctuary",
+    "hexCode": "#D7CCC7"
+  },
+  {
+    "brand": "Dulux",
+    "name": "White Ritual",
+    "hexCode": "#DECEBE"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Roma Glass",
+    "hexCode": "#D4CCC9"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Lightness Love",
+    "hexCode": "#D5D1C2"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Cameo Stone",
+    "hexCode": "#D5CBC6"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Sahara Drive",
+    "hexCode": "#DBCFBB"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Autumn Haze",
+    "hexCode": "#DCD0B8"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Ionic Green",
+    "hexCode": "#D4CFBC"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Water Chestnut",
+    "hexCode": "#DACAB3"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Classic Neutral",
+    "hexCode": "#DACCB0"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Brazil Nut",
+    "hexCode": "#DDC9B0"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Manilla Tan",
+    "hexCode": "#DAC8B2"
+  },
+  {
+    "brand": "Dulux",
+    "name": "NEPAL NEUTRAL",
+    "hexCode": "#D9C4B6"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Nepal Neutral",
+    "hexCode": "#D9C4B6"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Alencon Lace",
+    "hexCode": "#D6C7B5"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Manuscript",
+    "hexCode": "#D4C9B5"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Sandringham",
+    "hexCode": "#D7C6B4"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Beige Flash",
+    "hexCode": "#D4C5B6"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Mochaccino",
+    "hexCode": "#D6C2B7"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Buffy",
+    "hexCode": "#D3C6B4"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Beachcomber",
+    "hexCode": "#D1C5B7"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Taupe Twist 47YY 62/143",
+    "hexCode": "#D6C9AD"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Taupe Twist",
+    "hexCode": "#D6C9AD"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Taupe Twist",
+    "hexCode": "#D6C9AD"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Taupe Twist",
+    "hexCode": "#D6C9AD"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Sand White",
+    "hexCode": "#CEC5B6"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Fossil Grey",
+    "hexCode": "#CBC4B8"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Fossil Grey",
+    "hexCode": "#CBC4B8"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Pelican Bluff",
+    "hexCode": "#C9BFBD"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Kennett Square",
+    "hexCode": "#CAC0B8"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Kennett Square",
+    "hexCode": "#CAC0B8"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Distant Mountain",
+    "hexCode": "#CBC5B1"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Sandcastle Fall",
+    "hexCode": "#D7C1A8"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Mushroom Cap",
+    "hexCode": "#D4BFA5"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Dapper Tan",
+    "hexCode": "#D7BEA3"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Pink Desert",
+    "hexCode": "#C9B7B7"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Norman Villa Neutral 90YR 53/132",
+    "hexCode": "#D3BAA7"
+  },
+  {
+    "brand": "Dulux",
+    "name": "African Plains",
+    "hexCode": "#CEBEA8"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Norman Villa Neutral",
+    "hexCode": "#D3BAA7"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Grey Lounge",
+    "hexCode": "#CBC0A7"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Pebble Sea",
+    "hexCode": "#C3BDB0"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Olive Walls",
+    "hexCode": "#CCBDA6"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Desert Castle",
+    "hexCode": "#CDBBA6"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Sudan Sand",
+    "hexCode": "#CBBCA6"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Coastal Beige",
+    "hexCode": "#CCB7A8"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Coastal Beige",
+    "hexCode": "#CCB7A8"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Basic Khaki",
+    "hexCode": "#CCB9A4"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Toasty Grey 30YY 51/098",
+    "hexCode": "#C6BAA8"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Toasty Grey",
+    "hexCode": "#C6BAA8"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Bellcourt Castle",
+    "hexCode": "#CABB9E"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Bellcourt Castle",
+    "hexCode": "#CABB9E"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Timescape",
+    "hexCode": "#C6B3AA"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Desert Drive",
+    "hexCode": "#C9B1A8"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Stone Harbor",
+    "hexCode": "#C2B6A9"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Castlestone Rose",
+    "hexCode": "#C4B1AC"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Indian Painting",
+    "hexCode": "#C5B5A7"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Historic Tan",
+    "hexCode": "#CCB798"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Grey Mauve",
+    "hexCode": "#BEB1AB"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Grey Mauve",
+    "hexCode": "#BEB1AB"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Damascan Rose",
+    "hexCode": "#C1ACA9"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Park Loop",
+    "hexCode": "#CEAF96"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Chic Taupe",
+    "hexCode": "#BEAFA6"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Park Loop",
+    "hexCode": "#CEAF96"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Jefferson House",
+    "hexCode": "#C3B198"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Tibet Tan",
+    "hexCode": "#C5AA9B"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Country Barn",
+    "hexCode": "#C9AE91"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Teabag Taste",
+    "hexCode": "#C5AF92"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Stonington Beige",
+    "hexCode": "#BCAE9A"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Obelisk",
+    "hexCode": "#BCAD9A"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Council Bluff",
+    "hexCode": "#BAA79A"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Arcadia House",
+    "hexCode": "#B5AC99"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Naughty Neutral",
+    "hexCode": "#B4A4A0"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Camelcoat",
+    "hexCode": "#C5AA88"
+  },
+  {
+    "brand": "Dulux",
+    "name": "CAMEL COAT",
+    "hexCode": "#C5AA88"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Pressed Rose",
+    "hexCode": "#B5A49D"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Hudson River Stone",
+    "hexCode": "#C1A28B"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Montana Tan",
+    "hexCode": "#B7A78C"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Highland Plains",
+    "hexCode": "#BEA488"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Glowing Brown",
+    "hexCode": "#B59F91"
+  },
+  {
+    "brand": "Dulux",
+    "name": "English Ale",
+    "hexCode": "#B5A08F"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Potter's Clay",
+    "hexCode": "#AFA490"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Elegant Mud",
+    "hexCode": "#B0A290"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Palm Springs Tan",
+    "hexCode": "#B3A18C"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Olive Wash",
+    "hexCode": "#AAA48F"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Evening Thunder",
+    "hexCode": "#ABA18D"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Museworthy",
+    "hexCode": "#A99898"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Heron Grey",
+    "hexCode": "#AB9E8E"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Taupewood",
+    "hexCode": "#A8998E"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Brownington Court",
+    "hexCode": "#BA977C"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Brownington Court",
+    "hexCode": "#BA977C"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Surrey Beige",
+    "hexCode": "#B29C7D"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Violet Hush",
+    "hexCode": "#A78E8E"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Sanderling",
+    "hexCode": "#B1937D"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Deacon'S Bench",
+    "hexCode": "#AA967E"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Tumbleweed Trail",
+    "hexCode": "#A7967E"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Dusty Canyon",
+    "hexCode": "#AA8E7F"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Chocolate Bubble",
+    "hexCode": "#AB9279"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Ancient Tradition",
+    "hexCode": "#A78A84"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Khaki Green",
+    "hexCode": "#9E967E"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Khaki Green",
+    "hexCode": "#9E967E"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Brushwood",
+    "hexCode": "#A09180"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Twisted Twig",
+    "hexCode": "#A79278"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Mocha Mauve",
+    "hexCode": "#A18C82"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Courtyard Stone",
+    "hexCode": "#9D937C"
+  },
+  {
+    "brand": "Dulux",
+    "name": "HEARTWOOD",
+    "hexCode": "#9B8987"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Heart Wood",
+    "hexCode": "#9B8987"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Pictured Rocks",
+    "hexCode": "#9B8987"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Brave Ground",
+    "hexCode": "#9D8E7E"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Brave Ground 10YY 30/106",
+    "hexCode": "#9D8E7E"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Brave Ground",
+    "hexCode": "#9D8E7E"
+  },
+  {
+    "brand": "Dulux",
+    "name": "BRAVE GROUND",
+    "hexCode": "#9D8E7E"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Basketry",
+    "hexCode": "#AA906F"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Wright Stone",
+    "hexCode": "#9D8E7E"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Rabbit Run",
+    "hexCode": "#998C7C"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Pecan Tree",
+    "hexCode": "#9D8B70"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Noah's Ark",
+    "hexCode": "#A08573"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Sweetwood",
+    "hexCode": "#9E8472"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Rocky Earth",
+    "hexCode": "#A1876A"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Urban Earth",
+    "hexCode": "#908874"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Palo Verde",
+    "hexCode": "#918A70"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Spiced Honey",
+    "hexCode": "#A38061"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Spiced Honey",
+    "hexCode": "#A38061"
+  },
+  {
+    "brand": "Dulux",
+    "name": "SPICED HONEY",
+    "hexCode": "#A38061"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Creme Brulee",
+    "hexCode": "#A38061"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Rough Hewn",
+    "hexCode": "#978064"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Sorrel",
+    "hexCode": "#948062"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Hale Village",
+    "hexCode": "#8B7A66"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Ancient Pottery",
+    "hexCode": "#8C7567"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Afternoon Tea",
+    "hexCode": "#9A7259"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Centre Court",
+    "hexCode": "#8B7267"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Coffee Muffin",
+    "hexCode": "#8A7662"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Padre Island",
+    "hexCode": "#9B6D54"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Century Brown",
+    "hexCode": "#8D6E5A"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Century Brown",
+    "hexCode": "#8D6E5A"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Brown Windmill",
+    "hexCode": "#826F63"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Calm Matter",
+    "hexCode": "#8A7455"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Antique Photograph",
+    "hexCode": "#8F6C58"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Lovely Camel",
+    "hexCode": "#806C65"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Moss Agate",
+    "hexCode": "#847558"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Turret Brown",
+    "hexCode": "#826A5C"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Vintage Coins",
+    "hexCode": "#796C61"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Rosemont Hall",
+    "hexCode": "#88625A"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Rosemont Hall",
+    "hexCode": "#88625A"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Play House Plum",
+    "hexCode": "#7B6364"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Goldstone 00YY 19/261",
+    "hexCode": "#906A46"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Goldstone",
+    "hexCode": "#906A46"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Green Grove",
+    "hexCode": "#787256"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Thatched Cottage",
+    "hexCode": "#7C6A55"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Audrey's Auburn",
+    "hexCode": "#7F6359"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Square Dance",
+    "hexCode": "#7C625C"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Light Chocolat",
+    "hexCode": "#7C6655"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Khaki Mists",
+    "hexCode": "#7F6948"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Khaki Mists",
+    "hexCode": "#7F6948"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Monterey Cliffs",
+    "hexCode": "#6E6256"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Birds House",
+    "hexCode": "#6F614F"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Cottage Chocolate",
+    "hexCode": "#765B4D"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Westchester Gold",
+    "hexCode": "#7D623B"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Westchester Gold",
+    "hexCode": "#7D623B"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Coffee Infusion",
+    "hexCode": "#6D5E4D"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Grapevine Wreath",
+    "hexCode": "#71554E"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Brownie Breakfast",
+    "hexCode": "#6B5253"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Charred Timber",
+    "hexCode": "#675750"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Sublime Pencil",
+    "hexCode": "#5B5A58"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Brown Mustache",
+    "hexCode": "#66554D"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Chocolate Muffin",
+    "hexCode": "#63584C"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Gilt Trip",
+    "hexCode": "#745D36"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Precious Pecan",
+    "hexCode": "#7C503A"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Dark Melody",
+    "hexCode": "#5F5A4C"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Olympic Bronze",
+    "hexCode": "#765935"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Loam",
+    "hexCode": "#605948"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Otter Brook",
+    "hexCode": "#6C5141"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Forest Ground",
+    "hexCode": "#625841"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Tall Trees",
+    "hexCode": "#6D5539"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Burrwood",
+    "hexCode": "#5D5447"
+  },
+  {
+    "brand": "Dulux",
+    "name": "American Brownie",
+    "hexCode": "#6C4E3E"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Italian Ochre",
+    "hexCode": "#6B5137"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Tobacco Brown",
+    "hexCode": "#6A4A3E"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Asian Moss",
+    "hexCode": "#645636"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Oak Alley",
+    "hexCode": "#645239"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Bird's Nest",
+    "hexCode": "#664D3B"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Rich Mocha",
+    "hexCode": "#6A4E36"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Touch of Clay",
+    "hexCode": "#5F4546"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Turkish Brown",
+    "hexCode": "#634F35"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Bark",
+    "hexCode": "#5B4A41"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Bark",
+    "hexCode": "#5B4A41"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Authentic Brown",
+    "hexCode": "#5B4941"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Slate Brown",
+    "hexCode": "#594B3F"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Forest Floor",
+    "hexCode": "#5A5335"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Hilarious Henna",
+    "hexCode": "#5A4A3D"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Woodhaven",
+    "hexCode": "#674332"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Elegant Leather",
+    "hexCode": "#57453E"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Bronze Amulet",
+    "hexCode": "#654330"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Pebble Mosaic",
+    "hexCode": "#54473B"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Burnt Bark",
+    "hexCode": "#52483B"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Luxurious Chocolate",
+    "hexCode": "#52463B"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Chippendale",
+    "hexCode": "#5E3E32"
+  },
+  {
+    "brand": "Dulux",
+    "name": "CHIPPENDALE",
+    "hexCode": "#5E3E32"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Fudge Cookie",
+    "hexCode": "#5E3B34"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Tarragon Glory",
+    "hexCode": "#484737"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Gorgeous Oak",
+    "hexCode": "#4A423A"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Chocolate Kiss",
+    "hexCode": "#503E37"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Babbitt Brown",
+    "hexCode": "#5A3732"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Deep Brown",
+    "hexCode": "#4E3D34"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Distant Land",
+    "hexCode": "#4D3F33"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Cocoa Mousse",
+    "hexCode": "#4E3A34"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Espadrille",
+    "hexCode": "#453432"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Scottsdale Brown",
+    "hexCode": "#482E32"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Paper Lantern",
+    "hexCode": "#F0E8DD"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Moths Dust",
+    "hexCode": "#EFE7DC"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Chiffon Drape",
+    "hexCode": "#ECE5DF"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Vintage Wedding",
+    "hexCode": "#EAE5DE"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Wings of a Dove",
+    "hexCode": "#DFDBDA"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Spacious Feeling",
+    "hexCode": "#DBD7D5"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Barley Beige",
+    "hexCode": "#D8D4CE"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Greystone",
+    "hexCode": "#D5CECD"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Renoir Bisque",
+    "hexCode": "#D9CEC4"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Designer Grey",
+    "hexCode": "#D2CFC6"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Unicorn White",
+    "hexCode": "#D5CCC4"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Wayside Inn",
+    "hexCode": "#D2CDC6"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Wayside Inn",
+    "hexCode": "#D2CDC6"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Brave Beige",
+    "hexCode": "#D8CBC0"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Brave Beige",
+    "hexCode": "#D8CBC0"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Whiter Shade",
+    "hexCode": "#CDCBC9"
+  },
+  {
+    "brand": "Dulux",
+    "name": "City Life",
+    "hexCode": "#CECCC3"
+  },
+  {
+    "brand": "Dulux",
+    "name": "City Life",
+    "hexCode": "#CECCC3"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Stone Sensation",
+    "hexCode": "#D2CABF"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Nougat Walls",
+    "hexCode": "#CDC0B9"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Urban Natural",
+    "hexCode": "#C4C0C0"
+  },
+  {
+    "brand": "Dulux",
+    "name": "China Mauve",
+    "hexCode": "#C9BDB7"
+  },
+  {
+    "brand": "Dulux",
+    "name": "McClendon's Pass",
+    "hexCode": "#C5BEBA"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Roma Haze",
+    "hexCode": "#C5BFB9"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Silver Shores",
+    "hexCode": "#BEBCBA"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Grey Feather",
+    "hexCode": "#C4BDB0"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Smoky Sensation",
+    "hexCode": "#BEB4B1"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Burmese Beige",
+    "hexCode": "#C1B8A8"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Light Taupe",
+    "hexCode": "#C0B4AB"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Chinchilla White",
+    "hexCode": "#BAB3AC"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Zeppelin",
+    "hexCode": "#B7B3AC"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Zeppelin",
+    "hexCode": "#B7B3AC"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Gathering Dusk",
+    "hexCode": "#BDB1A6"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Evolving Rocks",
+    "hexCode": "#B7AFA4"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Scroll Beige",
+    "hexCode": "#B6AB9D"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Wood Smoke",
+    "hexCode": "#B0AAA0"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Silver Pendant",
+    "hexCode": "#A19B98"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Fog Grey",
+    "hexCode": "#9F9899"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Fog Grey",
+    "hexCode": "#9F9899"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Hiking Trail",
+    "hexCode": "#A09591"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Urban Road",
+    "hexCode": "#9E9890"
+  },
+  {
+    "brand": "Dulux",
+    "name": "HIKING TRAIL",
+    "hexCode": "#A09591"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Old Monterey",
+    "hexCode": "#9D978F"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Clay Mould",
+    "hexCode": "#A1948C"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Taupe Tower",
+    "hexCode": "#9D948B"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Arrow Wood",
+    "hexCode": "#92897F"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Cobbled Grey",
+    "hexCode": "#867E7D"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Wet Granite",
+    "hexCode": "#807A7C"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Stoney Dream",
+    "hexCode": "#857A74"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Clay Oven",
+    "hexCode": "#847B72"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Smokey Glass",
+    "hexCode": "#857873"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Grey Suede",
+    "hexCode": "#817B73"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Grey Tweed",
+    "hexCode": "#817B72"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Mansard Stone",
+    "hexCode": "#7D7974"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Tangling Clay",
+    "hexCode": "#786D60"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Grey Gimmick",
+    "hexCode": "#6E6867"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Grey Gimmick",
+    "hexCode": "#6E6867"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Sacred Grey",
+    "hexCode": "#6C6965"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Stone Harbour",
+    "hexCode": "#6C645F"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Stone Road",
+    "hexCode": "#6C645F"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Generous Grey",
+    "hexCode": "#676162"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Generous Grey",
+    "hexCode": "#676162"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Midnite Hour",
+    "hexCode": "#66605C"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Grey Squirrel",
+    "hexCode": "#696155"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Steel Shadows",
+    "hexCode": "#5F5654"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Obsidian Glass",
+    "hexCode": "#555656"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Storm Bird",
+    "hexCode": "#53504D"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Forest Black",
+    "hexCode": "#534F49"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Dark Desert",
+    "hexCode": "#54494B"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Dark Desert",
+    "hexCode": "#54494B"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Dazzling Darkness",
+    "hexCode": "#4F4E49"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Thick Smoke",
+    "hexCode": "#514C47"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Coal Crush",
+    "hexCode": "#4D4A4A"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Charcoal Choice",
+    "hexCode": "#48433F"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Charcoal Choice",
+    "hexCode": "#48433F"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Manor House",
+    "hexCode": "#4A413E"
+  },
+  {
+    "brand": "Dulux",
+    "name": "Night Intensity",
+    "hexCode": "#41393B"
+  },
+  {
+    "brand": "Dulux",
+    "name": "The Dark Side",
+    "hexCode": "#3F3934"
   }
 ]

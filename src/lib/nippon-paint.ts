@@ -20,9 +20,18 @@ export async function scrapNipponPaintColors(page: Page) {
 	)
 
 	let colors: Color[] = []
-	for (let index = 1; index < paletteIds.length; index++) {
+	for (let index = 0; index < paletteIds.length; index++) {
+		const paletteId = paletteIds[index]
+		index > 0 &&
+			(await page
+				.locator(
+					`div.colour-family > div.container-fluid > ul > li > a[href$="${paletteId}"]`,
+				)
+				.click())
+		index > 0 && (await page.waitForNavigation({ waitUntil: 'networkidle2' }))
+
 		const colorsInPage = await page.evaluate(async () => {
-			async function extractPalette(element: Element): Promise<Color> {
+			async function extractColor(element: Element): Promise<Color> {
 				const { computedBackgroundToHexCode } = window as any
 				const color: Color = {
 					brand: 'Nippon Paint',
@@ -37,7 +46,7 @@ export async function scrapNipponPaintColors(page: Page) {
 					hexCode: await computedBackgroundToHexCode(
 						getComputedStyle(
 							element.querySelector('.card-image > img') as Element,
-						).background,
+						),
 					),
 				}
 
@@ -46,24 +55,16 @@ export async function scrapNipponPaintColors(page: Page) {
 
 			const colorElements = Array.from(document.querySelectorAll('.card'))
 
-			const data: Color[] = await Promise.all(
+			const colors: Color[] = await Promise.all(
 				colorElements.map(
-					async (colorElement) => await extractPalette(colorElement),
+					async (colorElement) => await extractColor(colorElement),
 				),
 			)
 
-			return data
+			return colors
 		})
 
 		colors = [...colors, ...colorsInPage]
-
-		const paletteId = paletteIds[index]
-		await page
-			.locator(
-				`div.colour-family > div.container-fluid > ul > li > a[href$="${paletteId}"]`,
-			)
-			.click()
-		await page.waitForNavigation({ waitUntil: 'networkidle2' })
 	}
 
 	writeJSONFile('nippon-paint-colors.json', colors)

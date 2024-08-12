@@ -39,18 +39,21 @@ function rgbToHexCode({ r, g, b }: RGB): string {
 	return `#${toHex(r)}${toHex(g)}${toHex(b)}`.toUpperCase()
 }
 
-function computedBackgroundToRGB(style: string): RGB {
-	const [r, g, b] = style.split(')')[0].split('(')[1].split(' ')
+function computedBackgroundToRGB({ background }: CSSStyleDeclaration): RGB {
+	const [r, g, b] = background.split(')')[0].split('(')[1].split(' ')
 
 	return { r: parseInt(r), g: parseInt(g), b: parseInt(b) }
 }
 
-export function computedBackgroundToHexCode(style: string): string {
-	return rgbToHexCode(computedBackgroundToRGB(style))
+export function computedBackgroundToHexCode(
+	declaration: CSSStyleDeclaration,
+): string {
+	return rgbToHexCode(computedBackgroundToRGB(declaration))
 }
 
 export function capitalize(name: string): string {
 	return name
+		.trim()
 		.split(' ')
 		.map(
 			(word) =>
