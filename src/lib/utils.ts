@@ -1,6 +1,6 @@
 import { Page } from 'puppeteer'
 
-import { RGB } from '@/lib/types'
+import { Color, RGB } from '@/lib/types'
 
 export async function isElementExist(page: Page, selector: string) {
 	try {
@@ -40,4 +40,20 @@ export function capitalize(name: string): string {
 				word.charAt(0).toUpperCase() + word.slice(1, word.length).toLowerCase(),
 		)
 		.join(' ')
+}
+
+export async function delay(duration: number) {
+	return new Promise((resolve) => setTimeout(resolve, duration))
+}
+
+export function removeDuplicates(colorDuplicates: Color[]): Color[] {
+	return colorDuplicates.filter(
+		(colorDuplicate, index, colors) =>
+			colors.findIndex(
+				(color) =>
+					colorDuplicate.name === color.name &&
+					colorDuplicate.code === color.code &&
+					colorDuplicate.hexCode === color.hexCode,
+			) === index,
+	)
 }

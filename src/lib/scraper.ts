@@ -4,13 +4,17 @@ import { Page } from 'puppeteer'
 import {
 	DULUX_URL,
 	JOTUN_API,
-	JOTUN_TOTAL_PAGE,
 	JOTUN_URL,
 	NIPPON_PAINT_URL,
 	NO_DROP_URL,
 } from '@/lib/constants'
 import { Color } from '@/lib/types'
-import { capitalize, isElementExist } from '@/lib/utils'
+import {
+	capitalize,
+	delay,
+	isElementExist,
+	removeDuplicates,
+} from '@/lib/utils'
 
 async function scrapDuluxColors(
 	page: Page,
@@ -18,10 +22,11 @@ async function scrapDuluxColors(
 ): Promise<Color[]> {
 	let colors: Color[] = []
 
-	for (const pageId of pageIds) {
-		await page.goto(`${DULUX_URL}/filters/h_${capitalize(pageId)}`, {
-			waitUntil: 'networkidle0',
-		})
+	for (const [index, pageId] of pageIds.entries()) {
+		index > 0 &&
+			(await page.goto(`${DULUX_URL}/filters/h_${capitalize(pageId)}`, {
+				waitUntil: 'networkidle0',
+			}))
 
 		const colorsInPage = await page.evaluate(async () => {
 			async function extractColor(element: Element): Promise<Color> {
@@ -59,11 +64,12 @@ export async function scrapDulux(page: Page) {
 			document.querySelectorAll('[data-component="a20-color-box"]'),
 		).map((element) => element.getAttribute('data-id')),
 	)) as string[]
+
 	const colors = await scrapDuluxColors(page, pageIds)
 
 	writeFileSync(
 		'public/data/dulux-colors.json',
-		JSON.stringify(colors, null, 2),
+		JSON.stringify(removeDuplicates(colors), null, 2),
 		'utf-8',
 	)
 }
@@ -116,13 +122,14 @@ export async function scrapJotun(page: Page) {
 	await page.goto(JOTUN_URL, { waitUntil: 'networkidle0' })
 
 	await page.locator(':scope >>> ::-p-text(Reject All)').click()
+	await delay(1000)
 	await page.locator(':scope >>> ::-p-text(Hapus pencarian)').click()
 
-	for (
-		let index = 0;
-		index < JOTUN_TOTAL_PAGE &&
-		(await isElementExist(page, ':scope >>> ::-p-text(Muat lebih banyak)'));
-		index++
+	while (
+		await isElementExist(
+			page,
+			'[class^="ColourListstyles__Actions-sc"] > button[type="button"]',
+		)
 	) {
 		await page.locator(':scope >>> ::-p-text(Muat lebih banyak)').click()
 
@@ -136,7 +143,7 @@ export async function scrapJotun(page: Page) {
 
 	writeFileSync(
 		'public/data/jotun-colors.json',
-		JSON.stringify(colors, null, 2),
+		JSON.stringify(removeDuplicates(colors), null, 2),
 		'utf-8',
 	)
 }
@@ -147,10 +154,10 @@ async function scrapNipponPaintColors(
 ): Promise<Color[]> {
 	let colors: Color[] = []
 
-	for (const pageId of pageIds) {
-		await page.goto(`${NIPPON_PAINT_URL}${pageId}/`, {
-			waitUntil: 'networkidle0',
-		})
+	for (const [index, pageId] of pageIds.entries()) {
+		index > 0 &&
+			(await page.locator(`a[href="${NIPPON_PAINT_URL}${pageId}"]`).click())
+		index > 0 && (await page.waitForNavigation({ waitUntil: 'networkidle0' }))
 
 		const colorsInPage = await page.evaluate(async () => {
 			async function extractColor(element: Element): Promise<Color> {
@@ -211,7 +218,7 @@ export async function scrapNipponPaint(page: Page) {
 
 	writeFileSync(
 		'public/data/nippon-paint-colors.json',
-		JSON.stringify(colors, null, 2),
+		JSON.stringify(removeDuplicates(colors), null, 2),
 		'utf-8',
 	)
 }
@@ -281,7 +288,7 @@ export async function scrapNoDrop(page: Page) {
 
 	writeFileSync(
 		'public/data/no-drop-colors.json',
-		JSON.stringify(colors, null, 2),
+		JSON.stringify(removeDuplicates(colors), null, 2),
 		'utf-8',
 	)
 }
